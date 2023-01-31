@@ -1,0 +1,8310 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.000",
+   "id": "HEAD",
+   "language": null,
+   "lines": []
+  },
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.840",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "Brief, Governor Clinton."
+   ]
+  },
+  {
+   "begin": "0.840",
+   "children": [],
+   "end": "1.040",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "Thank you."
+   ]
+  },
+  {
+   "begin": "1.040",
+   "children": [],
+   "end": "1.900",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "We have a question right here."
+   ]
+  },
+  {
+   "begin": "1.900",
+   "children": [],
+   "end": "2.720",
+   "id": "n000001",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2.720",
+   "children": [],
+   "end": "3.040",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "Yes."
+   ]
+  },
+  {
+   "begin": "3.040",
+   "children": [],
+   "end": "8.000",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "How has the national debt personally affected each of your lives?"
+   ]
+  },
+  {
+   "begin": "8.000",
+   "children": [],
+   "end": "17.120",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "And if it hasn't, how can you honestly find a cure for the economic problems of the common people if you have no experience in what's ailing them?"
+   ]
+  },
+  {
+   "begin": "17.120",
+   "children": [],
+   "end": "20.560",
+   "id": "n000002",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "20.560",
+   "children": [],
+   "end": "21.640",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "May I answer that?"
+   ]
+  },
+  {
+   "begin": "21.640",
+   "children": [],
+   "end": "24.220",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "Well, Mr. Perot -- yes, of course."
+   ]
+  },
+  {
+   "begin": "24.220",
+   "children": [],
+   "end": "25.240",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "Who do you want to start with?"
+   ]
+  },
+  {
+   "begin": "25.240",
+   "children": [],
+   "end": "26.540",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "My question is for each of you, so-"
+   ]
+  },
+  {
+   "begin": "26.540",
+   "children": [],
+   "end": "32.460",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "It caused me to disrupt my private life and my business to get involved in this activity."
+   ]
+  },
+  {
+   "begin": "32.460",
+   "children": [],
+   "end": "33.240",
+   "id": "n000003",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "33.240",
+   "children": [],
+   "end": "35.240",
+   "id": "f000012",
+   "language": "en",
+   "lines": [
+    "That's how much I care about it."
+   ]
+  },
+  {
+   "begin": "35.240",
+   "children": [],
+   "end": "43.400",
+   "id": "f000013",
+   "language": "en",
+   "lines": [
+    "And believe me, if you knew my family and if you knew the private life I have, you would agree in a minute that that's a whole lot more fun than getting involved in politics."
+   ]
+  },
+  {
+   "begin": "43.400",
+   "children": [],
+   "end": "45.420",
+   "id": "f000014",
+   "language": "en",
+   "lines": [
+    "But I have lived the American dream."
+   ]
+  },
+  {
+   "begin": "45.420",
+   "children": [],
+   "end": "47.600",
+   "id": "f000015",
+   "language": "en",
+   "lines": [
+    "I came from very modest background."
+   ]
+  },
+  {
+   "begin": "47.600",
+   "children": [],
+   "end": "55.160",
+   "id": "f000016",
+   "language": "en",
+   "lines": [
+    "Nobody's been luckier than I've been, all the way across the spectrum, and the greatest riches of all are my wife and children."
+   ]
+  },
+  {
+   "begin": "55.160",
+   "children": [],
+   "end": "56.720",
+   "id": "f000017",
+   "language": "en",
+   "lines": [
+    "That's true of any family."
+   ]
+  },
+  {
+   "begin": "56.720",
+   "children": [],
+   "end": "65.940",
+   "id": "f000018",
+   "language": "en",
+   "lines": [
+    "But I want all the children -- I want these young people up here to be able to start with nothing but an idea like I did and build a business."
+   ]
+  },
+  {
+   "begin": "65.940",
+   "children": [],
+   "end": "66.360",
+   "id": "n000004",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "66.360",
+   "children": [],
+   "end": "72.940",
+   "id": "f000019",
+   "language": "en",
+   "lines": [
+    "But they've got to have a strong basic economy and if you're in debt, it's like having a ball and chain around you."
+   ]
+  },
+  {
+   "begin": "72.940",
+   "children": [],
+   "end": "80.280",
+   "id": "f000020",
+   "language": "en",
+   "lines": [
+    "I just figure, as lucky as I've been, I owe it to them and I owe it to the future generations and on a very personal basis, I owe it to my children and grandchildren."
+   ]
+  },
+  {
+   "begin": "80.280",
+   "children": [],
+   "end": "83.740",
+   "id": "f000021",
+   "language": "en",
+   "lines": [
+    "Thank you, Mr. Perot."
+   ]
+  },
+  {
+   "begin": "83.740",
+   "children": [],
+   "end": "84.080",
+   "id": "f000022",
+   "language": "en",
+   "lines": [
+    "Mr. President."
+   ]
+  },
+  {
+   "begin": "84.080",
+   "children": [],
+   "end": "87.280",
+   "id": "f000023",
+   "language": "en",
+   "lines": [
+    "Well, I think the national debt affects everybody."
+   ]
+  },
+  {
+   "begin": "87.280",
+   "children": [],
+   "end": "87.680",
+   "id": "f000024",
+   "language": "en",
+   "lines": [
+    "You personally."
+   ]
+  },
+  {
+   "begin": "87.680",
+   "children": [],
+   "end": "90.600",
+   "id": "f000025",
+   "language": "en",
+   "lines": [
+    "Obviously it has a lot to do with interest rates --"
+   ]
+  },
+  {
+   "begin": "90.600",
+   "children": [],
+   "end": "91.000",
+   "id": "n000005",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "91.000",
+   "children": [],
+   "end": "92.040",
+   "id": "f000026",
+   "language": "en",
+   "lines": [
+    "She's saying, \"you personally\""
+   ]
+  },
+  {
+   "begin": "92.040",
+   "children": [],
+   "end": "94.520",
+   "id": "f000027",
+   "language": "en",
+   "lines": [
+    "You, on a personal basis -- how has it affected you?"
+   ]
+  },
+  {
+   "begin": "94.520",
+   "children": [],
+   "end": "96.560",
+   "id": "f000028",
+   "language": "en",
+   "lines": [
+    "Has it affected you personally?"
+   ]
+  },
+  {
+   "begin": "96.560",
+   "children": [],
+   "end": "97.200",
+   "id": "n000006",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "97.200",
+   "children": [],
+   "end": "98.080",
+   "id": "f000029",
+   "language": "en",
+   "lines": [
+    "I'm sure it has."
+   ]
+  },
+  {
+   "begin": "98.080",
+   "children": [],
+   "end": "99.960",
+   "id": "f000030",
+   "language": "en",
+   "lines": [
+    "I love my grandchildren --"
+   ]
+  },
+  {
+   "begin": "99.960",
+   "children": [],
+   "end": "100.560",
+   "id": "f000031",
+   "language": "en",
+   "lines": [
+    "How?"
+   ]
+  },
+  {
+   "begin": "100.560",
+   "children": [],
+   "end": "101.560",
+   "id": "n000007",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "101.560",
+   "children": [],
+   "end": "104.400",
+   "id": "f000032",
+   "language": "en",
+   "lines": [
+    "I want to think that they're going to be able to afford an education."
+   ]
+  },
+  {
+   "begin": "104.400",
+   "children": [],
+   "end": "104.960",
+   "id": "n000008",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "104.960",
+   "children": [],
+   "end": "107.140",
+   "id": "f000033",
+   "language": "en",
+   "lines": [
+    "I think that that's an important part of being a parent."
+   ]
+  },
+  {
+   "begin": "107.140",
+   "children": [],
+   "end": "109.900",
+   "id": "f000034",
+   "language": "en",
+   "lines": [
+    "If the question -- maybe I -- get it wrong."
+   ]
+  },
+  {
+   "begin": "109.900",
+   "children": [],
+   "end": "115.500",
+   "id": "f000035",
+   "language": "en",
+   "lines": [
+    "Are you suggesting that if somebody has means that the national debt doesn't affect them?"
+   ]
+  },
+  {
+   "begin": "115.500",
+   "children": [],
+   "end": "116.160",
+   "id": "f000036",
+   "language": "en",
+   "lines": [
+    "What I'm saying is --"
+   ]
+  },
+  {
+   "begin": "116.160",
+   "children": [],
+   "end": "120.120",
+   "id": "f000037",
+   "language": "en",
+   "lines": [
+    "I'm not sure I get -- help me with the question and I'll try to answer it."
+   ]
+  },
+  {
+   "begin": "120.120",
+   "children": [],
+   "end": "122.400",
+   "id": "f000038",
+   "language": "en",
+   "lines": [
+    "Well, I've had friends that have been laid off from jobs."
+   ]
+  },
+  {
+   "begin": "122.400",
+   "children": [],
+   "end": "122.560",
+   "id": "f000039",
+   "language": "en",
+   "lines": [
+    "Yeah."
+   ]
+  },
+  {
+   "begin": "122.560",
+   "children": [],
+   "end": "126.860",
+   "id": "f000040",
+   "language": "en",
+   "lines": [
+    "I know people who cannot afford to pay the mortgage on their homes, their car payment."
+   ]
+  },
+  {
+   "begin": "126.860",
+   "children": [],
+   "end": "130.160",
+   "id": "f000041",
+   "language": "en",
+   "lines": [
+    "I have personal problems with the national debt."
+   ]
+  },
+  {
+   "begin": "130.160",
+   "children": [],
+   "end": "130.640",
+   "id": "n000009",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "130.640",
+   "children": [],
+   "end": "136.760",
+   "id": "f000042",
+   "language": "en",
+   "lines": [
+    "But how has it affected you and if you have no experience in it, how can you help us, if you don't know what we're feeling?"
+   ]
+  },
+  {
+   "begin": "136.760",
+   "children": [],
+   "end": "143.880",
+   "id": "f000043",
+   "language": "en",
+   "lines": [
+    "I think she means more the recession -- the economic problems today the country faces rather than the deficit."
+   ]
+  },
+  {
+   "begin": "143.880",
+   "children": [],
+   "end": "153.000",
+   "id": "f000044",
+   "language": "en",
+   "lines": [
+    "Well, listen, you ought to be in the White House for a day and hear what I hear and see what I see and read the mail I read and touch the people that I touch from time to time."
+   ]
+  },
+  {
+   "begin": "153.000",
+   "children": [],
+   "end": "155.800",
+   "id": "f000045",
+   "language": "en",
+   "lines": [
+    "I was in the Lomax AME Church."
+   ]
+  },
+  {
+   "begin": "155.800",
+   "children": [],
+   "end": "157.040",
+   "id": "n000010",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "157.040",
+   "children": [],
+   "end": "160.240",
+   "id": "f000046",
+   "language": "en",
+   "lines": [
+    "It's a black church just outside of Washington, DC."
+   ]
+  },
+  {
+   "begin": "160.240",
+   "children": [],
+   "end": "160.840",
+   "id": "n000011",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "160.840",
+   "children": [],
+   "end": "170.900",
+   "id": "f000047",
+   "language": "en",
+   "lines": [
+    "And I read in the bulletin about teenage pregnancies, about the difficulties that families are having to make ends meet."
+   ]
+  },
+  {
+   "begin": "170.900",
+   "children": [],
+   "end": "172.460",
+   "id": "f000048",
+   "language": "en",
+   "lines": [
+    "I talk to parents."
+   ]
+  },
+  {
+   "begin": "172.460",
+   "children": [],
+   "end": "173.000",
+   "id": "n000012",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "173.000",
+   "children": [],
+   "end": "174.280",
+   "id": "f000049",
+   "language": "en",
+   "lines": [
+    "I mean, you've got to care."
+   ]
+  },
+  {
+   "begin": "174.280",
+   "children": [],
+   "end": "174.880",
+   "id": "n000013",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "174.880",
+   "children": [],
+   "end": "177.800",
+   "id": "f000050",
+   "language": "en",
+   "lines": [
+    "Everybody cares if people aren't doing well."
+   ]
+  },
+  {
+   "begin": "177.800",
+   "children": [],
+   "end": "181.000",
+   "id": "f000051",
+   "language": "en",
+   "lines": [
+    "But I don't think it's fair to say, you haven't had cancer."
+   ]
+  },
+  {
+   "begin": "181.000",
+   "children": [],
+   "end": "182.440",
+   "id": "f000052",
+   "language": "en",
+   "lines": [
+    "Therefore, you don't know what's it like."
+   ]
+  },
+  {
+   "begin": "182.440",
+   "children": [],
+   "end": "183.000",
+   "id": "n000014",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "183.000",
+   "children": [],
+   "end": "188.320",
+   "id": "f000053",
+   "language": "en",
+   "lines": [
+    "I don't think it's fair to say, you know, whatever it is, that if you haven't been hit by it personally."
+   ]
+  },
+  {
+   "begin": "188.320",
+   "children": [],
+   "end": "188.760",
+   "id": "n000015",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "188.760",
+   "children": [],
+   "end": "196.400",
+   "id": "f000054",
+   "language": "en",
+   "lines": [
+    "But everybody's affected by the debt because of the tremendous interest that goes into paying on that debt everything's more expensive."
+   ]
+  },
+  {
+   "begin": "196.400",
+   "children": [],
+   "end": "196.880",
+   "id": "n000016",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "196.880",
+   "children": [],
+   "end": "199.860",
+   "id": "f000055",
+   "language": "en",
+   "lines": [
+    "Everything comes out of your pocket and my pocket."
+   ]
+  },
+  {
+   "begin": "199.860",
+   "children": [],
+   "end": "200.600",
+   "id": "f000056",
+   "language": "en",
+   "lines": [
+    "So it's that."
+   ]
+  },
+  {
+   "begin": "200.600",
+   "children": [],
+   "end": "205.220",
+   "id": "f000057",
+   "language": "en",
+   "lines": [
+    "But I think in terms of the recession, of course you feel it when you're president of the US."
+   ]
+  },
+  {
+   "begin": "205.220",
+   "children": [],
+   "end": "211.460",
+   "id": "f000058",
+   "language": "en",
+   "lines": [
+    "And that's why I'm trying to do something about it by stimulating the export, vesting more, better education systems."
+   ]
+  },
+  {
+   "begin": "211.460",
+   "children": [],
+   "end": "212.360",
+   "id": "n000017",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "212.360",
+   "children": [],
+   "end": "212.760",
+   "id": "f000059",
+   "language": "en",
+   "lines": [
+    "Thank you."
+   ]
+  },
+  {
+   "begin": "212.760",
+   "children": [],
+   "end": "214.080",
+   "id": "f000060",
+   "language": "en",
+   "lines": [
+    "I'm glad you clarified it."
+   ]
+  },
+  {
+   "begin": "214.080",
+   "children": [],
+   "end": "214.680",
+   "id": "f000061",
+   "language": "en",
+   "lines": [
+    "Governor Clinton."
+   ]
+  },
+  {
+   "begin": "214.680",
+   "children": [],
+   "end": "217.480",
+   "id": "f000062",
+   "language": "en",
+   "lines": [
+    "Tell me how it's affected you again."
+   ]
+  },
+  {
+   "begin": "217.480",
+   "children": [],
+   "end": "217.620",
+   "id": "f000063",
+   "language": "en",
+   "lines": [
+    "Um --"
+   ]
+  },
+  {
+   "begin": "217.620",
+   "children": [],
+   "end": "219.160",
+   "id": "f000064",
+   "language": "en",
+   "lines": [
+    "You know people who've lost their jobs and lost their homes?"
+   ]
+  },
+  {
+   "begin": "219.160",
+   "children": [],
+   "end": "221.080",
+   "id": "f000065",
+   "language": "en",
+   "lines": [
+    "Well, yeah, uh-huh."
+   ]
+  },
+  {
+   "begin": "221.080",
+   "children": [],
+   "end": "221.600",
+   "id": "n000018",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "221.600",
+   "children": [],
+   "end": "223.680",
+   "id": "f000066",
+   "language": "en",
+   "lines": [
+    "Well, I've been governor of a small state for 12 years."
+   ]
+  },
+  {
+   "begin": "223.680",
+   "children": [],
+   "end": "224.480",
+   "id": "n000019",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "224.480",
+   "children": [],
+   "end": "225.680",
+   "id": "f000067",
+   "language": "en",
+   "lines": [
+    "I'll tell you how it's affected me."
+   ]
+  },
+  {
+   "begin": "225.680",
+   "children": [],
+   "end": "226.560",
+   "id": "n000020",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "226.560",
+   "children": [],
+   "end": "233.960",
+   "id": "f000068",
+   "language": "en",
+   "lines": [
+    "Every year Congress and the president sign laws that make us do more things and gives us less money to do it with."
+   ]
+  },
+  {
+   "begin": "233.960",
+   "children": [],
+   "end": "234.680",
+   "id": "n000021",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "234.680",
+   "children": [],
+   "end": "243.600",
+   "id": "f000069",
+   "language": "en",
+   "lines": [
+    "I see people in my state, middle class people -- their taxes have gone up in Washington and their services have gone down while the wealthy have gotten tax cuts."
+   ]
+  },
+  {
+   "begin": "243.600",
+   "children": [],
+   "end": "244.520",
+   "id": "n000022",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "244.520",
+   "children": [],
+   "end": "251.160",
+   "id": "f000070",
+   "language": "en",
+   "lines": [
+    "I have seen what's happened in this last 4 years when -- in my state, when people lose their jobs there's a good chance I'll know them by their names."
+   ]
+  },
+  {
+   "begin": "251.160",
+   "children": [],
+   "end": "251.720",
+   "id": "n000023",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "251.720",
+   "children": [],
+   "end": "253.800",
+   "id": "f000071",
+   "language": "en",
+   "lines": [
+    "When a factory closes, I know the people who ran it."
+   ]
+  },
+  {
+   "begin": "253.800",
+   "children": [],
+   "end": "254.400",
+   "id": "n000024",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "254.400",
+   "children": [],
+   "end": "257.240",
+   "id": "f000072",
+   "language": "en",
+   "lines": [
+    "When the businesses go bankrupt, I know them."
+   ]
+  },
+  {
+   "begin": "257.240",
+   "children": [],
+   "end": "267.980",
+   "id": "f000073",
+   "language": "en",
+   "lines": [
+    "And I've been out here for 13 months meeting in meetings just like this ever since October, with people like you all over America, people that have lost their jobs, lost their livelihood, lost their health insurance."
+   ]
+  },
+  {
+   "begin": "267.980",
+   "children": [],
+   "end": "268.480",
+   "id": "n000025",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "268.480",
+   "children": [],
+   "end": "273.780",
+   "id": "f000074",
+   "language": "en",
+   "lines": [
+    "What I want you to understand is the national debt is not the only cause of that."
+   ]
+  },
+  {
+   "begin": "273.780",
+   "children": [],
+   "end": "276.900",
+   "id": "f000075",
+   "language": "en",
+   "lines": [
+    "It is because America has not invested in its people."
+   ]
+  },
+  {
+   "begin": "276.900",
+   "children": [],
+   "end": "278.240",
+   "id": "f000076",
+   "language": "en",
+   "lines": [
+    "It is because we have not grown."
+   ]
+  },
+  {
+   "begin": "278.240",
+   "children": [],
+   "end": "278.560",
+   "id": "n000026",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "278.560",
+   "children": [],
+   "end": "281.440",
+   "id": "f000077",
+   "language": "en",
+   "lines": [
+    "It is because we've had 12 years of trickle down economics."
+   ]
+  },
+  {
+   "begin": "281.440",
+   "children": [],
+   "end": "281.880",
+   "id": "n000027",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "281.880",
+   "children": [],
+   "end": "284.240",
+   "id": "f000078",
+   "language": "en",
+   "lines": [
+    "We've gone from first to twelfth in the world in wages."
+   ]
+  },
+  {
+   "begin": "284.240",
+   "children": [],
+   "end": "284.720",
+   "id": "n000028",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "284.720",
+   "children": [],
+   "end": "287.340",
+   "id": "f000079",
+   "language": "en",
+   "lines": [
+    "We've had 4 years where we've produced no private sector jobs."
+   ]
+  },
+  {
+   "begin": "287.340",
+   "children": [],
+   "end": "287.840",
+   "id": "n000029",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "287.840",
+   "children": [],
+   "end": "290.960",
+   "id": "f000080",
+   "language": "en",
+   "lines": [
+    "Most people are working harder for less money than they were making ten years ago."
+   ]
+  },
+  {
+   "begin": "290.960",
+   "children": [],
+   "end": "291.480",
+   "id": "n000030",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "291.480",
+   "children": [],
+   "end": "294.400",
+   "id": "f000081",
+   "language": "en",
+   "lines": [
+    "It is because we are in the grip of a failed economic theory."
+   ]
+  },
+  {
+   "begin": "294.400",
+   "children": [],
+   "end": "294.920",
+   "id": "n000031",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "294.920",
+   "children": [],
+   "end": "304.000",
+   "id": "f000082",
+   "language": "en",
+   "lines": [
+    "And this decision you're about to make better be about what kind of economic theory you want, not just people saying I'm going to go fix it but what are we going to do?"
+   ]
+  },
+  {
+   "begin": "304.000",
+   "children": [],
+   "end": "312.480",
+   "id": "f000083",
+   "language": "en",
+   "lines": [
+    "I think we have to do is invest in American jobs, American education, control American health care costs and bring the American people together again."
+   ]
+  },
+  {
+   "begin": "312.480",
+   "children": [],
+   "end": "312.800",
+   "id": "f000084",
+   "language": "en",
+   "lines": [
+    "Thank you."
+   ]
+  },
+  {
+   "begin": "312.800",
+   "children": [],
+   "end": "314.400",
+   "id": "f000085",
+   "language": "en",
+   "lines": [
+    "Thank you, Governor Clinton."
+   ]
+  },
+  {
+   "begin": "314.400",
+   "children": [],
+   "end": "323.780",
+   "id": "f000086",
+   "language": "en",
+   "lines": [
+    "We are a little more than halfway through this program and I'm glad we're getting the diversity of questions that we are, and I don't want to forget these folks on the wings over here so let's go over here."
+   ]
+  },
+  {
+   "begin": "323.780",
+   "children": [],
+   "end": "324.540",
+   "id": "f000087",
+   "language": "en",
+   "lines": [
+    "Do you have a question?"
+   ]
+  },
+  {
+   "begin": "324.540",
+   "children": [],
+   "end": "324.720",
+   "id": "f000088",
+   "language": "en",
+   "lines": [
+    "Yes, I do."
+   ]
+  },
+  {
+   "begin": "324.720",
+   "children": [],
+   "end": "325.680",
+   "id": "n000032",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "325.680",
+   "children": [],
+   "end": "326.720",
+   "id": "f000089",
+   "language": "en",
+   "lines": [
+    "My name is Ben Smith."
+   ]
+  },
+  {
+   "begin": "326.720",
+   "children": [],
+   "end": "327.120",
+   "id": "n000033",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "327.120",
+   "children": [],
+   "end": "333.840",
+   "id": "f000090",
+   "language": "en",
+   "lines": [
+    "I work in the financial field, counseling retirees, and I'm personally concerned about three major areas."
+   ]
+  },
+  {
+   "begin": "333.840",
+   "children": [],
+   "end": "334.320",
+   "id": "n000034",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "334.320",
+   "children": [],
+   "end": "341.960",
+   "id": "f000091",
+   "language": "en",
+   "lines": [
+    "One is the Social Security Administration or trust fund is projected to be insolvent by the year 2036."
+   ]
+  },
+  {
+   "begin": "341.960",
+   "children": [],
+   "end": "342.520",
+   "id": "n000035",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "342.520",
+   "children": [],
+   "end": "346.680",
+   "id": "f000092",
+   "language": "en",
+   "lines": [
+    "And we funded the trust fund with IOUs in the form of Treasury bonds."
+   ]
+  },
+  {
+   "begin": "346.680",
+   "children": [],
+   "end": "347.320",
+   "id": "n000036",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "347.320",
+   "children": [],
+   "end": "360.120",
+   "id": "f000093",
+   "language": "en",
+   "lines": [
+    "The Pension Guarantee Fund, which backs up our private retirement plans for retirees, is projected to be bankrupt by the year 2026, not to mention the cutbacks by private companies."
+   ]
+  },
+  {
+   "begin": "360.120",
+   "children": [],
+   "end": "360.560",
+   "id": "n000037",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "360.560",
+   "children": [],
+   "end": "365.400",
+   "id": "f000094",
+   "language": "en",
+   "lines": [
+    "And Medicare is projected to be bankrupt maybe as soon as 1997."
+   ]
+  },
+  {
+   "begin": "365.400",
+   "children": [],
+   "end": "365.840",
+   "id": "n000038",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "365.840",
+   "children": [],
+   "end": "379.420",
+   "id": "f000095",
+   "language": "en",
+   "lines": [
+    "And I would like from each of you a specific response as to what you intend to do for retirees relative to these issues, not generalities but specifics because I think they're very disturbing issues."
+   ]
+  },
+  {
+   "begin": "379.420",
+   "children": [],
+   "end": "379.960",
+   "id": "n000039",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "379.960",
+   "children": [],
+   "end": "381.360",
+   "id": "f000096",
+   "language": "en",
+   "lines": [
+    "President Bush, may we start with you?"
+   ]
+  },
+  {
+   "begin": "381.360",
+   "children": [],
+   "end": "388.840",
+   "id": "f000097",
+   "language": "en",
+   "lines": [
+    "Well, the Social Security -- you're an expert and I could, I'm sure, learn from you the details of the Pension Guarantee Fund and the Social Security Fund."
+   ]
+  },
+  {
+   "begin": "388.840",
+   "children": [],
+   "end": "395.320",
+   "id": "f000098",
+   "language": "en",
+   "lines": [
+    "The Social Security system was fixed about 5 years, and I think it's projected out to be sound beyond that."
+   ]
+  },
+  {
+   "begin": "395.320",
+   "children": [],
+   "end": "395.680",
+   "id": "n000040",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "395.680",
+   "children": [],
+   "end": "397.780",
+   "id": "f000099",
+   "language": "en",
+   "lines": [
+    "So at least we have time to work with it."
+   ]
+  },
+  {
+   "begin": "397.780",
+   "children": [],
+   "end": "402.840",
+   "id": "f000100",
+   "language": "en",
+   "lines": [
+    "But on all of these things, a sound economy is the only way to get it going."
+   ]
+  },
+  {
+   "begin": "402.840",
+   "children": [],
+   "end": "403.400",
+   "id": "n000041",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "403.400",
+   "children": [],
+   "end": "408.260",
+   "id": "f000101",
+   "language": "en",
+   "lines": [
+    "Growth in the economy is gonna add to the overall prosperity and wealth."
+   ]
+  },
+  {
+   "begin": "408.260",
+   "children": [],
+   "end": "412.140",
+   "id": "f000102",
+   "language": "en",
+   "lines": [
+    "I can't give you a specific answer on Pension Guarantee Fund."
+   ]
+  },
+  {
+   "begin": "412.140",
+   "children": [],
+   "end": "416.740",
+   "id": "f000103",
+   "language": "en",
+   "lines": [
+    "All I know is that we have firm government credit to guarantee the pensions."
+   ]
+  },
+  {
+   "begin": "416.740",
+   "children": [],
+   "end": "417.200",
+   "id": "n000042",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "417.200",
+   "children": [],
+   "end": "419.100",
+   "id": "f000104",
+   "language": "en",
+   "lines": [
+    "And that is very important."
+   ]
+  },
+  {
+   "begin": "419.100",
+   "children": [],
+   "end": "426.240",
+   "id": "f000105",
+   "language": "en",
+   "lines": [
+    "But it's -- the full faith and credit of the US, in spite of our difficulties, is still pretty good."
+   ]
+  },
+  {
+   "begin": "426.240",
+   "children": [],
+   "end": "426.800",
+   "id": "n000043",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "426.800",
+   "children": [],
+   "end": "428.820",
+   "id": "f000106",
+   "language": "en",
+   "lines": [
+    "It's still the most respected credit."
+   ]
+  },
+  {
+   "begin": "428.820",
+   "children": [],
+   "end": "435.600",
+   "id": "f000107",
+   "language": "en",
+   "lines": [
+    "So I would simply say, as these dates get close, you're going to have to reorganize and refix as we did with the Social Security Fund."
+   ]
+  },
+  {
+   "begin": "435.600",
+   "children": [],
+   "end": "437.840",
+   "id": "f000108",
+   "language": "en",
+   "lines": [
+    "And I think that's the only answer."
+   ]
+  },
+  {
+   "begin": "437.840",
+   "children": [],
+   "end": "448.160",
+   "id": "f000109",
+   "language": "en",
+   "lines": [
+    "But the more immediate answer is to do what this lady was suggesting we do, and that is to get this deficit down and get on without adding to the woes, and then restructure."
+   ]
+  },
+  {
+   "begin": "448.160",
+   "children": [],
+   "end": "448.720",
+   "id": "n000044",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "448.720",
+   "children": [],
+   "end": "455.000",
+   "id": "f000110",
+   "language": "en",
+   "lines": [
+    "One thing I've called for that has been stymied, and I'll keep on working for it, is a whole financial reform legislation."
+   ]
+  },
+  {
+   "begin": "455.000",
+   "children": [],
+   "end": "463.600",
+   "id": "f000111",
+   "language": "en",
+   "lines": [
+    "It is absolutely essential in terms of bringing our banking system and credit system into the new age instead of having it living back in the dark ages."
+   ]
+  },
+  {
+   "begin": "463.600",
+   "children": [],
+   "end": "463.960",
+   "id": "n000045",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "463.960",
+   "children": [],
+   "end": "465.560",
+   "id": "f000112",
+   "language": "en",
+   "lines": [
+    "And it's a big fight."
+   ]
+  },
+  {
+   "begin": "465.560",
+   "children": [],
+   "end": "471.660",
+   "id": "f000113",
+   "language": "en",
+   "lines": [
+    "And I don't want to give my friend Ross another shot at me here but I am fighting with the Congress to get this through."
+   ]
+  },
+  {
+   "begin": "471.660",
+   "children": [],
+   "end": "473.220",
+   "id": "f000114",
+   "language": "en",
+   "lines": [
+    "And you can't just go up and say I'm going to fix it."
+   ]
+  },
+  {
+   "begin": "473.220",
+   "children": [],
+   "end": "476.780",
+   "id": "f000115",
+   "language": "en",
+   "lines": [
+    "You've got some pretty strong-willed guys up there that argue with you."
+   ]
+  },
+  {
+   "begin": "476.780",
+   "children": [],
+   "end": "478.080",
+   "id": "f000116",
+   "language": "en",
+   "lines": [
+    "But that's what the election's about."
+   ]
+  },
+  {
+   "begin": "478.080",
+   "children": [],
+   "end": "478.760",
+   "id": "f000117",
+   "language": "en",
+   "lines": [
+    "I agree with the governor."
+   ]
+  },
+  {
+   "begin": "478.760",
+   "children": [],
+   "end": "479.080",
+   "id": "n000046",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "479.080",
+   "children": [],
+   "end": "480.240",
+   "id": "f000118",
+   "language": "en",
+   "lines": [
+    "That's what the election's about."
+   ]
+  },
+  {
+   "begin": "480.240",
+   "children": [],
+   "end": "480.680",
+   "id": "n000047",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "480.680",
+   "children": [],
+   "end": "487.200",
+   "id": "f000119",
+   "language": "en",
+   "lines": [
+    "And sound fiscal policy is the best answer, I think, to all the three problems you mentioned."
+   ]
+  },
+  {
+   "begin": "487.200",
+   "children": [],
+   "end": "487.600",
+   "id": "f000120",
+   "language": "en",
+   "lines": [
+    "Thank you."
+   ]
+  },
+  {
+   "begin": "487.600",
+   "children": [],
+   "end": "488.080",
+   "id": "n000048",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "488.080",
+   "children": [],
+   "end": "488.800",
+   "id": "f000121",
+   "language": "en",
+   "lines": [
+    "Mr. Perot."
+   ]
+  },
+  {
+   "begin": "488.800",
+   "children": [],
+   "end": "492.560",
+   "id": "f000122",
+   "language": "en",
+   "lines": [
+    "On the broad issue here, when you're trying to solve a problem, you get the best plans."
+   ]
+  },
+  {
+   "begin": "492.560",
+   "children": [],
+   "end": "493.360",
+   "id": "n000049",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "493.360",
+   "children": [],
+   "end": "497.640",
+   "id": "f000123",
+   "language": "en",
+   "lines": [
+    "You have a raging debate about those plans."
+   ]
+  },
+  {
+   "begin": "497.640",
+   "children": [],
+   "end": "498.440",
+   "id": "n000050",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "498.440",
+   "children": [],
+   "end": "501.200",
+   "id": "f000124",
+   "language": "en",
+   "lines": [
+    "Then out of that debate, with leadership, comes consensus."
+   ]
+  },
+  {
+   "begin": "501.200",
+   "children": [],
+   "end": "502.040",
+   "id": "n000051",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "502.040",
+   "children": [],
+   "end": "508.180",
+   "id": "f000125",
+   "language": "en",
+   "lines": [
+    "Then, if the plans are huge and complex like health care, I would urge you to implement pilot programs."
+   ]
+  },
+  {
+   "begin": "508.180",
+   "children": [],
+   "end": "508.920",
+   "id": "n000052",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "508.920",
+   "children": [],
+   "end": "511.320",
+   "id": "f000126",
+   "language": "en",
+   "lines": [
+    "Like the old carpenter says measure twice, cut once."
+   ]
+  },
+  {
+   "begin": "511.320",
+   "children": [],
+   "end": "511.640",
+   "id": "n000053",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "511.640",
+   "children": [],
+   "end": "515.000",
+   "id": "f000127",
+   "language": "en",
+   "lines": [
+    "Let's make sure this thing's as good as we all think it is at the end of the meeting."
+   ]
+  },
+  {
+   "begin": "515.000",
+   "children": [],
+   "end": "515.560",
+   "id": "n000054",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "515.560",
+   "children": [],
+   "end": "521.120",
+   "id": "f000128",
+   "language": "en",
+   "lines": [
+    "Then finally, our government passes laws and freezes the plan in concrete."
+   ]
+  },
+  {
+   "begin": "521.120",
+   "children": [],
+   "end": "527.760",
+   "id": "f000129",
+   "language": "en",
+   "lines": [
+    "Anybody that's ever built a successful business will tell you you optimize, optimize, optimize after you've put something into effect."
+   ]
+  },
+  {
+   "begin": "527.760",
+   "children": [],
+   "end": "531.040",
+   "id": "f000130",
+   "language": "en",
+   "lines": [
+    "The reason Medicare and Medicaid are a mess is we froze them."
+   ]
+  },
+  {
+   "begin": "531.040",
+   "children": [],
+   "end": "532.720",
+   "id": "f000131",
+   "language": "en",
+   "lines": [
+    "Everybody knows how to fix them."
+   ]
+  },
+  {
+   "begin": "532.720",
+   "children": [],
+   "end": "536.560",
+   "id": "f000132",
+   "language": "en",
+   "lines": [
+    "There are people all over the federal government, if they could just touch it with a screwdriver, could fix it."
+   ]
+  },
+  {
+   "begin": "536.560",
+   "children": [],
+   "end": "537.080",
+   "id": "n000055",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "537.080",
+   "children": [],
+   "end": "537.840",
+   "id": "f000133",
+   "language": "en",
+   "lines": [
+    "Now, back over here."
+   ]
+  },
+  {
+   "begin": "537.840",
+   "children": [],
+   "end": "538.480",
+   "id": "n000056",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "538.480",
+   "children": [],
+   "end": "547.800",
+   "id": "f000134",
+   "language": "en",
+   "lines": [
+    "See, we've got a $4 trillion debt and only in America would you have $2.8 trillion of it or 70% of it financed 5 years or less."
+   ]
+  },
+  {
+   "begin": "547.800",
+   "children": [],
+   "end": "548.720",
+   "id": "n000057",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "548.720",
+   "children": [],
+   "end": "552.160",
+   "id": "f000135",
+   "language": "en",
+   "lines": [
+    "Now, that's another thing for you to think about when you go home tonight."
+   ]
+  },
+  {
+   "begin": "552.160",
+   "children": [],
+   "end": "553.560",
+   "id": "f000136",
+   "language": "en",
+   "lines": [
+    "You don't finance long-term debt with short-term money."
+   ]
+  },
+  {
+   "begin": "553.560",
+   "children": [],
+   "end": "555.020",
+   "id": "f000137",
+   "language": "en",
+   "lines": [
+    "Why did our government do it?"
+   ]
+  },
+  {
+   "begin": "555.020",
+   "children": [],
+   "end": "555.920",
+   "id": "f000138",
+   "language": "en",
+   "lines": [
+    "To get the interest rates down."
+   ]
+  },
+  {
+   "begin": "555.920",
+   "children": [],
+   "end": "556.240",
+   "id": "n000058",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "556.240",
+   "children": [],
+   "end": "562.620",
+   "id": "f000139",
+   "language": "en",
+   "lines": [
+    "A 1% increase in interest rates in that $2.8 trillion is $28 billion a year."
+   ]
+  },
+  {
+   "begin": "562.620",
+   "children": [],
+   "end": "575.800",
+   "id": "f000140",
+   "language": "en",
+   "lines": [
+    "Now, when you look at what Germany pays for money and what we don't pay for money, you realize there's quite a spread, right, and you realize this is a temporary thing and there's going to be another sucking sound that runs our deficit through the roof."
+   ]
+  },
+  {
+   "begin": "575.800",
+   "children": [],
+   "end": "576.320",
+   "id": "n000059",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "576.320",
+   "children": [],
+   "end": "582.040",
+   "id": "f000141",
+   "language": "en",
+   "lines": [
+    "You know, and everybody's ducking it so I'm gonna say it, that we are not letting that surplus stay in the bank."
+   ]
+  },
+  {
+   "begin": "582.040",
+   "children": [],
+   "end": "582.440",
+   "id": "n000060",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "582.440",
+   "children": [],
+   "end": "584.840",
+   "id": "f000142",
+   "language": "en",
+   "lines": [
+    "We are not investing that surplus like a pension fund."
+   ]
+  },
+  {
+   "begin": "584.840",
+   "children": [],
+   "end": "585.240",
+   "id": "n000061",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "585.240",
+   "children": [],
+   "end": "589.880",
+   "id": "f000143",
+   "language": "en",
+   "lines": [
+    "We are spending that surplus to make the deficit look smaller to you than it really is."
+   ]
+  },
+  {
+   "begin": "589.880",
+   "children": [],
+   "end": "591.480",
+   "id": "n000062",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "591.480",
+   "children": [],
+   "end": "597.240",
+   "id": "f000144",
+   "language": "en",
+   "lines": [
+    "Now, that -- put you in jail in corporate America if you kept books that way but in government it's just kind of the way things are."
+   ]
+  },
+  {
+   "begin": "597.240",
+   "children": [],
+   "end": "599.740",
+   "id": "f000145",
+   "language": "en",
+   "lines": [
+    "That's because it comes at you, not from you."
+   ]
+  },
+  {
+   "begin": "599.740",
+   "children": [],
+   "end": "603.320",
+   "id": "f000146",
+   "language": "en",
+   "lines": [
+    "Now then, that money needs to be -- they don't even pay interest on it."
+   ]
+  },
+  {
+   "begin": "603.320",
+   "children": [],
+   "end": "605.100",
+   "id": "f000147",
+   "language": "en",
+   "lines": [
+    "They just write a note for the interest."
+   ]
+  },
+  {
+   "begin": "605.100",
+   "children": [],
+   "end": "606.440",
+   "id": "f000148",
+   "language": "en",
+   "lines": [
+    "Mr. Perot, can you wrap it up?"
+   ]
+  },
+  {
+   "begin": "606.440",
+   "children": [],
+   "end": "609.560",
+   "id": "f000149",
+   "language": "en",
+   "lines": [
+    "Do you want to fix the problem or sound-bite it?"
+   ]
+  },
+  {
+   "begin": "609.560",
+   "children": [],
+   "end": "614.840",
+   "id": "f000150",
+   "language": "en",
+   "lines": [
+    "I understand the importance of time but see, here's how we get to this mess we're in."
+   ]
+  },
+  {
+   "begin": "614.840",
+   "children": [],
+   "end": "615.480",
+   "id": "f000151",
+   "language": "en",
+   "lines": [
+    "But we've got to be fair."
+   ]
+  },
+  {
+   "begin": "615.480",
+   "children": [],
+   "end": "616.740",
+   "id": "f000152",
+   "language": "en",
+   "lines": [
+    "This is just 1 of 1000."
+   ]
+  },
+  {
+   "begin": "616.740",
+   "children": [],
+   "end": "621.480",
+   "id": "f000153",
+   "language": "en",
+   "lines": [
+    "Now then, to nail it, there's one way out -- a growing, expanding job base."
+   ]
+  },
+  {
+   "begin": "621.480",
+   "children": [],
+   "end": "622.120",
+   "id": "n000063",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "622.120",
+   "children": [],
+   "end": "627.920",
+   "id": "f000154",
+   "language": "en",
+   "lines": [
+    "A growing, expanding job base to generate the funds and the tax revenues to pay off the mess and rebuild America."
+   ]
+  },
+  {
+   "begin": "627.920",
+   "children": [],
+   "end": "628.360",
+   "id": "n000064",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "628.360",
+   "children": [],
+   "end": "629.240",
+   "id": "f000155",
+   "language": "en",
+   "lines": [
+    "We've got to double-hit."
+   ]
+  },
+  {
+   "begin": "629.240",
+   "children": [],
+   "end": "629.800",
+   "id": "n000065",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "629.800",
+   "children": [],
+   "end": "634.140",
+   "id": "f000156",
+   "language": "en",
+   "lines": [
+    "If we're $4 trillion down, we should have everything perfect, but we don't."
+   ]
+  },
+  {
+   "begin": "634.140",
+   "children": [],
+   "end": "641.800",
+   "id": "f000157",
+   "language": "en",
+   "lines": [
+    "We've got to pay it off and build money to renew it- -spend money to renew it, and that's going to take a growing, expanding job base."
+   ]
+  },
+  {
+   "begin": "641.800",
+   "children": [],
+   "end": "642.200",
+   "id": "n000066",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "642.200",
+   "children": [],
+   "end": "644.920",
+   "id": "f000158",
+   "language": "en",
+   "lines": [
+    "That is priority one in this country."
+   ]
+  },
+  {
+   "begin": "644.920",
+   "children": [],
+   "end": "647.100",
+   "id": "f000159",
+   "language": "en",
+   "lines": [
+    "Put everybody that's breathing to work."
+   ]
+  },
+  {
+   "begin": "647.100",
+   "children": [],
+   "end": "647.520",
+   "id": "n000067",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "647.520",
+   "children": [],
+   "end": "653.160",
+   "id": "f000160",
+   "language": "en",
+   "lines": [
+    "And I'd love to be out of workers and have to import them, like some of our international competitors."
+   ]
+  },
+  {
+   "begin": "653.160",
+   "children": [],
+   "end": "654.120",
+   "id": "f000161",
+   "language": "en",
+   "lines": [
+    "Mr. Perot, I'm sorry."
+   ]
+  },
+  {
+   "begin": "654.120",
+   "children": [],
+   "end": "654.760",
+   "id": "f000162",
+   "language": "en",
+   "lines": [
+    "I'm going to --"
+   ]
+  },
+  {
+   "begin": "654.760",
+   "children": [],
+   "end": "655.360",
+   "id": "f000163",
+   "language": "en",
+   "lines": [
+    "Sorry."
+   ]
+  },
+  {
+   "begin": "655.360",
+   "children": [],
+   "end": "659.500",
+   "id": "f000164",
+   "language": "en",
+   "lines": [
+    "And I don't want to sound-bite you but we are trying to be fair --"
+   ]
+  },
+  {
+   "begin": "659.500",
+   "children": [],
+   "end": "659.680",
+   "id": "f000165",
+   "language": "en",
+   "lines": [
+    "Okay."
+   ]
+  },
+  {
+   "begin": "659.680",
+   "children": [],
+   "end": "660.340",
+   "id": "f000166",
+   "language": "en",
+   "lines": [
+    "-- to everyone."
+   ]
+  },
+  {
+   "begin": "660.340",
+   "children": [],
+   "end": "661.360",
+   "id": "f000167",
+   "language": "en",
+   "lines": [
+    "Absolutely."
+   ]
+  },
+  {
+   "begin": "661.360",
+   "children": [],
+   "end": "662.560",
+   "id": "f000168",
+   "language": "en",
+   "lines": [
+    "I apologize."
+   ]
+  },
+  {
+   "begin": "662.560",
+   "children": [],
+   "end": "663.000",
+   "id": "f000169",
+   "language": "en",
+   "lines": [
+    "All right."
+   ]
+  },
+  {
+   "begin": "663.000",
+   "children": [],
+   "end": "663.520",
+   "id": "f000170",
+   "language": "en",
+   "lines": [
+    "Governor Clinton."
+   ]
+  },
+  {
+   "begin": "663.520",
+   "children": [],
+   "end": "664.280",
+   "id": "n000068",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "664.280",
+   "children": [],
+   "end": "667.520",
+   "id": "f000171",
+   "language": "en",
+   "lines": [
+    "I think I remember the question."
+   ]
+  },
+  {
+   "begin": "667.520",
+   "children": [],
+   "end": "667.521",
+   "id": "f000172",
+   "language": "en",
+   "lines": [
+    "(Laughter.)"
+   ]
+  },
+  {
+   "begin": "667.521",
+   "children": [],
+   "end": "673.040",
+   "id": "f000173",
+   "language": "en",
+   "lines": [
+    "Let me say first of all, I want to answer your specific question but first of all, we all agree that there should be a growing economy."
+   ]
+  },
+  {
+   "begin": "673.040",
+   "children": [],
+   "end": "676.120",
+   "id": "f000174",
+   "language": "en",
+   "lines": [
+    "What you have to decide is who's got the best economic plan."
+   ]
+  },
+  {
+   "begin": "676.120",
+   "children": [],
+   "end": "677.360",
+   "id": "n000069",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "677.360",
+   "children": [],
+   "end": "681.660",
+   "id": "f000175",
+   "language": "en",
+   "lines": [
+    "And we all have ideas out there, and Mr. Bush has a record."
+   ]
+  },
+  {
+   "begin": "681.660",
+   "children": [],
+   "end": "688.280",
+   "id": "f000176",
+   "language": "en",
+   "lines": [
+    "So I don't want you to read my lips and I sure don't want you to read his."
+   ]
+  },
+  {
+   "begin": "688.280",
+   "children": [],
+   "end": "689.480",
+   "id": "f000177",
+   "language": "en",
+   "lines": [
+    "I do hope you will read our plans."
+   ]
+  },
+  {
+   "begin": "689.480",
+   "children": [],
+   "end": "695.140",
+   "id": "f000178",
+   "language": "en",
+   "lines": [
+    "Now, specifically, one, on Medicare, it is not true that everyone knows how to fix it."
+   ]
+  },
+  {
+   "begin": "695.140",
+   "children": [],
+   "end": "699.360",
+   "id": "f000179",
+   "language": "en",
+   "lines": [
+    "There are different ideas -- the Bush plan, the Perot plan, the Clinton -- we have different ideas."
+   ]
+  },
+  {
+   "begin": "699.360",
+   "children": [],
+   "end": "699.720",
+   "id": "n000070",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "699.720",
+   "children": [],
+   "end": "720.800",
+   "id": "f000180",
+   "language": "en",
+   "lines": [
+    "I am convinced, having studied health care for a year hard and talking to hundreds and hundreds of people all across America, that you cannot control the cost of Medicare until you control the cost of private health care and public health care, with managed competition, ceiling on cost, and radical reorganization of the insurance markets."
+   ]
+  },
+  {
+   "begin": "720.800",
+   "children": [],
+   "end": "721.440",
+   "id": "n000071",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "721.440",
+   "children": [],
+   "end": "724.480",
+   "id": "f000181",
+   "language": "en",
+   "lines": [
+    "You've got to do that; we got to get those costs down."
+   ]
+  },
+  {
+   "begin": "724.480",
+   "children": [],
+   "end": "733.160",
+   "id": "f000182",
+   "language": "en",
+   "lines": [
+    "Number 2, with regard to Social Security, that program -- a lot of you may not know this -- it produces a $70 billion surplus a year."
+   ]
+  },
+  {
+   "begin": "733.160",
+   "children": [],
+   "end": "734.120",
+   "id": "n000072",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "734.120",
+   "children": [],
+   "end": "736.400",
+   "id": "f000183",
+   "language": "en",
+   "lines": [
+    "Social Security is in surplus $70 billion."
+   ]
+  },
+  {
+   "begin": "736.400",
+   "children": [],
+   "end": "737.360",
+   "id": "n000073",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "737.360",
+   "children": [],
+   "end": "747.480",
+   "id": "f000184",
+   "language": "en",
+   "lines": [
+    "Six increases in the payroll tax -- that means people with incomes of $51,000 a year or less pay a disproportionally high share of the federal tax burden, which is why I want some middle-class tax relief."
+   ]
+  },
+  {
+   "begin": "747.480",
+   "children": [],
+   "end": "749.040",
+   "id": "f000185",
+   "language": "en",
+   "lines": [
+    "What do we have to do?"
+   ]
+  },
+  {
+   "begin": "749.040",
+   "children": [],
+   "end": "749.440",
+   "id": "n000074",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "749.440",
+   "children": [],
+   "end": "760.080",
+   "id": "f000186",
+   "language": "en",
+   "lines": [
+    "By the time the century turns, we have got to have our deficit under control, we have to work out of so that surplus is building up so when the baby boomers like me retire, we're okay."
+   ]
+  },
+  {
+   "begin": "760.080",
+   "children": [],
+   "end": "760.560",
+   "id": "n000075",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "760.560",
+   "children": [],
+   "end": "765.440",
+   "id": "f000187",
+   "language": "en",
+   "lines": [
+    "Number 3, on the pension funds, I don't know as much about it, but I will say this."
+   ]
+  },
+  {
+   "begin": "765.440",
+   "children": [],
+   "end": "774.640",
+   "id": "f000188",
+   "language": "en",
+   "lines": [
+    "What I would do is to bring in the pension experts of the country, take a look at it, and strengthen the pension requirements further, because it's not just enough to have the guarantee."
+   ]
+  },
+  {
+   "begin": "774.640",
+   "children": [],
+   "end": "775.040",
+   "id": "n000076",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "775.040",
+   "children": [],
+   "end": "777.980",
+   "id": "f000189",
+   "language": "en",
+   "lines": [
+    "We had a guarantee on the S&amp;Ls, right?"
+   ]
+  },
+  {
+   "begin": "777.980",
+   "children": [],
+   "end": "779.040",
+   "id": "f000190",
+   "language": "en",
+   "lines": [
+    "We had a guarantee -- and what happened?"
+   ]
+  },
+  {
+   "begin": "779.040",
+   "children": [],
+   "end": "782.960",
+   "id": "f000191",
+   "language": "en",
+   "lines": [
+    "You picked up a $500-billion bill because of the dumb way the federal government deregulated it."
+   ]
+  },
+  {
+   "begin": "782.960",
+   "children": [],
+   "end": "783.520",
+   "id": "n000077",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "783.520",
+   "children": [],
+   "end": "788.480",
+   "id": "f000192",
+   "language": "en",
+   "lines": [
+    "So I think we are going to have to change and strengthen the pension requirements on private retirement plans."
+   ]
+  },
+  {
+   "begin": "788.480",
+   "children": [],
+   "end": "790.160",
+   "id": "f000193",
+   "language": "en",
+   "lines": [
+    "Thank you."
+   ]
+  },
+  {
+   "begin": "790.160",
+   "children": [],
+   "end": "794.720",
+   "id": "f000194",
+   "language": "en",
+   "lines": [
+    "I think we have a question here on international affairs, hopefully."
+   ]
+  },
+  {
+   "begin": "794.720",
+   "children": [],
+   "end": "796.240",
+   "id": "n000078",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "796.240",
+   "children": [],
+   "end": "807.040",
+   "id": "f000195",
+   "language": "en",
+   "lines": [
+    "We've come to a position where we're in the new world order, and I'd like to know what the candidates feel our position is in this new world order, and what our responsibilities are as a superpower?"
+   ]
+  },
+  {
+   "begin": "807.040",
+   "children": [],
+   "end": "808.520",
+   "id": "n000079",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "808.520",
+   "children": [],
+   "end": "808.840",
+   "id": "f000196",
+   "language": "en",
+   "lines": [
+    "Mr. President."
+   ]
+  },
+  {
+   "begin": "808.840",
+   "children": [],
+   "end": "809.680",
+   "id": "n000080",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "809.680",
+   "children": [],
+   "end": "812.140",
+   "id": "f000197",
+   "language": "en",
+   "lines": [
+    "Well, we have come to that position."
+   ]
+  },
+  {
+   "begin": "812.140",
+   "children": [],
+   "end": "822.360",
+   "id": "f000198",
+   "language": "en",
+   "lines": [
+    "Since I became president, 43, 44 countries have gone democratic, no longer totalitarian, no longer living under dictatorship or communist rule."
+   ]
+  },
+  {
+   "begin": "822.360",
+   "children": [],
+   "end": "822.760",
+   "id": "n000081",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "822.760",
+   "children": [],
+   "end": "824.700",
+   "id": "f000199",
+   "language": "en",
+   "lines": [
+    "This is exciting."
+   ]
+  },
+  {
+   "begin": "824.700",
+   "children": [],
+   "end": "827.480",
+   "id": "f000200",
+   "language": "en",
+   "lines": [
+    "New world order to me means freedom and democracy."
+   ]
+  },
+  {
+   "begin": "827.480",
+   "children": [],
+   "end": "828.160",
+   "id": "n000082",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "828.160",
+   "children": [],
+   "end": "835.080",
+   "id": "f000201",
+   "language": "en",
+   "lines": [
+    "I think we will have a continuing responsibility, as the only remaining superpower, to stay involved."
+   ]
+  },
+  {
+   "begin": "835.080",
+   "children": [],
+   "end": "845.460",
+   "id": "f000202",
+   "language": "en",
+   "lines": [
+    "If we pull back in some isolation and say we don't have to do our share, or more than our share, anymore, I believe you are going to just ask for conflagration that we'll get involved in the future."
+   ]
+  },
+  {
+   "begin": "845.460",
+   "children": [],
+   "end": "854.200",
+   "id": "f000203",
+   "language": "en",
+   "lines": [
+    "NATO, for example, has kept the peace for many, many years, and I want to see us keep fully staffed in NATO so we'll continue to guarantee the peace in Europe."
+   ]
+  },
+  {
+   "begin": "854.200",
+   "children": [],
+   "end": "854.680",
+   "id": "n000083",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "854.680",
+   "children": [],
+   "end": "858.300",
+   "id": "f000204",
+   "language": "en",
+   "lines": [
+    "But the exciting thing is, the fear of nuclear war is down."
+   ]
+  },
+  {
+   "begin": "858.300",
+   "children": [],
+   "end": "864.760",
+   "id": "f000205",
+   "language": "en",
+   "lines": [
+    "And you hear all the bad stuff that's happened on my watch; I hope people will recognize that this is something pretty good for mankind."
+   ]
+  },
+  {
+   "begin": "864.760",
+   "children": [],
+   "end": "865.240",
+   "id": "n000084",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "865.240",
+   "children": [],
+   "end": "868.560",
+   "id": "f000206",
+   "language": "en",
+   "lines": [
+    "I hope they'll think it's good that democracy and freedom is on the move."
+   ]
+  },
+  {
+   "begin": "868.560",
+   "children": [],
+   "end": "874.000",
+   "id": "f000207",
+   "language": "en",
+   "lines": [
+    "And we're going to stay engaged, as long as I'm president, working to improve things."
+   ]
+  },
+  {
+   "begin": "874.000",
+   "children": [],
+   "end": "880.560",
+   "id": "f000208",
+   "language": "en",
+   "lines": [
+    "You know, it's so easy now to say, hey, cut out foreign aid, we got a problem at home."
+   ]
+  },
+  {
+   "begin": "880.560",
+   "children": [],
+   "end": "885.880",
+   "id": "f000209",
+   "language": "en",
+   "lines": [
+    "I think the US has to still have the Statue of Liberty as a symbol, caring for others."
+   ]
+  },
+  {
+   "begin": "885.880",
+   "children": [],
+   "end": "890.520",
+   "id": "f000210",
+   "language": "en",
+   "lines": [
+    "Right this very minute we're sending supplies in to help these little starving kids in Somalia."
+   ]
+  },
+  {
+   "begin": "890.520",
+   "children": [],
+   "end": "891.200",
+   "id": "n000085",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "891.200",
+   "children": [],
+   "end": "898.240",
+   "id": "f000211",
+   "language": "en",
+   "lines": [
+    "It's the US that's taken the lead in humanitarian aid into Bosnia."
+   ]
+  },
+  {
+   "begin": "898.240",
+   "children": [],
+   "end": "899.880",
+   "id": "f000212",
+   "language": "en",
+   "lines": [
+    "We're doing this all around the world."
+   ]
+  },
+  {
+   "begin": "899.880",
+   "children": [],
+   "end": "900.320",
+   "id": "n000086",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "900.320",
+   "children": [],
+   "end": "901.840",
+   "id": "f000213",
+   "language": "en",
+   "lines": [
+    "Yes, we got problems at home."
+   ]
+  },
+  {
+   "begin": "901.840",
+   "children": [],
+   "end": "902.200",
+   "id": "n000087",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "902.200",
+   "children": [],
+   "end": "905.400",
+   "id": "f000214",
+   "language": "en",
+   "lines": [
+    "And I think I got a good plan to help fix those problems at home."
+   ]
+  },
+  {
+   "begin": "905.400",
+   "children": [],
+   "end": "918.320",
+   "id": "f000215",
+   "language": "en",
+   "lines": [
+    "But because of our leadership, because we didn't listen to the freeze -- the nuclear-freeze group, do you remember -- freeze it, back in the late 70s -- freeze, don't touch it; we're going to lock it in now or else we'll have war."
+   ]
+  },
+  {
+   "begin": "918.320",
+   "children": [],
+   "end": "919.000",
+   "id": "n000088",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "919.000",
+   "children": [],
+   "end": "921.120",
+   "id": "f000216",
+   "language": "en",
+   "lines": [
+    "President Reagan said no, peace through strength."
+   ]
+  },
+  {
+   "begin": "921.120",
+   "children": [],
+   "end": "921.600",
+   "id": "n000089",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "921.600",
+   "children": [],
+   "end": "922.320",
+   "id": "f000217",
+   "language": "en",
+   "lines": [
+    "It worked."
+   ]
+  },
+  {
+   "begin": "922.320",
+   "children": [],
+   "end": "922.760",
+   "id": "n000090",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "922.760",
+   "children": [],
+   "end": "942.600",
+   "id": "f000218",
+   "language": "en",
+   "lines": [
+    "The Soviet Union is no more, and now we're working to help them become totally democratic through the Freedom Support Act that I led on, a great Democratic ambassador, Bob Strauss, over there, Jim Baker, all of us got this thing passed -- through cooperation, Ross -- it worked with cooperation, and you're for that, I'm sure, helping Russia become democratic."
+   ]
+  },
+  {
+   "begin": "942.600",
+   "children": [],
+   "end": "949.640",
+   "id": "f000219",
+   "language": "en",
+   "lines": [
+    "So the new world order to me means freedom and democracy, keep engaged, do not pull back into isolation."
+   ]
+  },
+  {
+   "begin": "949.640",
+   "children": [],
+   "end": "949.960",
+   "id": "n000091",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "949.960",
+   "children": [],
+   "end": "955.480",
+   "id": "f000220",
+   "language": "en",
+   "lines": [
+    "And we are the US, and we have a responsibility to lead and to guarantee the security."
+   ]
+  },
+  {
+   "begin": "955.480",
+   "children": [],
+   "end": "955.800",
+   "id": "n000092",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "955.800",
+   "children": [],
+   "end": "964.400",
+   "id": "f000221",
+   "language": "en",
+   "lines": [
+    "If it hadn't been for us, Saddam Hussein would be sitting on top of three-fifths of the oil supply of the world and he'd have nuclear weapons."
+   ]
+  },
+  {
+   "begin": "964.400",
+   "children": [],
+   "end": "965.040",
+   "id": "n000093",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "965.040",
+   "children": [],
+   "end": "966.640",
+   "id": "f000222",
+   "language": "en",
+   "lines": [
+    "And only the US could do this."
+   ]
+  },
+  {
+   "begin": "966.640",
+   "children": [],
+   "end": "967.960",
+   "id": "f000223",
+   "language": "en",
+   "lines": [
+    "Excuse me, Carole."
+   ]
+  },
+  {
+   "begin": "967.960",
+   "children": [],
+   "end": "968.600",
+   "id": "f000224",
+   "language": "en",
+   "lines": [
+    "Thank you."
+   ]
+  },
+  {
+   "begin": "968.600",
+   "children": [],
+   "end": "969.400",
+   "id": "n000094",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "969.400",
+   "children": [],
+   "end": "970.180",
+   "id": "f000225",
+   "language": "en",
+   "lines": [
+    "Mr. Perot."
+   ]
+  },
+  {
+   "begin": "970.180",
+   "children": [],
+   "end": "977.400",
+   "id": "f000226",
+   "language": "en",
+   "lines": [
+    "Well, it's cost-effective to help Russia succeed in its revolution; it's pennies on the dollar compared to going back to the Cold War."
+   ]
+  },
+  {
+   "begin": "977.400",
+   "children": [],
+   "end": "977.800",
+   "id": "n000095",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "977.800",
+   "children": [],
+   "end": "983.120",
+   "id": "f000227",
+   "language": "en",
+   "lines": [
+    "Russia is still very unstable; they could go back to square one, and worse."
+   ]
+  },
+  {
+   "begin": "983.120",
+   "children": [],
+   "end": "984.780",
+   "id": "f000228",
+   "language": "en",
+   "lines": [
+    "All the nuclear weapons are not dismantled."
+   ]
+  },
+  {
+   "begin": "984.780",
+   "children": [],
+   "end": "988.720",
+   "id": "f000229",
+   "language": "en",
+   "lines": [
+    "I am particularly concerned about the intercontinental weapons, the ones that can hit us."
+   ]
+  },
+  {
+   "begin": "988.720",
+   "children": [],
+   "end": "989.320",
+   "id": "n000096",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "989.320",
+   "children": [],
+   "end": "990.960",
+   "id": "f000230",
+   "language": "en",
+   "lines": [
+    "We've got agreements, but they are still there."
+   ]
+  },
+  {
+   "begin": "990.960",
+   "children": [],
+   "end": "991.760",
+   "id": "n000097",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "991.760",
+   "children": [],
+   "end": "999.080",
+   "id": "f000231",
+   "language": "en",
+   "lines": [
+    "With all this instability and breaking into republics, and all the Middle Eastern countries going over there and shopping for weapons, we've got our work cut out for us."
+   ]
+  },
+  {
+   "begin": "999.080",
+   "children": [],
+   "end": "999.400",
+   "id": "n000098",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "999.400",
+   "children": [],
+   "end": "1004.580",
+   "id": "f000232",
+   "language": "en",
+   "lines": [
+    "So we need to stay right on top of that and constructively help them move toward democracy and capitalism."
+   ]
+  },
+  {
+   "begin": "1004.580",
+   "children": [],
+   "end": "1005.960",
+   "id": "n000099",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1005.960",
+   "children": [],
+   "end": "1007.600",
+   "id": "f000233",
+   "language": "en",
+   "lines": [
+    "We have to have money to do that."
+   ]
+  },
+  {
+   "begin": "1007.600",
+   "children": [],
+   "end": "1008.080",
+   "id": "n000100",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1008.080",
+   "children": [],
+   "end": "1009.680",
+   "id": "f000234",
+   "language": "en",
+   "lines": [
+    "We have to have our people at work."
+   ]
+  },
+  {
+   "begin": "1009.680",
+   "children": [],
+   "end": "1012.800",
+   "id": "f000235",
+   "language": "en",
+   "lines": [
+    "See, for 45 years we were preoccupied with the Red Army."
+   ]
+  },
+  {
+   "begin": "1012.800",
+   "children": [],
+   "end": "1013.360",
+   "id": "n000101",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1013.360",
+   "children": [],
+   "end": "1024.020",
+   "id": "f000236",
+   "language": "en",
+   "lines": [
+    "I suggest now that our number one preoccupation is red ink and our country and we've got to put our people back to work so that we can afford to do these things we want to do in Russia."
+   ]
+  },
+  {
+   "begin": "1024.020",
+   "children": [],
+   "end": "1026.160",
+   "id": "f000237",
+   "language": "en",
+   "lines": [
+    "We cannot be the policeman for the world any longer."
+   ]
+  },
+  {
+   "begin": "1026.160",
+   "children": [],
+   "end": "1026.880",
+   "id": "n000102",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1026.880",
+   "children": [],
+   "end": "1029.480",
+   "id": "f000238",
+   "language": "en",
+   "lines": [
+    "We spent $300 billion a year defending the world."
+   ]
+  },
+  {
+   "begin": "1029.480",
+   "children": [],
+   "end": "1030.840",
+   "id": "n000103",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1030.840",
+   "children": [],
+   "end": "1033.200",
+   "id": "f000239",
+   "language": "en",
+   "lines": [
+    "Germany and Japan spend around $30 billion a piece."
+   ]
+  },
+  {
+   "begin": "1033.200",
+   "children": [],
+   "end": "1034.520",
+   "id": "n000104",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1034.520",
+   "children": [],
+   "end": "1040.160",
+   "id": "f000240",
+   "language": "en",
+   "lines": [
+    "If I can get you to defend me and I can spend all my money building industry that's a home run for me."
+   ]
+  },
+  {
+   "begin": "1040.160",
+   "children": [],
+   "end": "1041.080",
+   "id": "n000105",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1041.080",
+   "children": [],
+   "end": "1042.940",
+   "id": "f000241",
+   "language": "en",
+   "lines": [
+    "Coming out of World War II it made sense."
+   ]
+  },
+  {
+   "begin": "1042.940",
+   "children": [],
+   "end": "1045.720",
+   "id": "f000242",
+   "language": "en",
+   "lines": [
+    "Now, the other superpowers need to do their part."
+   ]
+  },
+  {
+   "begin": "1045.720",
+   "children": [],
+   "end": "1046.520",
+   "id": "n000106",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1046.520",
+   "children": [],
+   "end": "1048.060",
+   "id": "f000243",
+   "language": "en",
+   "lines": [
+    "I'll close on this point."
+   ]
+  },
+  {
+   "begin": "1048.060",
+   "children": [],
+   "end": "1051.960",
+   "id": "f000244",
+   "language": "en",
+   "lines": [
+    "You can't be a superpower unless you're an economic superpower."
+   ]
+  },
+  {
+   "begin": "1051.960",
+   "children": [],
+   "end": "1057.920",
+   "id": "f000245",
+   "language": "en",
+   "lines": [
+    "If we're not an economic superpower, we're a used to be and we will no longer be a force for good throughout the world."
+   ]
+  },
+  {
+   "begin": "1057.920",
+   "children": [],
+   "end": "1058.280",
+   "id": "n000107",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1058.280",
+   "children": [],
+   "end": "1066.520",
+   "id": "f000246",
+   "language": "en",
+   "lines": [
+    "And if nothing else gets you excited about rebuilding our industrial base maybe that will because job one is to put our people back to work."
+   ]
+  },
+  {
+   "begin": "1066.520",
+   "children": [],
+   "end": "1069.080",
+   "id": "f000247",
+   "language": "en",
+   "lines": [
+    "Governor Clinton, the president mentioned Saddam Hussein."
+   ]
+  },
+  {
+   "begin": "1069.080",
+   "children": [],
+   "end": "1074.220",
+   "id": "f000248",
+   "language": "en",
+   "lines": [
+    "Your vice president and you have had some words about the president and Saddam Hussein."
+   ]
+  },
+  {
+   "begin": "1074.220",
+   "children": [],
+   "end": "1075.420",
+   "id": "f000249",
+   "language": "en",
+   "lines": [
+    "Would you care to comment?"
+   ]
+  },
+  {
+   "begin": "1075.420",
+   "children": [],
+   "end": "1076.200",
+   "id": "n000108",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1076.200",
+   "children": [],
+   "end": "1077.900",
+   "id": "f000250",
+   "language": "en",
+   "lines": [
+    "I'd rather answer her question first and then I'll be glad to."
+   ]
+  },
+  {
+   "begin": "1077.900",
+   "children": [],
+   "end": "1080.440",
+   "id": "f000251",
+   "language": "en",
+   "lines": [
+    "Because the question you ask is important."
+   ]
+  },
+  {
+   "begin": "1080.440",
+   "children": [],
+   "end": "1082.520",
+   "id": "n000109",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1082.520",
+   "children": [],
+   "end": "1086.360",
+   "id": "f000252",
+   "language": "en",
+   "lines": [
+    "The end of the Cold War brings an incredible opportunity for change."
+   ]
+  },
+  {
+   "begin": "1086.360",
+   "children": [],
+   "end": "1091.240",
+   "id": "f000253",
+   "language": "en",
+   "lines": [
+    "Winds of freedom blowing around the world, Russia demilitarizing."
+   ]
+  },
+  {
+   "begin": "1091.240",
+   "children": [],
+   "end": "1099.120",
+   "id": "f000254",
+   "language": "en",
+   "lines": [
+    "And it also requires us to maintain some continuity -- some bipartisan American commitment to certain principles."
+   ]
+  },
+  {
+   "begin": "1099.120",
+   "children": [],
+   "end": "1100.000",
+   "id": "n000110",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1100.000",
+   "children": [],
+   "end": "1106.340",
+   "id": "f000255",
+   "language": "en",
+   "lines": [
+    "And I would just say there are three things that I would like to say -- number one -- we do have to maintain the world's strongest defense."
+   ]
+  },
+  {
+   "begin": "1106.340",
+   "children": [],
+   "end": "1108.520",
+   "id": "f000256",
+   "language": "en",
+   "lines": [
+    "We may differ about what the elements of that are."
+   ]
+  },
+  {
+   "begin": "1108.520",
+   "children": [],
+   "end": "1109.400",
+   "id": "n000111",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1109.400",
+   "children": [],
+   "end": "1124.440",
+   "id": "f000257",
+   "language": "en",
+   "lines": [
+    "I think that defense needs to be -- with fewer people in permanent armed services but with greater mobility on the land, in the air and on the sea, with a real dedication to continuing development of high technology weaponry and well trained people."
+   ]
+  },
+  {
+   "begin": "1124.440",
+   "children": [],
+   "end": "1125.000",
+   "id": "n000112",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1125.000",
+   "children": [],
+   "end": "1128.280",
+   "id": "f000258",
+   "language": "en",
+   "lines": [
+    "I think we're going to have to work to stop the proliferation of weapons of mass destruction."
+   ]
+  },
+  {
+   "begin": "1128.280",
+   "children": [],
+   "end": "1128.800",
+   "id": "n000113",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1128.800",
+   "children": [],
+   "end": "1133.240",
+   "id": "f000259",
+   "language": "en",
+   "lines": [
+    "Got to keep going until all those nuclear weapons in Russia are gone and the other republics."
+   ]
+  },
+  {
+   "begin": "1133.240",
+   "children": [],
+   "end": "1133.880",
+   "id": "n000114",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1133.880",
+   "children": [],
+   "end": "1138.520",
+   "id": "f000260",
+   "language": "en",
+   "lines": [
+    "Number 2, if you don't rebuild the economic strength of this country at home, we won't be a superpower."
+   ]
+  },
+  {
+   "begin": "1138.520",
+   "children": [],
+   "end": "1139.320",
+   "id": "n000115",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1139.320",
+   "children": [],
+   "end": "1147.180",
+   "id": "f000261",
+   "language": "en",
+   "lines": [
+    "We can't have any more instances like what happened when Mr. Bush went to Japan and the Japanese prime minister said he felt sympathy for our country."
+   ]
+  },
+  {
+   "begin": "1147.180",
+   "children": [],
+   "end": "1147.880",
+   "id": "n000116",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1147.880",
+   "children": [],
+   "end": "1150.720",
+   "id": "f000262",
+   "language": "en",
+   "lines": [
+    "We have to be the strongest economic power in the world."
+   ]
+  },
+  {
+   "begin": "1150.720",
+   "children": [],
+   "end": "1151.680",
+   "id": "n000117",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1151.680",
+   "children": [],
+   "end": "1154.760",
+   "id": "f000263",
+   "language": "en",
+   "lines": [
+    "That's what got me into this race, so we could rebuild the American economy."
+   ]
+  },
+  {
+   "begin": "1154.760",
+   "children": [],
+   "end": "1168.420",
+   "id": "f000264",
+   "language": "en",
+   "lines": [
+    "And number three, we need to be a force for freedom and democracy and we need to use our unique position to support freedom, whether it's in Haiti or in China or in any other place, wherever the seeds of freedom are sprouting."
+   ]
+  },
+  {
+   "begin": "1168.420",
+   "children": [],
+   "end": "1179.000",
+   "id": "f000265",
+   "language": "en",
+   "lines": [
+    "We can't impose it, but we need to nourish it and that's the kind of thing that I would do as president -- follow those three commitments into the future."
+   ]
+  },
+  {
+   "begin": "1179.000",
+   "children": [],
+   "end": "1179.520",
+   "id": "f000266",
+   "language": "en",
+   "lines": [
+    "Okay."
+   ]
+  },
+  {
+   "begin": "1179.520",
+   "children": [],
+   "end": "1180.900",
+   "id": "f000267",
+   "language": "en",
+   "lines": [
+    "We have a question up there."
+   ]
+  },
+  {
+   "begin": "1180.900",
+   "children": [],
+   "end": "1181.360",
+   "id": "f000268",
+   "language": "en",
+   "lines": [
+    "Yes."
+   ]
+  },
+  {
+   "begin": "1181.360",
+   "children": [],
+   "end": "1182.480",
+   "id": "n000118",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1182.480",
+   "children": [],
+   "end": "1185.200",
+   "id": "f000269",
+   "language": "en",
+   "lines": [
+    "We've talked a lot tonight about creating jobs."
+   ]
+  },
+  {
+   "begin": "1185.200",
+   "children": [],
+   "end": "1186.080",
+   "id": "n000119",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1186.080",
+   "children": [],
+   "end": "1196.300",
+   "id": "f000270",
+   "language": "en",
+   "lines": [
+    "But we have an awful lot of high school graduates who don't know how to read a ruler, who cannot fill out an application for a job."
+   ]
+  },
+  {
+   "begin": "1196.300",
+   "children": [],
+   "end": "1203.080",
+   "id": "f000271",
+   "language": "en",
+   "lines": [
+    "How can we create high paying jobs with the education system we have and what would you do to change it?"
+   ]
+  },
+  {
+   "begin": "1203.080",
+   "children": [],
+   "end": "1206.000",
+   "id": "n000120",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1206.000",
+   "children": [],
+   "end": "1208.440",
+   "id": "f000272",
+   "language": "en",
+   "lines": [
+    "Who would like to begin -- the education president?"
+   ]
+  },
+  {
+   "begin": "1208.440",
+   "children": [],
+   "end": "1209.760",
+   "id": "f000273",
+   "language": "en",
+   "lines": [
+    "Go ahead, sir."
+   ]
+  },
+  {
+   "begin": "1209.760",
+   "children": [],
+   "end": "1210.080",
+   "id": "f000274",
+   "language": "en",
+   "lines": [
+    "Yeah, go ahead."
+   ]
+  },
+  {
+   "begin": "1210.080",
+   "children": [],
+   "end": "1213.720",
+   "id": "f000275",
+   "language": "en",
+   "lines": [
+    "I'd be delighted to, because you can't do it the old way."
+   ]
+  },
+  {
+   "begin": "1213.720",
+   "children": [],
+   "end": "1214.560",
+   "id": "n000121",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1214.560",
+   "children": [],
+   "end": "1221.320",
+   "id": "f000276",
+   "language": "en",
+   "lines": [
+    "You can't do it with the school bureaucracy controlling everything and that's why we have a new program that I hope people have heard about."
+   ]
+  },
+  {
+   "begin": "1221.320",
+   "children": [],
+   "end": "1221.880",
+   "id": "n000122",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1221.880",
+   "children": [],
+   "end": "1229.100",
+   "id": "f000277",
+   "language": "en",
+   "lines": [
+    "It's being worked now in 1700 communities -- bypassed Congress on this one, Ross -- 1700 communities across the country."
+   ]
+  },
+  {
+   "begin": "1229.100",
+   "children": [],
+   "end": "1231.520",
+   "id": "f000278",
+   "language": "en",
+   "lines": [
+    "It's called America 2000."
+   ]
+  },
+  {
+   "begin": "1231.520",
+   "children": [],
+   "end": "1239.800",
+   "id": "f000279",
+   "language": "en",
+   "lines": [
+    "And it literally says to the communities, re-invent the schools, not just the bricks and mortar but the curriculum and everything else."
+   ]
+  },
+  {
+   "begin": "1239.800",
+   "children": [],
+   "end": "1240.640",
+   "id": "f000280",
+   "language": "en",
+   "lines": [
+    "Think anew."
+   ]
+  },
+  {
+   "begin": "1240.640",
+   "children": [],
+   "end": "1245.280",
+   "id": "f000281",
+   "language": "en",
+   "lines": [
+    "We have a concept called the New American School Corporation where we're doing exactly that."
+   ]
+  },
+  {
+   "begin": "1245.280",
+   "children": [],
+   "end": "1245.880",
+   "id": "n000123",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1245.880",
+   "children": [],
+   "end": "1251.240",
+   "id": "f000282",
+   "language": "en",
+   "lines": [
+    "And so I believe that we've got to get the power in the hands of the teachers, not the teachers' union."
+   ]
+  },
+  {
+   "begin": "1251.240",
+   "children": [],
+   "end": "1255.220",
+   "id": "f000283",
+   "language": "en",
+   "lines": [
+    "What's happening up there?"
+   ]
+  },
+  {
+   "begin": "1255.220",
+   "children": [],
+   "end": "1258.580",
+   "id": "f000284",
+   "language": "en",
+   "lines": [
+    "(Laughter) And so our America 2000 program also says this."
+   ]
+  },
+  {
+   "begin": "1258.580",
+   "children": [],
+   "end": "1259.600",
+   "id": "n000124",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1259.600",
+   "children": [],
+   "end": "1268.080",
+   "id": "f000285",
+   "language": "en",
+   "lines": [
+    "It says let's give parents the choice of a public, private or public school -- public, private or religious school."
+   ]
+  },
+  {
+   "begin": "1268.080",
+   "children": [],
+   "end": "1270.000",
+   "id": "f000286",
+   "language": "en",
+   "lines": [
+    "And it works- -it works in Milwaukee."
+   ]
+  },
+  {
+   "begin": "1270.000",
+   "children": [],
+   "end": "1270.720",
+   "id": "n000125",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1270.720",
+   "children": [],
+   "end": "1273.540",
+   "id": "f000287",
+   "language": "en",
+   "lines": [
+    "Democratic woman up there -- taking the lead in this."
+   ]
+  },
+  {
+   "begin": "1273.540",
+   "children": [],
+   "end": "1275.560",
+   "id": "f000288",
+   "language": "en",
+   "lines": [
+    "The mayor up there, on the program."
+   ]
+  },
+  {
+   "begin": "1275.560",
+   "children": [],
+   "end": "1275.920",
+   "id": "n000126",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1275.920",
+   "children": [],
+   "end": "1280.360",
+   "id": "f000289",
+   "language": "en",
+   "lines": [
+    "And the schools that are not chosen are improved -- competition does that."
+   ]
+  },
+  {
+   "begin": "1280.360",
+   "children": [],
+   "end": "1280.800",
+   "id": "n000127",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1280.800",
+   "children": [],
+   "end": "1283.040",
+   "id": "f000290",
+   "language": "en",
+   "lines": [
+    "So we've got to innovate through school choice."
+   ]
+  },
+  {
+   "begin": "1283.040",
+   "children": [],
+   "end": "1283.440",
+   "id": "n000128",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1283.440",
+   "children": [],
+   "end": "1286.500",
+   "id": "f000291",
+   "language": "en",
+   "lines": [
+    "We've got to innovate through this America 2000 program."
+   ]
+  },
+  {
+   "begin": "1286.500",
+   "children": [],
+   "end": "1289.080",
+   "id": "f000292",
+   "language": "en",
+   "lines": [
+    "But she is absolutely right."
+   ]
+  },
+  {
+   "begin": "1289.080",
+   "children": [],
+   "end": "1295.080",
+   "id": "f000293",
+   "language": "en",
+   "lines": [
+    "The programs that we've been trying where you control everything and mandate it from Washington don't work."
+   ]
+  },
+  {
+   "begin": "1295.080",
+   "children": [],
+   "end": "1295.400",
+   "id": "n000129",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1295.400",
+   "children": [],
+   "end": "1300.320",
+   "id": "f000294",
+   "language": "en",
+   "lines": [
+    "The governors -- and I believe Governor Clinton was in on this -- but maybe -- I don't want to invoke him here."
+   ]
+  },
+  {
+   "begin": "1300.320",
+   "children": [],
+   "end": "1308.060",
+   "id": "f000295",
+   "language": "en",
+   "lines": [
+    "But they come to me and they say, please get the Congress to stop passing so many mandates telling us how to control things."
+   ]
+  },
+  {
+   "begin": "1308.060",
+   "children": [],
+   "end": "1312.040",
+   "id": "f000296",
+   "language": "en",
+   "lines": [
+    "We know better how to do it in California or Texas or wherever it is."
+   ]
+  },
+  {
+   "begin": "1312.040",
+   "children": [],
+   "end": "1312.440",
+   "id": "n000130",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1312.440",
+   "children": [],
+   "end": "1315.120",
+   "id": "f000297",
+   "language": "en",
+   "lines": [
+    "So this is what our program is all about."
+   ]
+  },
+  {
+   "begin": "1315.120",
+   "children": [],
+   "end": "1320.900",
+   "id": "f000298",
+   "language": "en",
+   "lines": [
+    "And I believe you're right on to something, that if we don't change the education we're not going to be able to compete."
+   ]
+  },
+  {
+   "begin": "1320.900",
+   "children": [],
+   "end": "1325.520",
+   "id": "f000299",
+   "language": "en",
+   "lines": [
+    "Federal funding for education is up substantially -- Pell grants are up."
+   ]
+  },
+  {
+   "begin": "1325.520",
+   "children": [],
+   "end": "1325.880",
+   "id": "n000131",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1325.880",
+   "children": [],
+   "end": "1330.280",
+   "id": "f000300",
+   "language": "en",
+   "lines": [
+    "But it isn't going to get the job done if we don't change K through 12."
+   ]
+  },
+  {
+   "begin": "1330.280",
+   "children": [],
+   "end": "1330.880",
+   "id": "n000132",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1330.880",
+   "children": [],
+   "end": "1332.280",
+   "id": "f000301",
+   "language": "en",
+   "lines": [
+    "Governor Clinton."
+   ]
+  },
+  {
+   "begin": "1332.280",
+   "children": [],
+   "end": "1333.800",
+   "id": "n000133",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1333.800",
+   "children": [],
+   "end": "1339.320",
+   "id": "f000302",
+   "language": "en",
+   "lines": [
+    "First of all, let me say that I've spent more of my time and life on this in the last 12 years than any other issue."
+   ]
+  },
+  {
+   "begin": "1339.320",
+   "children": [],
+   "end": "1340.400",
+   "id": "n000134",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1340.400",
+   "children": [],
+   "end": "1353.560",
+   "id": "f000303",
+   "language": "en",
+   "lines": [
+    "Seventy percent of my state's money goes to the public schools, and I was really honored when Time magazine said that our schools have shown more improvement than any other state in the country except one other -- they named 2 states showing real strides forward in the 80s."
+   ]
+  },
+  {
+   "begin": "1353.560",
+   "children": [],
+   "end": "1357.060",
+   "id": "f000304",
+   "language": "en",
+   "lines": [
+    "So I care a lot about this, and I've spent countless hours in schools."
+   ]
+  },
+  {
+   "begin": "1357.060",
+   "children": [],
+   "end": "1357.640",
+   "id": "n000135",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1357.640",
+   "children": [],
+   "end": "1359.920",
+   "id": "f000305",
+   "language": "en",
+   "lines": [
+    "But let me start with what you said."
+   ]
+  },
+  {
+   "begin": "1359.920",
+   "children": [],
+   "end": "1363.640",
+   "id": "f000306",
+   "language": "en",
+   "lines": [
+    "I agree with some of what Mr. Bush said, but it's nowhere near enough."
+   ]
+  },
+  {
+   "begin": "1363.640",
+   "children": [],
+   "end": "1364.480",
+   "id": "n000136",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1364.480",
+   "children": [],
+   "end": "1377.000",
+   "id": "f000307",
+   "language": "en",
+   "lines": [
+    "We live in a world where what you earn depends on what you can learn, where the average 18- year-old will change jobs 8 times in a lifetime and where none of us can promise any of you that what you now do for a living is absolutely safe from now on."
+   ]
+  },
+  {
+   "begin": "1377.000",
+   "children": [],
+   "end": "1378.200",
+   "id": "n000137",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1378.200",
+   "children": [],
+   "end": "1380.840",
+   "id": "f000308",
+   "language": "en",
+   "lines": [
+    "Nobody running can promise that, there's too much change in the world."
+   ]
+  },
+  {
+   "begin": "1380.840",
+   "children": [],
+   "end": "1381.680",
+   "id": "n000138",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1381.680",
+   "children": [],
+   "end": "1382.520",
+   "id": "f000309",
+   "language": "en",
+   "lines": [
+    "So what should we do?"
+   ]
+  },
+  {
+   "begin": "1382.520",
+   "children": [],
+   "end": "1385.700",
+   "id": "f000310",
+   "language": "en",
+   "lines": [
+    "Let me reel some things off real quick, because you said you wanted specifics."
+   ]
+  },
+  {
+   "begin": "1385.700",
+   "children": [],
+   "end": "1398.080",
+   "id": "f000311",
+   "language": "en",
+   "lines": [
+    "Number one, under my program we would provide matching funds to states to teach everybody with a job to read in the next 5 years and give everybody with a job the chance to get a high school diploma, in big places on the job."
+   ]
+  },
+  {
+   "begin": "1398.080",
+   "children": [],
+   "end": "1398.560",
+   "id": "n000139",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1398.560",
+   "children": [],
+   "end": "1403.380",
+   "id": "f000312",
+   "language": "en",
+   "lines": [
+    "Number 2, we would provide 2-year apprenticeship programs to high school graduates who don't go to college."
+   ]
+  },
+  {
+   "begin": "1403.380",
+   "children": [],
+   "end": "1403.840",
+   "id": "n000140",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1403.840",
+   "children": [],
+   "end": "1405.520",
+   "id": "f000313",
+   "language": "en",
+   "lines": [
+    "And community colleges are on the job."
+   ]
+  },
+  {
+   "begin": "1405.520",
+   "children": [],
+   "end": "1406.120",
+   "id": "n000141",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1406.120",
+   "children": [],
+   "end": "1411.080",
+   "id": "f000314",
+   "language": "en",
+   "lines": [
+    "Number three, we'd open the doors to college education to high school graduates without regard to income."
+   ]
+  },
+  {
+   "begin": "1411.080",
+   "children": [],
+   "end": "1411.480",
+   "id": "n000142",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1411.480",
+   "children": [],
+   "end": "1417.560",
+   "id": "f000315",
+   "language": "en",
+   "lines": [
+    "They could borrow the money and pay it back as a percentage of their income or with a couple of years of service to our nation here at home."
+   ]
+  },
+  {
+   "begin": "1417.560",
+   "children": [],
+   "end": "1418.280",
+   "id": "n000143",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1418.280",
+   "children": [],
+   "end": "1422.560",
+   "id": "f000316",
+   "language": "en",
+   "lines": [
+    "Number 4, we would fully fund the Head Start program to get little kids off to a good start."
+   ]
+  },
+  {
+   "begin": "1422.560",
+   "children": [],
+   "end": "1432.000",
+   "id": "f000317",
+   "language": "en",
+   "lines": [
+    "And, 5, I would have an aggressive program of school reform, more choices -- I favor public schools or these new charter schools -- we can talk about that if you want."
+   ]
+  },
+  {
+   "begin": "1432.000",
+   "children": [],
+   "end": "1432.320",
+   "id": "n000144",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1432.320",
+   "children": [],
+   "end": "1434.880",
+   "id": "f000318",
+   "language": "en",
+   "lines": [
+    "I don't think we should spend tax money on private schools."
+   ]
+  },
+  {
+   "begin": "1434.880",
+   "children": [],
+   "end": "1444.800",
+   "id": "f000319",
+   "language": "en",
+   "lines": [
+    "But I favor public school choice, and I favor radical decentralization in giving more power to better-trained principals and teachers with parent councils to control their schools."
+   ]
+  },
+  {
+   "begin": "1444.800",
+   "children": [],
+   "end": "1445.200",
+   "id": "n000145",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1445.200",
+   "children": [],
+   "end": "1450.400",
+   "id": "f000320",
+   "language": "en",
+   "lines": [
+    "Those things would revolutionize American education and take us to the top economically."
+   ]
+  },
+  {
+   "begin": "1450.400",
+   "children": [],
+   "end": "1451.120",
+   "id": "f000321",
+   "language": "en",
+   "lines": [
+    "Thank you, Governor Clinton."
+   ]
+  },
+  {
+   "begin": "1451.120",
+   "children": [],
+   "end": "1451.940",
+   "id": "f000322",
+   "language": "en",
+   "lines": [
+    "What are they going to cost?"
+   ]
+  },
+  {
+   "begin": "1451.940",
+   "children": [],
+   "end": "1454.000",
+   "id": "f000323",
+   "language": "en",
+   "lines": [
+    "The question is, what is it going to cost?"
+   ]
+  },
+  {
+   "begin": "1454.000",
+   "children": [],
+   "end": "1455.400",
+   "id": "f000324",
+   "language": "en",
+   "lines": [
+    "What is it going to cost?"
+   ]
+  },
+  {
+   "begin": "1455.400",
+   "children": [],
+   "end": "1470.800",
+   "id": "f000325",
+   "language": "en",
+   "lines": [
+    "In 6 years -- I budget all this in my budget, and in 6 years the college program would cost 8 billion dollars over and above what -- the present student loan program costs 4; you pay 3 billion dollars for busted loans, because we don't have an automatic recovery system, and a billion dollars in bank fees."
+   ]
+  },
+  {
+   "begin": "1470.800",
+   "children": [],
+   "end": "1475.560",
+   "id": "f000326",
+   "language": "en",
+   "lines": [
+    "So the net cost would be 8 billion 6 years from now in a trillion-plus budget -- not very much."
+   ]
+  },
+  {
+   "begin": "1475.560",
+   "children": [],
+   "end": "1476.360",
+   "id": "n000146",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1476.360",
+   "children": [],
+   "end": "1479.780",
+   "id": "f000327",
+   "language": "en",
+   "lines": [
+    "The other stuff -- all the other stuff I mentioned -- costs much less than that."
+   ]
+  },
+  {
+   "begin": "1479.780",
+   "children": [],
+   "end": "1482.920",
+   "id": "f000328",
+   "language": "en",
+   "lines": [
+    "The Head Start program full funding would cost about 5 billion more."
+   ]
+  },
+  {
+   "begin": "1482.920",
+   "children": [],
+   "end": "1483.480",
+   "id": "n000147",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1483.480",
+   "children": [],
+   "end": "1504.520",
+   "id": "f000329",
+   "language": "en",
+   "lines": [
+    "And it's all covered in my budget from -- the plans that I've laid out -- from raising taxes on families with incomes above $200,000 and asking foreign corporations to pay the same tax that American corporations do on the same income, from $140 billion in budget cuts, including what I think are very prudent cuts in the defense budget."
+   ]
+  },
+  {
+   "begin": "1504.520",
+   "children": [],
+   "end": "1505.280",
+   "id": "n000148",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1505.280",
+   "children": [],
+   "end": "1506.240",
+   "id": "f000330",
+   "language": "en",
+   "lines": [
+    "It's all covered in the plan."
+   ]
+  },
+  {
+   "begin": "1506.240",
+   "children": [],
+   "end": "1506.520",
+   "id": "f000331",
+   "language": "en",
+   "lines": [
+    "Thank you."
+   ]
+  },
+  {
+   "begin": "1506.520",
+   "children": [],
+   "end": "1508.120",
+   "id": "f000332",
+   "language": "en",
+   "lines": [
+    "Mr. Perot, you on education, please."
+   ]
+  },
+  {
+   "begin": "1508.120",
+   "children": [],
+   "end": "1512.360",
+   "id": "f000333",
+   "language": "en",
+   "lines": [
+    "Yes, I've got scars to show for being around education reform."
+   ]
+  },
+  {
+   "begin": "1512.360",
+   "children": [],
+   "end": "1513.360",
+   "id": "n000149",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1513.360",
+   "children": [],
+   "end": "1519.700",
+   "id": "f000334",
+   "language": "en",
+   "lines": [
+    "And the first word you need to say in every city and state, and just draw a line in the sand, is public schools exist for the benefit of the children."
+   ]
+  },
+  {
+   "begin": "1519.700",
+   "children": [],
+   "end": "1526.540",
+   "id": "f000335",
+   "language": "en",
+   "lines": [
+    "You're going to see a lot of people fall over it, because any time you're spending $199 billion dollars a year, somebody's getting it."
+   ]
+  },
+  {
+   "begin": "1526.540",
+   "children": [],
+   "end": "1527.240",
+   "id": "n000150",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1527.240",
+   "children": [],
+   "end": "1528.700",
+   "id": "f000336",
+   "language": "en",
+   "lines": [
+    "And the children get lost in the process."
+   ]
+  },
+  {
+   "begin": "1528.700",
+   "children": [],
+   "end": "1529.440",
+   "id": "n000151",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1529.440",
+   "children": [],
+   "end": "1530.360",
+   "id": "f000337",
+   "language": "en",
+   "lines": [
+    "So that's step one."
+   ]
+  },
+  {
+   "begin": "1530.360",
+   "children": [],
+   "end": "1531.760",
+   "id": "n000152",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1531.760",
+   "children": [],
+   "end": "1543.620",
+   "id": "f000338",
+   "language": "en",
+   "lines": [
+    "Keep in mind in 1960, when our schools were the envy of the world, we were spending $16 billion on them; now we spend more than any other nation in the world -- 199 billion a year -- and rank at the bottom of the industrialized world in terms of education achievement."
+   ]
+  },
+  {
+   "begin": "1543.620",
+   "children": [],
+   "end": "1544.120",
+   "id": "n000153",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1544.120",
+   "children": [],
+   "end": "1548.000",
+   "id": "f000339",
+   "language": "en",
+   "lines": [
+    "One more time you've bought a front-row box seat and got a third-rate performance."
+   ]
+  },
+  {
+   "begin": "1548.000",
+   "children": [],
+   "end": "1548.720",
+   "id": "n000154",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1548.720",
+   "children": [],
+   "end": "1550.120",
+   "id": "f000340",
+   "language": "en",
+   "lines": [
+    "This is a government that is not serving you."
+   ]
+  },
+  {
+   "begin": "1550.120",
+   "children": [],
+   "end": "1550.560",
+   "id": "n000155",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1550.560",
+   "children": [],
+   "end": "1554.320",
+   "id": "f000341",
+   "language": "en",
+   "lines": [
+    "By and large it should be local -- the more local, the better."
+   ]
+  },
+  {
+   "begin": "1554.320",
+   "children": [],
+   "end": "1554.680",
+   "id": "n000156",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1554.680",
+   "children": [],
+   "end": "1559.580",
+   "id": "f000342",
+   "language": "en",
+   "lines": [
+    "Interesting phenomenon: small towns have good schools, big cities have terrible schools."
+   ]
+  },
+  {
+   "begin": "1559.580",
+   "children": [],
+   "end": "1560.560",
+   "id": "n000157",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1560.560",
+   "children": [],
+   "end": "1572.960",
+   "id": "f000343",
+   "language": "en",
+   "lines": [
+    "The best people in a small town will serve on the school board; you get into big cities, it's political patronage, stepping stones -- you get the job, give your relatives a janitor's job at $57,000 a year, more than the teachers make, and with luck they clean the cafeteria once a week."
+   ]
+  },
+  {
+   "begin": "1572.960",
+   "children": [],
+   "end": "1574.560",
+   "id": "n000158",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1574.560",
+   "children": [],
+   "end": "1575.620",
+   "id": "f000344",
+   "language": "en",
+   "lines": [
+    "Now, you're paying for that."
+   ]
+  },
+  {
+   "begin": "1575.620",
+   "children": [],
+   "end": "1576.700",
+   "id": "f000345",
+   "language": "en",
+   "lines": [
+    "Those schools belong to you."
+   ]
+  },
+  {
+   "begin": "1576.700",
+   "children": [],
+   "end": "1578.640",
+   "id": "f000346",
+   "language": "en",
+   "lines": [
+    "And we put up with that."
+   ]
+  },
+  {
+   "begin": "1578.640",
+   "children": [],
+   "end": "1581.680",
+   "id": "f000347",
+   "language": "en",
+   "lines": [
+    "Now, as long as we put up with that, that's what you're going to get."
+   ]
+  },
+  {
+   "begin": "1581.680",
+   "children": [],
+   "end": "1585.660",
+   "id": "f000348",
+   "language": "en",
+   "lines": [
+    "And these folks are just dividing up 199 billion bucks and the children get lost."
+   ]
+  },
+  {
+   "begin": "1585.660",
+   "children": [],
+   "end": "1586.400",
+   "id": "n000159",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1586.400",
+   "children": [],
+   "end": "1592.360",
+   "id": "f000349",
+   "language": "en",
+   "lines": [
+    "If I could wish for one thing for great public schools, it would be a strong family unit in every home -- nothing will ever replace that."
+   ]
+  },
+  {
+   "begin": "1592.360",
+   "children": [],
+   "end": "1592.680",
+   "id": "n000160",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1592.680",
+   "children": [],
+   "end": "1594.040",
+   "id": "f000350",
+   "language": "en",
+   "lines": [
+    "You say, well, gee, what are you going to do about that?"
+   ]
+  },
+  {
+   "begin": "1594.040",
+   "children": [],
+   "end": "1598.900",
+   "id": "f000351",
+   "language": "en",
+   "lines": [
+    "Well, the White House is a bully pulpit, and I think we ought to be pounding on the table every day."
+   ]
+  },
+  {
+   "begin": "1598.900",
+   "children": [],
+   "end": "1604.080",
+   "id": "f000352",
+   "language": "en",
+   "lines": [
+    "There's nothing -- the most efficient unit of government the world will ever know is a strong loving family unit."
+   ]
+  },
+  {
+   "begin": "1604.080",
+   "children": [],
+   "end": "1605.160",
+   "id": "n000161",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1605.160",
+   "children": [],
+   "end": "1606.520",
+   "id": "f000353",
+   "language": "en",
+   "lines": [
+    "Next thing."
+   ]
+  },
+  {
+   "begin": "1606.520",
+   "children": [],
+   "end": "1608.100",
+   "id": "f000354",
+   "language": "en",
+   "lines": [
+    "You need small schools, not big schools."
+   ]
+  },
+  {
+   "begin": "1608.100",
+   "children": [],
+   "end": "1612.480",
+   "id": "f000355",
+   "language": "en",
+   "lines": [
+    "In a little school everybody is somebody; individualism is very important."
+   ]
+  },
+  {
+   "begin": "1612.480",
+   "children": [],
+   "end": "1613.300",
+   "id": "f000356",
+   "language": "en",
+   "lines": [
+    "These big factories?"
+   ]
+  },
+  {
+   "begin": "1613.300",
+   "children": [],
+   "end": "1614.980",
+   "id": "f000357",
+   "language": "en",
+   "lines": [
+    "Everybody told me they were cost-effective."
+   ]
+  },
+  {
+   "begin": "1614.980",
+   "children": [],
+   "end": "1616.920",
+   "id": "f000358",
+   "language": "en",
+   "lines": [
+    "I did a study on it; they're cost- ineffective."
+   ]
+  },
+  {
+   "begin": "1616.920",
+   "children": [],
+   "end": "1617.480",
+   "id": "n000162",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1617.480",
+   "children": [],
+   "end": "1619.680",
+   "id": "f000359",
+   "language": "en",
+   "lines": [
+    "5000 students -- why is a high school that big?"
+   ]
+  },
+  {
+   "begin": "1619.680",
+   "children": [],
+   "end": "1620.160",
+   "id": "f000360",
+   "language": "en",
+   "lines": [
+    "One reason."
+   ]
+  },
+  {
+   "begin": "1620.160",
+   "children": [],
+   "end": "1620.640",
+   "id": "n000163",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1620.640",
+   "children": [],
+   "end": "1625.880",
+   "id": "f000361",
+   "language": "en",
+   "lines": [
+    "Sooner or later you get 11 more boys that can run like the devil that weigh 250 pounds and they might win district."
+   ]
+  },
+  {
+   "begin": "1625.880",
+   "children": [],
+   "end": "1626.520",
+   "id": "n000164",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1626.520",
+   "children": [],
+   "end": "1628.080",
+   "id": "f000362",
+   "language": "en",
+   "lines": [
+    "Now, that has nothing to do with learning."
+   ]
+  },
+  {
+   "begin": "1628.080",
+   "children": [],
+   "end": "1635.320",
+   "id": "f000363",
+   "language": "en",
+   "lines": [
+    "Secondly, across Texas, typically half of the school day was non-academic pursuits -- in one place it was 35%."
+   ]
+  },
+  {
+   "begin": "1635.320",
+   "children": [],
+   "end": "1637.800",
+   "id": "f000364",
+   "language": "en",
+   "lines": [
+    "In Texas you could have unlimited absences to go to livestock shows."
+   ]
+  },
+  {
+   "begin": "1637.800",
+   "children": [],
+   "end": "1646.900",
+   "id": "f000365",
+   "language": "en",
+   "lines": [
+    "Found a boy -- excuse me, but this gives the flavor -- a boy in Houston kept a chicken in the bathtub in downtown Houston and missed 65 days going to livestock shows."
+   ]
+  },
+  {
+   "begin": "1646.900",
+   "children": [],
+   "end": "1649.160",
+   "id": "f000366",
+   "language": "en",
+   "lines": [
+    "Finally had to come back to school, the chicken lost its feathers."
+   ]
+  },
+  {
+   "begin": "1649.160",
+   "children": [],
+   "end": "1651.080",
+   "id": "f000367",
+   "language": "en",
+   "lines": [
+    "That's the only way we got him back."
+   ]
+  },
+  {
+   "begin": "1651.080",
+   "children": [],
+   "end": "1653.320",
+   "id": "f000368",
+   "language": "en",
+   "lines": [
+    "(Laughter) Now, that's your tax money being wasted."
+   ]
+  },
+  {
+   "begin": "1653.320",
+   "children": [],
+   "end": "1655.480",
+   "id": "f000369",
+   "language": "en",
+   "lines": [
+    "Now, neighborhood schools."
+   ]
+  },
+  {
+   "begin": "1655.480",
+   "children": [],
+   "end": "1658.520",
+   "id": "f000370",
+   "language": "en",
+   "lines": [
+    "It is terrible to bus tiny little children across town."
+   ]
+  },
+  {
+   "begin": "1658.520",
+   "children": [],
+   "end": "1659.000",
+   "id": "n000165",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1659.000",
+   "children": [],
+   "end": "1670.280",
+   "id": "f000371",
+   "language": "en",
+   "lines": [
+    "And it is particularly terrible to take poor tiny little children and wait until the first grade and bus them across town to Mars, where the children know their numbers, know their letters, have had every advantage."
+   ]
+  },
+  {
+   "begin": "1670.280",
+   "children": [],
+   "end": "1672.200",
+   "id": "f000372",
+   "language": "en",
+   "lines": [
+    "At the end of the first day, that little child wants out."
+   ]
+  },
+  {
+   "begin": "1672.200",
+   "children": [],
+   "end": "1673.120",
+   "id": "f000373",
+   "language": "en",
+   "lines": [
+    "I'll close on this."
+   ]
+  },
+  {
+   "begin": "1673.120",
+   "children": [],
+   "end": "1676.320",
+   "id": "f000374",
+   "language": "en",
+   "lines": [
+    "You've got to have world class teachers, world class books."
+   ]
+  },
+  {
+   "begin": "1676.320",
+   "children": [],
+   "end": "1684.960",
+   "id": "f000375",
+   "language": "en",
+   "lines": [
+    "If you ever got close to how textbooks were selected, you wouldn't want to go back the second day."
+   ]
+  },
+  {
+   "begin": "1684.960",
+   "children": [],
+   "end": "1687.480",
+   "id": "f000376",
+   "language": "en",
+   "lines": [
+    "I don't have time to tell you the stories."
+   ]
+  },
+  {
+   "begin": "1687.480",
+   "children": [],
+   "end": "1688.680",
+   "id": "f000377",
+   "language": "en",
+   "lines": [
+    "No, you don't."
+   ]
+  },
+  {
+   "begin": "1688.680",
+   "children": [],
+   "end": "1690.600",
+   "id": "f000378",
+   "language": "en",
+   "lines": [
+    "Finally, if we don't fix this, you're right."
+   ]
+  },
+  {
+   "begin": "1690.600",
+   "children": [],
+   "end": "1693.920",
+   "id": "f000379",
+   "language": "en",
+   "lines": [
+    "We can't have the industries of tomorrow unless we have the best educated workforce."
+   ]
+  },
+  {
+   "begin": "1693.920",
+   "children": [],
+   "end": "1699.200",
+   "id": "f000380",
+   "language": "en",
+   "lines": [
+    "And here you've got, for the disadvantaged children, you've got to have early childhood development."
+   ]
+  },
+  {
+   "begin": "1699.200",
+   "children": [],
+   "end": "1700.280",
+   "id": "f000381",
+   "language": "en",
+   "lines": [
+    "Cheapest money you'll ever spend."
+   ]
+  },
+  {
+   "begin": "1700.280",
+   "children": [],
+   "end": "1700.680",
+   "id": "n000166",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1700.680",
+   "children": [],
+   "end": "1702.580",
+   "id": "f000382",
+   "language": "en",
+   "lines": [
+    "First contact should be with the money when she's pregnant."
+   ]
+  },
+  {
+   "begin": "1702.580",
+   "children": [],
+   "end": "1703.240",
+   "id": "n000167",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1703.240",
+   "children": [],
+   "end": "1708.080",
+   "id": "f000383",
+   "language": "en",
+   "lines": [
+    "That little child needs to be loved and hugged and nurtured and made to feel special, like your children were."
+   ]
+  },
+  {
+   "begin": "1708.080",
+   "children": [],
+   "end": "1708.640",
+   "id": "n000168",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1708.640",
+   "children": [],
+   "end": "1710.920",
+   "id": "f000384",
+   "language": "en",
+   "lines": [
+    "They learn to think well or poorly of themselves in the first 18 months."
+   ]
+  },
+  {
+   "begin": "1710.920",
+   "children": [],
+   "end": "1711.120",
+   "id": "f000385",
+   "language": "en",
+   "lines": [
+    "Thank you."
+   ]
+  },
+  {
+   "begin": "1711.120",
+   "children": [],
+   "end": "1712.280",
+   "id": "f000386",
+   "language": "en",
+   "lines": [
+    "Thank you, Mr. Perot."
+   ]
+  },
+  {
+   "begin": "1712.280",
+   "children": [],
+   "end": "1716.140",
+   "id": "f000387",
+   "language": "en",
+   "lines": [
+    "And in the first few years they either learn how to learn or don't learn how to learn."
+   ]
+  },
+  {
+   "begin": "1716.140",
+   "children": [],
+   "end": "1717.840",
+   "id": "f000388",
+   "language": "en",
+   "lines": [
+    "And if they don't, they wind up in prison."
+   ]
+  },
+  {
+   "begin": "1717.840",
+   "children": [],
+   "end": "1718.680",
+   "id": "f000389",
+   "language": "en",
+   "lines": [
+    "Thank you, Mr. Perot."
+   ]
+  },
+  {
+   "begin": "1718.680",
+   "children": [],
+   "end": "1721.880",
+   "id": "f000390",
+   "language": "en",
+   "lines": [
+    "And it costs more to keep them in prison than it does to send them to Harvard."
+   ]
+  },
+  {
+   "begin": "1721.880",
+   "children": [],
+   "end": "1722.740",
+   "id": "f000391",
+   "language": "en",
+   "lines": [
+    "I rest my case."
+   ]
+  },
+  {
+   "begin": "1722.740",
+   "children": [],
+   "end": "1723.280",
+   "id": "f000392",
+   "language": "en",
+   "lines": [
+    "Thank you."
+   ]
+  },
+  {
+   "begin": "1723.280",
+   "children": [],
+   "end": "1725.000",
+   "id": "f000393",
+   "language": "en",
+   "lines": [
+    "President Bush, you wanted to answer."
+   ]
+  },
+  {
+   "begin": "1725.000",
+   "children": [],
+   "end": "1728.360",
+   "id": "f000394",
+   "language": "en",
+   "lines": [
+    "I just had a word of clarification because of something Governor Clinton said."
+   ]
+  },
+  {
+   "begin": "1728.360",
+   "children": [],
+   "end": "1729.280",
+   "id": "n000169",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1729.280",
+   "children": [],
+   "end": "1735.480",
+   "id": "f000395",
+   "language": "en",
+   "lines": [
+    "My school choice program, GI Bill for Kids, does not take public money and give it to private schools."
+   ]
+  },
+  {
+   "begin": "1735.480",
+   "children": [],
+   "end": "1736.280",
+   "id": "n000170",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1736.280",
+   "children": [],
+   "end": "1740.040",
+   "id": "f000396",
+   "language": "en",
+   "lines": [
+    "It does what the GI Bill itself did when I came out of World War II."
+   ]
+  },
+  {
+   "begin": "1740.040",
+   "children": [],
+   "end": "1740.640",
+   "id": "n000171",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1740.640",
+   "children": [],
+   "end": "1746.080",
+   "id": "f000397",
+   "language": "en",
+   "lines": [
+    "It takes public money and gives it to families or individuals to choose the school they want."
+   ]
+  },
+  {
+   "begin": "1746.080",
+   "children": [],
+   "end": "1746.520",
+   "id": "n000172",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1746.520",
+   "children": [],
+   "end": "1754.300",
+   "id": "f000398",
+   "language": "en",
+   "lines": [
+    "And where it's been done, those schools, like in Rochester, those schools that weren't chosen find that they then compete and do better."
+   ]
+  },
+  {
+   "begin": "1754.300",
+   "children": [],
+   "end": "1756.240",
+   "id": "f000399",
+   "language": "en",
+   "lines": [
+    "So I think it's worth a shot."
+   ]
+  },
+  {
+   "begin": "1756.240",
+   "children": [],
+   "end": "1756.600",
+   "id": "n000173",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1756.600",
+   "children": [],
+   "end": "1758.040",
+   "id": "f000400",
+   "language": "en",
+   "lines": [
+    "We've got a pilot program."
+   ]
+  },
+  {
+   "begin": "1758.040",
+   "children": [],
+   "end": "1758.980",
+   "id": "f000401",
+   "language": "en",
+   "lines": [
+    "It ought to be tried."
+   ]
+  },
+  {
+   "begin": "1758.980",
+   "children": [],
+   "end": "1762.280",
+   "id": "f000402",
+   "language": "en",
+   "lines": [
+    "School choice -- public, private or religious."
+   ]
+  },
+  {
+   "begin": "1762.280",
+   "children": [],
+   "end": "1770.040",
+   "id": "f000403",
+   "language": "en",
+   "lines": [
+    "Not to the schools but to -- you know, 46% of the teachers in Chicago, public school teachers, send their kids to private school."
+   ]
+  },
+  {
+   "begin": "1770.040",
+   "children": [],
+   "end": "1770.880",
+   "id": "n000174",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1770.880",
+   "children": [],
+   "end": "1775.960",
+   "id": "f000404",
+   "language": "en",
+   "lines": [
+    "Now, I think we ought to try to help families and see if it will do what I think -- make all schools better."
+   ]
+  },
+  {
+   "begin": "1775.960",
+   "children": [],
+   "end": "1776.880",
+   "id": "n000175",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1776.880",
+   "children": [],
+   "end": "1778.420",
+   "id": "f000405",
+   "language": "en",
+   "lines": [
+    "I just want to mention if I could --"
+   ]
+  },
+  {
+   "begin": "1778.420",
+   "children": [],
+   "end": "1779.160",
+   "id": "f000406",
+   "language": "en",
+   "lines": [
+    "Very briefly."
+   ]
+  },
+  {
+   "begin": "1779.160",
+   "children": [],
+   "end": "1779.480",
+   "id": "n000176",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1779.480",
+   "children": [],
+   "end": "1780.040",
+   "id": "f000407",
+   "language": "en",
+   "lines": [
+    "Very briefly."
+   ]
+  },
+  {
+   "begin": "1780.040",
+   "children": [],
+   "end": "1782.560",
+   "id": "n000177",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1782.560",
+   "children": [],
+   "end": "1788.900",
+   "id": "f000408",
+   "language": "en",
+   "lines": [
+    "Including the parents in the preschool education of their kids, even if they're poor and uneducated, can make a huge difference."
+   ]
+  },
+  {
+   "begin": "1788.900",
+   "children": [],
+   "end": "1794.920",
+   "id": "f000409",
+   "language": "en",
+   "lines": [
+    "We have a big program in my state that teaches mothers or fathers to teach their kids to get ready for school."
+   ]
+  },
+  {
+   "begin": "1794.920",
+   "children": [],
+   "end": "1796.440",
+   "id": "f000410",
+   "language": "en",
+   "lines": [
+    "It's the most successful thing we've ever done."
+   ]
+  },
+  {
+   "begin": "1796.440",
+   "children": [],
+   "end": "1797.080",
+   "id": "n000178",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1797.080",
+   "children": [],
+   "end": "1799.480",
+   "id": "f000411",
+   "language": "en",
+   "lines": [
+    "Just a fact clarification real quickly."
+   ]
+  },
+  {
+   "begin": "1799.480",
+   "children": [],
+   "end": "1803.960",
+   "id": "f000412",
+   "language": "en",
+   "lines": [
+    "We do not spend a higher percentage of our income on public education than every other country."
+   ]
+  },
+  {
+   "begin": "1803.960",
+   "children": [],
+   "end": "1807.100",
+   "id": "f000413",
+   "language": "en",
+   "lines": [
+    "There are 9 countries that spend more than we do on public education."
+   ]
+  },
+  {
+   "begin": "1807.100",
+   "children": [],
+   "end": "1810.200",
+   "id": "f000414",
+   "language": "en",
+   "lines": [
+    "We spend more on education 'cause we spend so much more on colleges."
+   ]
+  },
+  {
+   "begin": "1810.200",
+   "children": [],
+   "end": "1810.840",
+   "id": "n000179",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1810.840",
+   "children": [],
+   "end": "1817.980",
+   "id": "f000415",
+   "language": "en",
+   "lines": [
+    "But if you look at public education alone and you take into account the fact that we have more racial diversity and more poverty, it makes a big difference."
+   ]
+  },
+  {
+   "begin": "1817.980",
+   "children": [],
+   "end": "1823.520",
+   "id": "f000416",
+   "language": "en",
+   "lines": [
+    "There are great public schools where there's public school choice, accountability and brilliant principals."
+   ]
+  },
+  {
+   "begin": "1823.520",
+   "children": [],
+   "end": "1826.860",
+   "id": "f000417",
+   "language": "en",
+   "lines": [
+    "I'll just mention one -- the Beasley Academic Center in Chicago."
+   ]
+  },
+  {
+   "begin": "1826.860",
+   "children": [],
+   "end": "1827.820",
+   "id": "f000418",
+   "language": "en",
+   "lines": [
+    "I commend it to anybody."
+   ]
+  },
+  {
+   "begin": "1827.820",
+   "children": [],
+   "end": "1830.560",
+   "id": "f000419",
+   "language": "en",
+   "lines": [
+    "It's as good as any private school in the country."
+   ]
+  },
+  {
+   "begin": "1830.560",
+   "children": [],
+   "end": "1842.080",
+   "id": "f000420",
+   "language": "en",
+   "lines": [
+    "We have very little time left and it occurs to me that we have talked all this time and there has not been one question about some of the racial tensions and ethnic tensions in America."
+   ]
+  },
+  {
+   "begin": "1842.080",
+   "children": [],
+   "end": "1842.520",
+   "id": "n000180",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1842.520",
+   "children": [],
+   "end": "1847.000",
+   "id": "f000421",
+   "language": "en",
+   "lines": [
+    "Is there anyone in this audience that would like to pose a question to the candidates on this?"
+   ]
+  },
+  {
+   "begin": "1847.000",
+   "children": [],
+   "end": "1850.920",
+   "id": "n000181",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1850.920",
+   "children": [],
+   "end": "1885.380",
+   "id": "f000422",
+   "language": "en",
+   "lines": [
+    "What I'd like to know, and this is to any of the three of you, is aside from the recent accomplishment of your party, aside from those accomplishments in racial representation, and without citing any of your current appointments or successful elections, when do you estimate your party will both nominate and elect an Afro-American and female ticket to the presidency of the U.S.?"
+   ]
+  },
+  {
+   "begin": "1885.380",
+   "children": [],
+   "end": "1887.660",
+   "id": "f000423",
+   "language": "en",
+   "lines": [
+    "Governor Clinton, why don't you answer that first?"
+   ]
+  },
+  {
+   "begin": "1887.660",
+   "children": [],
+   "end": "1889.640",
+   "id": "n000182",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1889.640",
+   "children": [],
+   "end": "1895.040",
+   "id": "f000424",
+   "language": "en",
+   "lines": [
+    "Well, I don't have any idea but I hope it will happen some time in my lifetime."
+   ]
+  },
+  {
+   "begin": "1895.040",
+   "children": [],
+   "end": "1895.640",
+   "id": "f000425",
+   "language": "en",
+   "lines": [
+    "I do, too."
+   ]
+  },
+  {
+   "begin": "1895.640",
+   "children": [],
+   "end": "1907.480",
+   "id": "f000426",
+   "language": "en",
+   "lines": [
+    "I believe that this country is electing more and more African Americans and Latinos and Asian Americans who are representing districts that are themselves not necessarily of a majority of their race."
+   ]
+  },
+  {
+   "begin": "1907.480",
+   "children": [],
+   "end": "1908.160",
+   "id": "n000183",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1908.160",
+   "children": [],
+   "end": "1913.680",
+   "id": "f000427",
+   "language": "en",
+   "lines": [
+    "The American people are beginning to vote across racial lines, and I hope it will happen more and more."
+   ]
+  },
+  {
+   "begin": "1913.680",
+   "children": [],
+   "end": "1914.320",
+   "id": "n000184",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1914.320",
+   "children": [],
+   "end": "1915.600",
+   "id": "f000428",
+   "language": "en",
+   "lines": [
+    "More and more women are being elected."
+   ]
+  },
+  {
+   "begin": "1915.600",
+   "children": [],
+   "end": "1918.440",
+   "id": "f000429",
+   "language": "en",
+   "lines": [
+    "Look at all these women Senate candidates we have here."
+   ]
+  },
+  {
+   "begin": "1918.440",
+   "children": [],
+   "end": "1926.400",
+   "id": "f000430",
+   "language": "en",
+   "lines": [
+    "And you know, according to my mother and my wife and my daughter, this world would be a lot better place if women were running it most of the time."
+   ]
+  },
+  {
+   "begin": "1926.400",
+   "children": [],
+   "end": "1934.520",
+   "id": "f000431",
+   "language": "en",
+   "lines": [
+    "I do think there are special experiences and judgments and backgrounds and understandings that women bring to this process, by the way."
+   ]
+  },
+  {
+   "begin": "1934.520",
+   "children": [],
+   "end": "1938.520",
+   "id": "f000432",
+   "language": "en",
+   "lines": [
+    "This lady said here, how have you been affected by the economy."
+   ]
+  },
+  {
+   "begin": "1938.520",
+   "children": [],
+   "end": "1938.960",
+   "id": "n000185",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1938.960",
+   "children": [],
+   "end": "1942.120",
+   "id": "f000433",
+   "language": "en",
+   "lines": [
+    "I mean, women know what's it like to be paid an unequal amount for equal work."
+   ]
+  },
+  {
+   "begin": "1942.120",
+   "children": [],
+   "end": "1944.160",
+   "id": "f000434",
+   "language": "en",
+   "lines": [
+    "They know what it's like not to have flexible working hours."
+   ]
+  },
+  {
+   "begin": "1944.160",
+   "children": [],
+   "end": "1944.560",
+   "id": "n000186",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1944.560",
+   "children": [],
+   "end": "1946.620",
+   "id": "f000435",
+   "language": "en",
+   "lines": [
+    "They know what it's like not to have family leave or childcare."
+   ]
+  },
+  {
+   "begin": "1946.620",
+   "children": [],
+   "end": "1947.080",
+   "id": "n000187",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1947.080",
+   "children": [],
+   "end": "1949.480",
+   "id": "f000436",
+   "language": "en",
+   "lines": [
+    "So I think it would be a good thing for America if it happened."
+   ]
+  },
+  {
+   "begin": "1949.480",
+   "children": [],
+   "end": "1949.880",
+   "id": "n000188",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1949.880",
+   "children": [],
+   "end": "1952.380",
+   "id": "f000437",
+   "language": "en",
+   "lines": [
+    "And I think it will happen in my lifetime."
+   ]
+  },
+  {
+   "begin": "1952.380",
+   "children": [],
+   "end": "1952.840",
+   "id": "f000438",
+   "language": "en",
+   "lines": [
+    "Okay."
+   ]
+  },
+  {
+   "begin": "1952.840",
+   "children": [],
+   "end": "1953.560",
+   "id": "f000439",
+   "language": "en",
+   "lines": [
+    "I'm sorry."
+   ]
+  },
+  {
+   "begin": "1953.560",
+   "children": [],
+   "end": "1955.440",
+   "id": "f000440",
+   "language": "en",
+   "lines": [
+    "We have just a little bit of time left."
+   ]
+  },
+  {
+   "begin": "1955.440",
+   "children": [],
+   "end": "1958.640",
+   "id": "f000441",
+   "language": "en",
+   "lines": [
+    "Let's try to get responses from each of them."
+   ]
+  },
+  {
+   "begin": "1958.640",
+   "children": [],
+   "end": "1960.840",
+   "id": "f000442",
+   "language": "en",
+   "lines": [
+    "President Bush or Mr. Perot?"
+   ]
+  },
+  {
+   "begin": "1960.840",
+   "children": [],
+   "end": "1963.640",
+   "id": "f000443",
+   "language": "en",
+   "lines": [
+    "I think if Barbara Bush were running this year she'd be elected."
+   ]
+  },
+  {
+   "begin": "1963.640",
+   "children": [],
+   "end": "1964.560",
+   "id": "f000444",
+   "language": "en",
+   "lines": [
+    "But it's too late."
+   ]
+  },
+  {
+   "begin": "1964.560",
+   "children": [],
+   "end": "1975.840",
+   "id": "f000445",
+   "language": "en",
+   "lines": [
+    "(Laughter) You don't want us to mention appointees, but when you see the quality of people in our administration, see how Colin Powell performed -- I say administration --"
+   ]
+  },
+  {
+   "begin": "1975.840",
+   "children": [],
+   "end": "1975.841",
+   "id": "f000446",
+   "language": "en",
+   "lines": [
+    "(Inaudible)."
+   ]
+  },
+  {
+   "begin": "1975.841",
+   "children": [],
+   "end": "1977.200",
+   "id": "f000447",
+   "language": "en",
+   "lines": [
+    "You weren't impressed with the fact that he --"
+   ]
+  },
+  {
+   "begin": "1977.200",
+   "children": [],
+   "end": "1977.500",
+   "id": "f000448",
+   "language": "en",
+   "lines": [
+    "Excuse me."
+   ]
+  },
+  {
+   "begin": "1977.500",
+   "children": [],
+   "end": "1979.000",
+   "id": "f000449",
+   "language": "en",
+   "lines": [
+    "I'm extremely impressed with that."
+   ]
+  },
+  {
+   "begin": "1979.000",
+   "children": [],
+   "end": "1984.560",
+   "id": "f000450",
+   "language": "en",
+   "lines": [
+    "Yeah, but wouldn't that suggest to the American people, then, here's a quality person, if he decided that he could automatically get the nomination of either party?"
+   ]
+  },
+  {
+   "begin": "1984.560",
+   "children": [],
+   "end": "1986.480",
+   "id": "f000451",
+   "language": "en",
+   "lines": [
+    "Sure -- I just wanted to know -- yes."
+   ]
+  },
+  {
+   "begin": "1986.480",
+   "children": [],
+   "end": "1986.800",
+   "id": "n000189",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1986.800",
+   "children": [],
+   "end": "1987.200",
+   "id": "f000452",
+   "language": "en",
+   "lines": [
+    "Huh?"
+   ]
+  },
+  {
+   "begin": "1987.200",
+   "children": [],
+   "end": "1988.320",
+   "id": "f000453",
+   "language": "en",
+   "lines": [
+    "I'm totally impressed with that."
+   ]
+  },
+  {
+   "begin": "1988.320",
+   "children": [],
+   "end": "1989.560",
+   "id": "f000454",
+   "language": "en",
+   "lines": [
+    "I just wanted to know is, when's your-"
+   ]
+  },
+  {
+   "begin": "1989.560",
+   "children": [],
+   "end": "1990.120",
+   "id": "f000455",
+   "language": "en",
+   "lines": [
+    "Oh, I see."
+   ]
+  },
+  {
+   "begin": "1990.120",
+   "children": [],
+   "end": "1990.400",
+   "id": "f000456",
+   "language": "en",
+   "lines": [
+    "When?"
+   ]
+  },
+  {
+   "begin": "1990.400",
+   "children": [],
+   "end": "1990.760",
+   "id": "f000457",
+   "language": "en",
+   "lines": [
+    "You mean, time?"
+   ]
+  },
+  {
+   "begin": "1990.760",
+   "children": [],
+   "end": "1991.060",
+   "id": "f000458",
+   "language": "en",
+   "lines": [
+    "Yeah."
+   ]
+  },
+  {
+   "begin": "1991.060",
+   "children": [],
+   "end": "1993.960",
+   "id": "f000459",
+   "language": "en",
+   "lines": [
+    "I don't know -- starting after 4 years."
+   ]
+  },
+  {
+   "begin": "1993.960",
+   "children": [],
+   "end": "1993.961",
+   "id": "f000460",
+   "language": "en",
+   "lines": [
+    "(Laughs)"
+   ]
+  },
+  {
+   "begin": "1993.961",
+   "children": [],
+   "end": "1996.120",
+   "id": "f000461",
+   "language": "en",
+   "lines": [
+    "No, I think you'll see --"
+   ]
+  },
+  {
+   "begin": "1996.120",
+   "children": [],
+   "end": "1996.800",
+   "id": "f000462",
+   "language": "en",
+   "lines": [
+    "Mr. Perot."
+   ]
+  },
+  {
+   "begin": "1996.800",
+   "children": [],
+   "end": "2000.380",
+   "id": "f000463",
+   "language": "en",
+   "lines": [
+    "I think you'll see more minority candidates and women candidates coming forward."
+   ]
+  },
+  {
+   "begin": "2000.380",
+   "children": [],
+   "end": "2000.760",
+   "id": "f000464",
+   "language": "en",
+   "lines": [
+    "We have -- thank you."
+   ]
+  },
+  {
+   "begin": "2000.760",
+   "children": [],
+   "end": "2003.180",
+   "id": "f000465",
+   "language": "en",
+   "lines": [
+    "This is supposed to be the year of the women in the Senate."
+   ]
+  },
+  {
+   "begin": "2003.180",
+   "children": [],
+   "end": "2003.780",
+   "id": "f000466",
+   "language": "en",
+   "lines": [
+    "Let's see how they do."
+   ]
+  },
+  {
+   "begin": "2003.780",
+   "children": [],
+   "end": "2004.140",
+   "id": "f000467",
+   "language": "en",
+   "lines": [
+    "I hope a lot of --"
+   ]
+  },
+  {
+   "begin": "2004.140",
+   "children": [],
+   "end": "2007.260",
+   "id": "f000468",
+   "language": "en",
+   "lines": [
+    "Mr. Perot -- I don't want to cut you off any more but we only have a minute left."
+   ]
+  },
+  {
+   "begin": "2007.260",
+   "children": [],
+   "end": "2008.700",
+   "id": "f000469",
+   "language": "en",
+   "lines": [
+    "I have a fearless forecast."
+   ]
+  },
+  {
+   "begin": "2008.700",
+   "children": [],
+   "end": "2010.100",
+   "id": "f000470",
+   "language": "en",
+   "lines": [
+    "A message just won't do it."
+   ]
+  },
+  {
+   "begin": "2010.100",
+   "children": [],
+   "end": "2015.640",
+   "id": "f000471",
+   "language": "en",
+   "lines": [
+    "Colin Powell will be on somebody's ticket 4 years from now -- right?"
+   ]
+  },
+  {
+   "begin": "2015.640",
+   "children": [],
+   "end": "2016.560",
+   "id": "f000472",
+   "language": "en",
+   "lines": [
+    "Right?"
+   ]
+  },
+  {
+   "begin": "2016.560",
+   "children": [],
+   "end": "2018.120",
+   "id": "f000473",
+   "language": "en",
+   "lines": [
+    "He wanted that said -- 4 years."
+   ]
+  },
+  {
+   "begin": "2018.120",
+   "children": [],
+   "end": "2019.000",
+   "id": "f000474",
+   "language": "en",
+   "lines": [
+    "How about a woman?"
+   ]
+  },
+  {
+   "begin": "2019.000",
+   "children": [],
+   "end": "2019.320",
+   "id": "n000190",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2019.320",
+   "children": [],
+   "end": "2024.960",
+   "id": "f000475",
+   "language": "en",
+   "lines": [
+    "Now, if won't be, General Waller would be -- you say, why do you keep picking military people."
+   ]
+  },
+  {
+   "begin": "2024.960",
+   "children": [],
+   "end": "2025.400",
+   "id": "n000191",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2025.400",
+   "children": [],
+   "end": "2031.640",
+   "id": "f000476",
+   "language": "en",
+   "lines": [
+    "These are people that I just happen to know and have a high regard for."
+   ]
+  },
+  {
+   "begin": "2031.640",
+   "children": [],
+   "end": "2031.960",
+   "id": "n000192",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2031.960",
+   "children": [],
+   "end": "2034.800",
+   "id": "f000477",
+   "language": "en",
+   "lines": [
+    "I'm sure there are hundreds of others."
+   ]
+  },
+  {
+   "begin": "2034.800",
+   "children": [],
+   "end": "2035.160",
+   "id": "n000193",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2035.160",
+   "children": [],
+   "end": "2037.440",
+   "id": "f000478",
+   "language": "en",
+   "lines": [
+    "How about Dr. Lou Sullivan?"
+   ]
+  },
+  {
+   "begin": "2037.440",
+   "children": [],
+   "end": "2038.080",
+   "id": "f000479",
+   "language": "en",
+   "lines": [
+    "Absolutely."
+   ]
+  },
+  {
+   "begin": "2038.080",
+   "children": [],
+   "end": "2039.640",
+   "id": "f000480",
+   "language": "en",
+   "lines": [
+    "Yeah, a good man."
+   ]
+  },
+  {
+   "begin": "2039.640",
+   "children": [],
+   "end": "2040.980",
+   "id": "f000481",
+   "language": "en",
+   "lines": [
+    "What about a woman?"
+   ]
+  },
+  {
+   "begin": "2040.980",
+   "children": [],
+   "end": "2041.960",
+   "id": "f000482",
+   "language": "en",
+   "lines": [
+    "Oh, oh."
+   ]
+  },
+  {
+   "begin": "2041.960",
+   "children": [],
+   "end": "2043.000",
+   "id": "f000483",
+   "language": "en",
+   "lines": [
+    "(Inaudible) totally agree."
+   ]
+  },
+  {
+   "begin": "2043.000",
+   "children": [],
+   "end": "2044.600",
+   "id": "f000484",
+   "language": "en",
+   "lines": [
+    "My candidate's back there."
+   ]
+  },
+  {
+   "begin": "2044.600",
+   "children": [],
+   "end": "2044.601",
+   "id": "f000485",
+   "language": "en",
+   "lines": [
+    "(Laughs)"
+   ]
+  },
+  {
+   "begin": "2044.601",
+   "children": [],
+   "end": "2045.040",
+   "id": "f000486",
+   "language": "en",
+   "lines": [
+    "Okay."
+   ]
+  },
+  {
+   "begin": "2045.040",
+   "children": [],
+   "end": "2046.880",
+   "id": "f000487",
+   "language": "en",
+   "lines": [
+    "I can think of many."
+   ]
+  },
+  {
+   "begin": "2046.880",
+   "children": [],
+   "end": "2047.080",
+   "id": "f000488",
+   "language": "en",
+   "lines": [
+    "Many?"
+   ]
+  },
+  {
+   "begin": "2047.080",
+   "children": [],
+   "end": "2047.320",
+   "id": "f000489",
+   "language": "en",
+   "lines": [
+    "Absolutely."
+   ]
+  },
+  {
+   "begin": "2047.320",
+   "children": [],
+   "end": "2047.840",
+   "id": "f000490",
+   "language": "en",
+   "lines": [
+    "When?"
+   ]
+  },
+  {
+   "begin": "2047.840",
+   "children": [],
+   "end": "2049.000",
+   "id": "f000491",
+   "language": "en",
+   "lines": [
+    "All right."
+   ]
+  },
+  {
+   "begin": "2049.000",
+   "children": [],
+   "end": "2051.160",
+   "id": "f000492",
+   "language": "en",
+   "lines": [
+    "How about Sandra Day O'Connor as an example?"
+   ]
+  },
+  {
+   "begin": "2051.160",
+   "children": [],
+   "end": "2051.680",
+   "id": "f000493",
+   "language": "en",
+   "lines": [
+    "Hm-hm."
+   ]
+  },
+  {
+   "begin": "2051.680",
+   "children": [],
+   "end": "2053.280",
+   "id": "f000494",
+   "language": "en",
+   "lines": [
+    "Dr. Bernadine Healy --"
+   ]
+  },
+  {
+   "begin": "2053.280",
+   "children": [],
+   "end": "2053.360",
+   "id": "f000495",
+   "language": "en",
+   "lines": [
+    "Good."
+   ]
+  },
+  {
+   "begin": "2053.360",
+   "children": [],
+   "end": "2054.120",
+   "id": "f000496",
+   "language": "en",
+   "lines": [
+    "National Institutes of Health."
+   ]
+  },
+  {
+   "begin": "2054.120",
+   "children": [],
+   "end": "2054.640",
+   "id": "f000497",
+   "language": "en",
+   "lines": [
+    "I'll yield the floor."
+   ]
+  },
+  {
+   "begin": "2054.640",
+   "children": [],
+   "end": "2055.320",
+   "id": "f000498",
+   "language": "en",
+   "lines": [
+    "All good Republicans."
+   ]
+  },
+  {
+   "begin": "2055.320",
+   "children": [],
+   "end": "2056.160",
+   "id": "f000499",
+   "language": "en",
+   "lines": [
+    "Name some more."
+   ]
+  },
+  {
+   "begin": "2056.160",
+   "children": [],
+   "end": "2056.161",
+   "id": "f000500",
+   "language": "en",
+   "lines": [
+    "(Laughter)"
+   ]
+  },
+  {
+   "begin": "2056.161",
+   "children": [],
+   "end": "2056.640",
+   "id": "f000501",
+   "language": "en",
+   "lines": [
+    "Thank you."
+   ]
+  },
+  {
+   "begin": "2056.640",
+   "children": [],
+   "end": "2062.620",
+   "id": "f000502",
+   "language": "en",
+   "lines": [
+    "I want to apologize to our audience because there were 209 people here and there were 209 questions."
+   ]
+  },
+  {
+   "begin": "2062.620",
+   "children": [],
+   "end": "2071.200",
+   "id": "f000503",
+   "language": "en",
+   "lines": [
+    "We only got to a fraction of them and I'm sorry to those of you that didn't get to ask your questions but we must move to the conclusion of the program."
+   ]
+  },
+  {
+   "begin": "2071.200",
+   "children": [],
+   "end": "2077.020",
+   "id": "f000504",
+   "language": "en",
+   "lines": [
+    "It is time now for the 2 minute closing statements and by prior agreement President Bush will go first."
+   ]
+  },
+  {
+   "begin": "2077.020",
+   "children": [],
+   "end": "2088.400",
+   "id": "f000505",
+   "language": "en",
+   "lines": [
+    "May I ask for an exception because I think we owe Carole Simpson -- anybody who can stand in between these three characters here and get the job done -- we owe her a round of applause."
+   ]
+  },
+  {
+   "begin": "2088.400",
+   "children": [],
+   "end": "2091.120",
+   "id": "f000506",
+   "language": "en",
+   "lines": [
+    "(Applause) But don't take it out of my time!"
+   ]
+  },
+  {
+   "begin": "2091.120",
+   "children": [],
+   "end": "2091.121",
+   "id": "f000507",
+   "language": "en",
+   "lines": [
+    "(Applause)"
+   ]
+  },
+  {
+   "begin": "2091.121",
+   "children": [],
+   "end": "2091.720",
+   "id": "f000508",
+   "language": "en",
+   "lines": [
+    "That's right."
+   ]
+  },
+  {
+   "begin": "2091.720",
+   "children": [],
+   "end": "2095.440",
+   "id": "f000509",
+   "language": "en",
+   "lines": [
+    "I feel strongly about it because I don't want it to come out of my time."
+   ]
+  },
+  {
+   "begin": "2095.440",
+   "children": [],
+   "end": "2096.200",
+   "id": "f000510",
+   "language": "en",
+   "lines": [
+    "Give this man more time."
+   ]
+  },
+  {
+   "begin": "2096.200",
+   "children": [],
+   "end": "2096.201",
+   "id": "f000511",
+   "language": "en",
+   "lines": [
+    "(Laughs)"
+   ]
+  },
+  {
+   "begin": "2096.201",
+   "children": [],
+   "end": "2108.740",
+   "id": "f000512",
+   "language": "en",
+   "lines": [
+    "No, but let me just stay to the American people in 2 and a half weeks we're going to choose who should sit in this Oval Office, who to lead the economic recovery, who to be the leader of the free world, who to get the deficit down."
+   ]
+  },
+  {
+   "begin": "2108.740",
+   "children": [],
+   "end": "2109.880",
+   "id": "f000513",
+   "language": "en",
+   "lines": [
+    "three ways to do that."
+   ]
+  },
+  {
+   "begin": "2109.880",
+   "children": [],
+   "end": "2110.440",
+   "id": "n000194",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2110.440",
+   "children": [],
+   "end": "2111.640",
+   "id": "f000514",
+   "language": "en",
+   "lines": [
+    "One is to raise taxes."
+   ]
+  },
+  {
+   "begin": "2111.640",
+   "children": [],
+   "end": "2112.240",
+   "id": "n000195",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2112.240",
+   "children": [],
+   "end": "2116.020",
+   "id": "f000515",
+   "language": "en",
+   "lines": [
+    "One is to reduce spending -- controlling that mandatory spending."
+   ]
+  },
+  {
+   "begin": "2116.020",
+   "children": [],
+   "end": "2118.820",
+   "id": "f000516",
+   "language": "en",
+   "lines": [
+    "Another one is to invest and save and to stimulate growth."
+   ]
+  },
+  {
+   "begin": "2118.820",
+   "children": [],
+   "end": "2119.440",
+   "id": "n000196",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2119.440",
+   "children": [],
+   "end": "2121.000",
+   "id": "f000517",
+   "language": "en",
+   "lines": [
+    "I do not want to raise taxes."
+   ]
+  },
+  {
+   "begin": "2121.000",
+   "children": [],
+   "end": "2122.520",
+   "id": "f000518",
+   "language": "en",
+   "lines": [
+    "I differ with the 2 here on that."
+   ]
+  },
+  {
+   "begin": "2122.520",
+   "children": [],
+   "end": "2122.840",
+   "id": "n000197",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2122.840",
+   "children": [],
+   "end": "2124.660",
+   "id": "f000519",
+   "language": "en",
+   "lines": [
+    "I'm just not going to do that."
+   ]
+  },
+  {
+   "begin": "2124.660",
+   "children": [],
+   "end": "2127.680",
+   "id": "f000520",
+   "language": "en",
+   "lines": [
+    "I do believe that we need to control mandatory spending."
+   ]
+  },
+  {
+   "begin": "2127.680",
+   "children": [],
+   "end": "2130.140",
+   "id": "f000521",
+   "language": "en",
+   "lines": [
+    "I think we need to invest and save more."
+   ]
+  },
+  {
+   "begin": "2130.140",
+   "children": [],
+   "end": "2134.240",
+   "id": "f000522",
+   "language": "en",
+   "lines": [
+    "I believe that we need to educate better and retrain better."
+   ]
+  },
+  {
+   "begin": "2134.240",
+   "children": [],
+   "end": "2143.440",
+   "id": "f000523",
+   "language": "en",
+   "lines": [
+    "I believe that we need to export more so I'll keep working for export agreements where we can sell more abroad and I believe that we must strengthen the family."
+   ]
+  },
+  {
+   "begin": "2143.440",
+   "children": [],
+   "end": "2143.840",
+   "id": "n000198",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2143.840",
+   "children": [],
+   "end": "2146.200",
+   "id": "f000524",
+   "language": "en",
+   "lines": [
+    "We've got to strengthen the family."
+   ]
+  },
+  {
+   "begin": "2146.200",
+   "children": [],
+   "end": "2148.600",
+   "id": "f000525",
+   "language": "en",
+   "lines": [
+    "Now, let me pose this question to America."
+   ]
+  },
+  {
+   "begin": "2148.600",
+   "children": [],
+   "end": "2150.240",
+   "id": "n000199",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2150.240",
+   "children": [],
+   "end": "2170.660",
+   "id": "f000526",
+   "language": "en",
+   "lines": [
+    "If in the next 5 minutes a television announcer came on and said, there is a major international crisis -- there is a major threat to the world or in this country a major threat -- my question is, who, if you were appointed to name 1 of the 3 of us, who would you choose?"
+   ]
+  },
+  {
+   "begin": "2170.660",
+   "children": [],
+   "end": "2180.120",
+   "id": "f000527",
+   "language": "en",
+   "lines": [
+    "Who has the perseverance, the character, the integrity, the maturity, to get the job done?"
+   ]
+  },
+  {
+   "begin": "2180.120",
+   "children": [],
+   "end": "2180.800",
+   "id": "n000200",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2180.800",
+   "children": [],
+   "end": "2181.960",
+   "id": "f000528",
+   "language": "en",
+   "lines": [
+    "I hope I'm that person."
+   ]
+  },
+  {
+   "begin": "2181.960",
+   "children": [],
+   "end": "2182.640",
+   "id": "n000201",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2182.640",
+   "children": [],
+   "end": "2183.640",
+   "id": "f000529",
+   "language": "en",
+   "lines": [
+    "Thank you very, very much."
+   ]
+  },
+  {
+   "begin": "2183.640",
+   "children": [],
+   "end": "2184.960",
+   "id": "n000202",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2184.960",
+   "children": [],
+   "end": "2186.420",
+   "id": "f000530",
+   "language": "en",
+   "lines": [
+    "Thank you, Mr. President."
+   ]
+  },
+  {
+   "begin": "2186.420",
+   "children": [],
+   "end": "2192.520",
+   "id": "f000531",
+   "language": "en",
+   "lines": [
+    "And now a closing statement from Mr. Perot."
+   ]
+  },
+  {
+   "begin": "2192.520",
+   "children": [],
+   "end": "2200.340",
+   "id": "f000532",
+   "language": "en",
+   "lines": [
+    "If the American people want to do it and not talk about it, then they ought to -- you know, I'm one person they ought to consider."
+   ]
+  },
+  {
+   "begin": "2200.340",
+   "children": [],
+   "end": "2205.760",
+   "id": "f000533",
+   "language": "en",
+   "lines": [
+    "If they just want to keep slow dancing and talk about it and not do it, I'm not your man."
+   ]
+  },
+  {
+   "begin": "2205.760",
+   "children": [],
+   "end": "2206.700",
+   "id": "f000534",
+   "language": "en",
+   "lines": [
+    "I am results oriented."
+   ]
+  },
+  {
+   "begin": "2206.700",
+   "children": [],
+   "end": "2207.680",
+   "id": "f000535",
+   "language": "en",
+   "lines": [
+    "I am action oriented."
+   ]
+  },
+  {
+   "begin": "2207.680",
+   "children": [],
+   "end": "2208.860",
+   "id": "f000536",
+   "language": "en",
+   "lines": [
+    "I've dealt my businesses."
+   ]
+  },
+  {
+   "begin": "2208.860",
+   "children": [],
+   "end": "2209.520",
+   "id": "n000203",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2209.520",
+   "children": [],
+   "end": "2212.880",
+   "id": "f000537",
+   "language": "en",
+   "lines": [
+    "Getting things done in three months that my competitors took 18 months to do."
+   ]
+  },
+  {
+   "begin": "2212.880",
+   "children": [],
+   "end": "2213.320",
+   "id": "n000204",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2213.320",
+   "children": [],
+   "end": "2214.980",
+   "id": "f000538",
+   "language": "en",
+   "lines": [
+    "Everybody says you can't do that with Congress."
+   ]
+  },
+  {
+   "begin": "2214.980",
+   "children": [],
+   "end": "2217.140",
+   "id": "f000539",
+   "language": "en",
+   "lines": [
+    "Sure, you can do that with Congress."
+   ]
+  },
+  {
+   "begin": "2217.140",
+   "children": [],
+   "end": "2218.600",
+   "id": "f000540",
+   "language": "en",
+   "lines": [
+    "Congress -- they're all good people."
+   ]
+  },
+  {
+   "begin": "2218.600",
+   "children": [],
+   "end": "2221.680",
+   "id": "f000541",
+   "language": "en",
+   "lines": [
+    "They're all patriots but you've got to link arms and work with them."
+   ]
+  },
+  {
+   "begin": "2221.680",
+   "children": [],
+   "end": "2222.340",
+   "id": "f000542",
+   "language": "en",
+   "lines": [
+    "Sure, you'll have arguments."
+   ]
+  },
+  {
+   "begin": "2222.340",
+   "children": [],
+   "end": "2223.360",
+   "id": "f000543",
+   "language": "en",
+   "lines": [
+    "Sure, you'll have fights."
+   ]
+  },
+  {
+   "begin": "2223.360",
+   "children": [],
+   "end": "2224.080",
+   "id": "n000205",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2224.080",
+   "children": [],
+   "end": "2225.920",
+   "id": "f000544",
+   "language": "en",
+   "lines": [
+    "We have them all day every day."
+   ]
+  },
+  {
+   "begin": "2225.920",
+   "children": [],
+   "end": "2227.560",
+   "id": "f000545",
+   "language": "en",
+   "lines": [
+    "But we get the job done."
+   ]
+  },
+  {
+   "begin": "2227.560",
+   "children": [],
+   "end": "2228.560",
+   "id": "n000206",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2228.560",
+   "children": [],
+   "end": "2232.700",
+   "id": "f000546",
+   "language": "en",
+   "lines": [
+    "Now, I have to come back in my clothes to one thing because I am passionate about education."
+   ]
+  },
+  {
+   "begin": "2232.700",
+   "children": [],
+   "end": "2236.880",
+   "id": "f000547",
+   "language": "en",
+   "lines": [
+    "I was talking about early childhood education for disadvantaged little children."
+   ]
+  },
+  {
+   "begin": "2236.880",
+   "children": [],
+   "end": "2243.480",
+   "id": "f000548",
+   "language": "en",
+   "lines": [
+    "And let me tell you one specific pilot program where children who don't have a chance go to this program when they're 3."
+   ]
+  },
+  {
+   "begin": "2243.480",
+   "children": [],
+   "end": "2248.260",
+   "id": "f000549",
+   "language": "en",
+   "lines": [
+    "Now we're going back to when the mother's pregnant and they'll start right after they're born."
+   ]
+  },
+  {
+   "begin": "2248.260",
+   "children": [],
+   "end": "2254.960",
+   "id": "f000550",
+   "language": "en",
+   "lines": [
+    "Starting when they're 3 and going to this school until they're 9 and then going into the public school in the 4th grade."
+   ]
+  },
+  {
+   "begin": "2254.960",
+   "children": [],
+   "end": "2255.440",
+   "id": "n000207",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2255.440",
+   "children": [],
+   "end": "2257.200",
+   "id": "f000551",
+   "language": "en",
+   "lines": [
+    "Ninety percent are on the honor role."
+   ]
+  },
+  {
+   "begin": "2257.200",
+   "children": [],
+   "end": "2258.000",
+   "id": "n000208",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2258.000",
+   "children": [],
+   "end": "2259.920",
+   "id": "f000552",
+   "language": "en",
+   "lines": [
+    "Now that will change America."
+   ]
+  },
+  {
+   "begin": "2259.920",
+   "children": [],
+   "end": "2260.560",
+   "id": "n000209",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2260.560",
+   "children": [],
+   "end": "2262.180",
+   "id": "f000553",
+   "language": "en",
+   "lines": [
+    "Those children will all go to college."
+   ]
+  },
+  {
+   "begin": "2262.180",
+   "children": [],
+   "end": "2263.160",
+   "id": "n000210",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2263.160",
+   "children": [],
+   "end": "2265.720",
+   "id": "f000554",
+   "language": "en",
+   "lines": [
+    "They will live the American dream."
+   ]
+  },
+  {
+   "begin": "2265.720",
+   "children": [],
+   "end": "2288.920",
+   "id": "f000555",
+   "language": "en",
+   "lines": [
+    "And I beg the American people, any time they think about reforming education to take this piece of society that doesn't have a chance and take these little pieces of clay that can be shaped and molded and give them the same love and nurture and affection and support you give your children and teach them that they're unique and that they're precious and that there's only one person in the world like them and you will see this nation bloom."
+   ]
+  },
+  {
+   "begin": "2288.920",
+   "children": [],
+   "end": "2297.080",
+   "id": "f000556",
+   "language": "en",
+   "lines": [
+    "And we will have so many people who are qualified for the top job that it will be terrific."
+   ]
+  },
+  {
+   "begin": "2297.080",
+   "children": [],
+   "end": "2298.280",
+   "id": "n000211",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2298.280",
+   "children": [],
+   "end": "2301.400",
+   "id": "f000557",
+   "language": "en",
+   "lines": [
+    "Now, finally, if you can't pay the bills you're dead in the water."
+   ]
+  },
+  {
+   "begin": "2301.400",
+   "children": [],
+   "end": "2302.480",
+   "id": "n000212",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2302.480",
+   "children": [],
+   "end": "2304.600",
+   "id": "f000558",
+   "language": "en",
+   "lines": [
+    "And we have got to put our nation back to work."
+   ]
+  },
+  {
+   "begin": "2304.600",
+   "children": [],
+   "end": "2307.560",
+   "id": "f000559",
+   "language": "en",
+   "lines": [
+    "Now, if you don't want to really do that I'm not your man."
+   ]
+  },
+  {
+   "begin": "2307.560",
+   "children": [],
+   "end": "2307.880",
+   "id": "n000213",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2307.880",
+   "children": [],
+   "end": "2310.720",
+   "id": "f000560",
+   "language": "en",
+   "lines": [
+    "I'd go crazy sitting up there slow dancing that one."
+   ]
+  },
+  {
+   "begin": "2310.720",
+   "children": [],
+   "end": "2314.900",
+   "id": "f000561",
+   "language": "en",
+   "lines": [
+    "In other words, unless we're going to do it, then pick somebody who likes to talk about it."
+   ]
+  },
+  {
+   "begin": "2314.900",
+   "children": [],
+   "end": "2318.840",
+   "id": "f000562",
+   "language": "en",
+   "lines": [
+    "Now, just remember when you think about me -- I didn't create this mess."
+   ]
+  },
+  {
+   "begin": "2318.840",
+   "children": [],
+   "end": "2319.160",
+   "id": "n000214",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2319.160",
+   "children": [],
+   "end": "2324.820",
+   "id": "f000563",
+   "language": "en",
+   "lines": [
+    "I've been paying taxes just like you and Lord knows, I've paid my share -- over a billion in taxes."
+   ]
+  },
+  {
+   "begin": "2324.820",
+   "children": [],
+   "end": "2328.540",
+   "id": "f000564",
+   "language": "en",
+   "lines": [
+    "And for a guy that started out with everything he owned in the trunk of his car --"
+   ]
+  },
+  {
+   "begin": "2328.540",
+   "children": [],
+   "end": "2330.080",
+   "id": "f000565",
+   "language": "en",
+   "lines": [
+    "Mr. Perot, I'm sorry --"
+   ]
+  },
+  {
+   "begin": "2330.080",
+   "children": [],
+   "end": "2330.400",
+   "id": "f000566",
+   "language": "en",
+   "lines": [
+    "-- that ain't bad."
+   ]
+  },
+  {
+   "begin": "2330.400",
+   "children": [],
+   "end": "2330.800",
+   "id": "f000567",
+   "language": "en",
+   "lines": [
+    "-- once again."
+   ]
+  },
+  {
+   "begin": "2330.800",
+   "children": [],
+   "end": "2331.920",
+   "id": "f000568",
+   "language": "en",
+   "lines": [
+    "But it's in your hands."
+   ]
+  },
+  {
+   "begin": "2331.920",
+   "children": [],
+   "end": "2332.680",
+   "id": "f000569",
+   "language": "en",
+   "lines": [
+    "I wish you well."
+   ]
+  },
+  {
+   "begin": "2332.680",
+   "children": [],
+   "end": "2339.200",
+   "id": "f000570",
+   "language": "en",
+   "lines": [
+    "I'll see you tomorrow night -- (Laughter) on NBC -- 10:30 to 11:00 Eastern Time."
+   ]
+  },
+  {
+   "begin": "2339.200",
+   "children": [],
+   "end": "2339.201",
+   "id": "f000571",
+   "language": "en",
+   "lines": [
+    "(Laughter)"
+   ]
+  },
+  {
+   "begin": "2339.201",
+   "children": [],
+   "end": "2343.560",
+   "id": "f000572",
+   "language": "en",
+   "lines": [
+    "And finally, last but not least -- Governor Clinton."
+   ]
+  },
+  {
+   "begin": "2343.560",
+   "children": [],
+   "end": "2347.040",
+   "id": "f000573",
+   "language": "en",
+   "lines": [
+    "Thank you, Carole, and thank you, ladies and gentlemen."
+   ]
+  },
+  {
+   "begin": "2347.040",
+   "children": [],
+   "end": "2348.320",
+   "id": "n000215",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2348.320",
+   "children": [],
+   "end": "2352.200",
+   "id": "f000574",
+   "language": "en",
+   "lines": [
+    "Since I suggested this format I hope it's been good for all of you."
+   ]
+  },
+  {
+   "begin": "2352.200",
+   "children": [],
+   "end": "2358.200",
+   "id": "f000575",
+   "language": "en",
+   "lines": [
+    "I really tried to be faithful to your request that we answer the questions specifically and pointedly."
+   ]
+  },
+  {
+   "begin": "2358.200",
+   "children": [],
+   "end": "2359.000",
+   "id": "n000216",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2359.000",
+   "children": [],
+   "end": "2366.520",
+   "id": "f000576",
+   "language": "en",
+   "lines": [
+    "I thought I owed that to you and I respect you for being here and for the impact you've had on making this a more positive experience."
+   ]
+  },
+  {
+   "begin": "2366.520",
+   "children": [],
+   "end": "2367.600",
+   "id": "n000217",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2367.600",
+   "children": [],
+   "end": "2368.720",
+   "id": "f000577",
+   "language": "en",
+   "lines": [
+    "These problems are not easy."
+   ]
+  },
+  {
+   "begin": "2368.720",
+   "children": [],
+   "end": "2369.760",
+   "id": "n000218",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2369.760",
+   "children": [],
+   "end": "2371.160",
+   "id": "f000578",
+   "language": "en",
+   "lines": [
+    "They're not going to be solved overnight."
+   ]
+  },
+  {
+   "begin": "2371.160",
+   "children": [],
+   "end": "2371.560",
+   "id": "n000219",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2371.560",
+   "children": [],
+   "end": "2373.540",
+   "id": "f000579",
+   "language": "en",
+   "lines": [
+    "But I want you to think about just 2 or 3 things."
+   ]
+  },
+  {
+   "begin": "2373.540",
+   "children": [],
+   "end": "2374.320",
+   "id": "n000220",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2374.320",
+   "children": [],
+   "end": "2381.520",
+   "id": "f000580",
+   "language": "en",
+   "lines": [
+    "First of all, the people of my state have let me be their governor for 12 years because I made commitments to 2 things -- more jobs and better schools."
+   ]
+  },
+  {
+   "begin": "2381.520",
+   "children": [],
+   "end": "2382.600",
+   "id": "n000221",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2382.600",
+   "children": [],
+   "end": "2383.720",
+   "id": "f000581",
+   "language": "en",
+   "lines": [
+    "Our schools are now better."
+   ]
+  },
+  {
+   "begin": "2383.720",
+   "children": [],
+   "end": "2392.660",
+   "id": "f000582",
+   "language": "en",
+   "lines": [
+    "Our children get off to a better start from pre-school programs and smaller classes in the early grades, and we have one of the most aggressive adult education programs in the country."
+   ]
+  },
+  {
+   "begin": "2392.660",
+   "children": [],
+   "end": "2394.240",
+   "id": "f000583",
+   "language": "en",
+   "lines": [
+    "We talked about that."
+   ]
+  },
+  {
+   "begin": "2394.240",
+   "children": [],
+   "end": "2402.340",
+   "id": "f000584",
+   "language": "en",
+   "lines": [
+    "This year my state ranks first in the country in job growth, 4th in manufacturing in job growth, 4th in income growth, 4th in the decline of poverty."
+   ]
+  },
+  {
+   "begin": "2402.340",
+   "children": [],
+   "end": "2402.920",
+   "id": "f000585",
+   "language": "en",
+   "lines": [
+    "I'm proud of that."
+   ]
+  },
+  {
+   "begin": "2402.920",
+   "children": [],
+   "end": "2403.440",
+   "id": "n000222",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2403.440",
+   "children": [],
+   "end": "2406.460",
+   "id": "f000586",
+   "language": "en",
+   "lines": [
+    "It happened because I could work with people -- Republicans and Democrats."
+   ]
+  },
+  {
+   "begin": "2406.460",
+   "children": [],
+   "end": "2407.360",
+   "id": "n000223",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2407.360",
+   "children": [],
+   "end": "2414.280",
+   "id": "f000587",
+   "language": "en",
+   "lines": [
+    "That's why we've had 24 retired generals and admirals, hundreds of business people, many of them Republican, support this campaign."
+   ]
+  },
+  {
+   "begin": "2414.280",
+   "children": [],
+   "end": "2414.760",
+   "id": "n000224",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2414.760",
+   "children": [],
+   "end": "2417.580",
+   "id": "f000588",
+   "language": "en",
+   "lines": [
+    "You have to decide whether you want to change or not."
+   ]
+  },
+  {
+   "begin": "2417.580",
+   "children": [],
+   "end": "2422.200",
+   "id": "f000589",
+   "language": "en",
+   "lines": [
+    "We do not need 4 more years of an economic theory that doesn't work."
+   ]
+  },
+  {
+   "begin": "2422.200",
+   "children": [],
+   "end": "2424.220",
+   "id": "f000590",
+   "language": "en",
+   "lines": [
+    "We've had 12 years of trickle down economics."
+   ]
+  },
+  {
+   "begin": "2424.220",
+   "children": [],
+   "end": "2424.720",
+   "id": "n000225",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2424.720",
+   "children": [],
+   "end": "2428.680",
+   "id": "f000591",
+   "language": "en",
+   "lines": [
+    "It's time to put the American people first, to invest and grow this economy."
+   ]
+  },
+  {
+   "begin": "2428.680",
+   "children": [],
+   "end": "2429.240",
+   "id": "n000226",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2429.240",
+   "children": [],
+   "end": "2435.160",
+   "id": "f000592",
+   "language": "en",
+   "lines": [
+    "I'm the only person here who's ever balanced a government budget and I've presented 12 of them and cut spending repeatedly."
+   ]
+  },
+  {
+   "begin": "2435.160",
+   "children": [],
+   "end": "2435.520",
+   "id": "n000227",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2435.520",
+   "children": [],
+   "end": "2438.260",
+   "id": "f000593",
+   "language": "en",
+   "lines": [
+    "But you cannot just get there by balancing the budget."
+   ]
+  },
+  {
+   "begin": "2438.260",
+   "children": [],
+   "end": "2442.440",
+   "id": "f000594",
+   "language": "en",
+   "lines": [
+    "We've got to grow the economy by putting people first -- real people like you."
+   ]
+  },
+  {
+   "begin": "2442.440",
+   "children": [],
+   "end": "2449.120",
+   "id": "f000595",
+   "language": "en",
+   "lines": [
+    "I got into this race because I did not want my child to grow up to be part of the first generation of Americans to do worse than her parents."
+   ]
+  },
+  {
+   "begin": "2449.120",
+   "children": [],
+   "end": "2450.000",
+   "id": "f000596",
+   "language": "en",
+   "lines": [
+    "We're better than that."
+   ]
+  },
+  {
+   "begin": "2450.000",
+   "children": [],
+   "end": "2450.360",
+   "id": "n000228",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2450.360",
+   "children": [],
+   "end": "2451.440",
+   "id": "f000597",
+   "language": "en",
+   "lines": [
+    "We can do better than that."
+   ]
+  },
+  {
+   "begin": "2451.440",
+   "children": [],
+   "end": "2451.760",
+   "id": "n000229",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2451.760",
+   "children": [],
+   "end": "2455.720",
+   "id": "f000598",
+   "language": "en",
+   "lines": [
+    "I want to make America as great as it can be and I ask for your help in doing it."
+   ]
+  },
+  {
+   "begin": "2455.720",
+   "children": [],
+   "end": "2456.240",
+   "id": "n000230",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2456.240",
+   "children": [],
+   "end": "2457.160",
+   "id": "f000599",
+   "language": "en",
+   "lines": [
+    "Thank you very much."
+   ]
+  },
+  {
+   "begin": "2457.160",
+   "children": [],
+   "end": "2502.189",
+   "id": "TAIL",
+   "language": null,
+   "lines": []
+  }
+ ]
+}

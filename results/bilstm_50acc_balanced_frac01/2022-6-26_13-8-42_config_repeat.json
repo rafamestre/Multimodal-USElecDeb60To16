@@ -1,0 +1,9 @@
+{
+    "batch_size": 16,
+    "dropout_text": 0.6,
+    "hidden_activation": "tanh",
+    "lr": 0.0006680812393267143,
+    "nb_neurons_bisltm_dense": 32,
+    "nb_neurons_bisltm_layer": 64,
+    "trainable": false
+}

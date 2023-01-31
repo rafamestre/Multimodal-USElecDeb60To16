@@ -1,0 +1,2 @@
+runtime string:	mfcc_mask_nonspeech=True|dtw_margin=120.000|mfcc_window_shift=0.04
+config string:	task_language=en|is_text_type=plain|os_task_file_format=srt|is_audio_file_head_length=7|is_audio_file_tail_length=0|is_text_file_ignore_regex=[(\[].*?[)\]]|([^A-aZ-z][uU][Hh])|task_adjust_boundary_nonspeech_min=0.3|task_adjust_boundary_nonspeech_string=(SILENCE)|task_adjust_boundary_algorithm=percent|task_adjust_boundary_percent_value=50|task_adjust_boundary_no_zero=True

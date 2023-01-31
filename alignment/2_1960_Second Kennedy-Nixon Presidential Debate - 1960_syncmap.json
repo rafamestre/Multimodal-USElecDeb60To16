@@ -1,0 +1,7764 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "7.000",
+   "id": "HEAD",
+   "language": null,
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "7.000",
+   "children": [],
+   "end": "8.300",
+   "id": "f000001",
+   "language": null,
+   "lines": [
+    "Good evening."
+   ]
+  },
+  {
+   "begin": "8.300",
+   "children": [],
+   "end": "12.100",
+   "id": "f000002",
+   "language": null,
+   "lines": [
+    "This is Frank McGee, NBC News in Washington."
+   ]
+  },
+  {
+   "begin": "12.100",
+   "children": [],
+   "end": "15.060",
+   "id": "f000003",
+   "language": null,
+   "lines": [
+    "This is the second in a series of programs unmatched in history."
+   ]
+  },
+  {
+   "begin": "15.060",
+   "children": [],
+   "end": "16.280",
+   "id": "n000001",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "16.280",
+   "children": [],
+   "end": "27.280",
+   "id": "f000004",
+   "language": null,
+   "lines": [
+    "Never have so many people seen the major candidates for president of the United States at the same time; and never until this series have Americans seen the candidates in face-to-face exchange."
+   ]
+  },
+  {
+   "begin": "27.280",
+   "children": [],
+   "end": "28.400",
+   "id": "n000002",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "28.400",
+   "children": [],
+   "end": "33.900",
+   "id": "f000005",
+   "language": null,
+   "lines": [
+    "Tonight the candidates have agreed to devote the full hour to answering questions on any issue of the campaign."
+   ]
+  },
+  {
+   "begin": "33.900",
+   "children": [],
+   "end": "34.960",
+   "id": "n000003",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "34.960",
+   "children": [],
+   "end": "44.520",
+   "id": "f000006",
+   "language": null,
+   "lines": [
+    "And here tonight are: the Republican candidate, Vice President Richard M. Nixon; and the Democratic candidate, Senator John F. Kennedy."
+   ]
+  },
+  {
+   "begin": "44.520",
+   "children": [],
+   "end": "68.400",
+   "id": "f000007",
+   "language": null,
+   "lines": [
+    "Now representatives of the candidates and of all the radio and television networks have agreed on these rules: neither candidate will make an opening statement or a closing summation; each will be questioned in turn; each will have an opportunity to comment upon the answer of the other; each reporter will ask only one question in turn."
+   ]
+  },
+  {
+   "begin": "68.400",
+   "children": [],
+   "end": "70.680",
+   "id": "f000008",
+   "language": null,
+   "lines": [
+    "He is free to ask any question he chooses."
+   ]
+  },
+  {
+   "begin": "70.680",
+   "children": [],
+   "end": "71.600",
+   "id": "n000004",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "71.600",
+   "children": [],
+   "end": "80.400",
+   "id": "f000009",
+   "language": null,
+   "lines": [
+    "Neither candidate knows what questions will be asked and only the clock will determine who will be asked the last question."
+   ]
+  },
+  {
+   "begin": "80.400",
+   "children": [],
+   "end": "90.720",
+   "id": "f000010",
+   "language": null,
+   "lines": [
+    "These programs represent an unprecedented opportunity for the candidates to present their philosophies and programs directly to the people and for the people to compare these and the candidates."
+   ]
+  },
+  {
+   "begin": "90.720",
+   "children": [],
+   "end": "92.000",
+   "id": "n000005",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "92.000",
+   "children": [],
+   "end": "98.020",
+   "id": "f000011",
+   "language": null,
+   "lines": [
+    "The four reporters on tonight's panel include a newspaperman and a wire service representative."
+   ]
+  },
+  {
+   "begin": "98.020",
+   "children": [],
+   "end": "106.180",
+   "id": "f000012",
+   "language": null,
+   "lines": [
+    "These two were selected by lot by the press secretaries of the candidates from among the reporters traveling with the candidates."
+   ]
+  },
+  {
+   "begin": "106.180",
+   "children": [],
+   "end": "109.120",
+   "id": "f000013",
+   "language": null,
+   "lines": [
+    "The broadcasting representatives were selected by their respective companies."
+   ]
+  },
+  {
+   "begin": "109.120",
+   "children": [],
+   "end": "123.720",
+   "id": "f000014",
+   "language": null,
+   "lines": [
+    "The reporters are: Paul Niven of CBS, Edward P. Morgan of ABC, Alvin Spivak of United Press International, and Harold R. Levy of Newsday."
+   ]
+  },
+  {
+   "begin": "123.720",
+   "children": [],
+   "end": "124.040",
+   "id": "n000006",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "124.040",
+   "children": [],
+   "end": "129.600",
+   "id": "f000015",
+   "language": null,
+   "lines": [
+    "Now the first question is from Mr. Niven and is for Vice President Nixon."
+   ]
+  },
+  {
+   "begin": "129.600",
+   "children": [],
+   "end": "130.800",
+   "id": "n000007",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "130.800",
+   "children": [],
+   "end": "137.140",
+   "id": "f000016",
+   "language": null,
+   "lines": [
+    "Mr. Vice President, Senator Kennedy said last night that the Administration must take responsibility for the loss of Cuba."
+   ]
+  },
+  {
+   "begin": "137.140",
+   "children": [],
+   "end": "138.040",
+   "id": "n000008",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "138.040",
+   "children": [],
+   "end": "148.840",
+   "id": "f000017",
+   "language": null,
+   "lines": [
+    "Would you compare the validity of that statement with the validity of your own statements in previous campaigns that the Truman Administration was responsible for the loss of China to the Communists?"
+   ]
+  },
+  {
+   "begin": "148.840",
+   "children": [],
+   "end": "159.760",
+   "id": "f000018",
+   "language": null,
+   "lines": [
+    "Well first of all, I don't agree with Senator Kennedy that Cuba is lost and certainly China was lost when this Administration came into power in 1953."
+   ]
+  },
+  {
+   "begin": "159.760",
+   "children": [],
+   "end": "184.440",
+   "id": "f000019",
+   "language": null,
+   "lines": [
+    "As I look at Cuba today, I believe that we are following the right course, a course which is difficult but a course which under the circumstance is the only proper one which will see that the Cuban people get a chance to realize their aspirations of progress through freedom and that they get that with our cooperation with the other organi- of the states in the Organization of American States."
+   ]
+  },
+  {
+   "begin": "184.440",
+   "children": [],
+   "end": "185.720",
+   "id": "n000009",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "185.720",
+   "children": [],
+   "end": "192.900",
+   "id": "f000020",
+   "language": null,
+   "lines": [
+    "Now Senator Kennedy has made some very strong criticisms of my part - or alleged part - in what has happened in Cuba."
+   ]
+  },
+  {
+   "begin": "192.900",
+   "children": [],
+   "end": "193.720",
+   "id": "n000010",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "193.720",
+   "children": [],
+   "end": "198.160",
+   "id": "f000021",
+   "language": null,
+   "lines": [
+    "He points to the fact that I visited Cuba while Mr. Batista was in power there."
+   ]
+  },
+  {
+   "begin": "198.160",
+   "children": [],
+   "end": "199.000",
+   "id": "n000011",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "199.000",
+   "children": [],
+   "end": "208.960",
+   "id": "f000022",
+   "language": null,
+   "lines": [
+    "I can only point out that if we are going to judge the Administrations in terms of our attitude toward dictators, we're glad to have a comparison with the previous administration."
+   ]
+  },
+  {
+   "begin": "208.960",
+   "children": [],
+   "end": "209.880",
+   "id": "n000012",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "209.880",
+   "children": [],
+   "end": "217.520",
+   "id": "f000023",
+   "language": null,
+   "lines": [
+    "There were eleven dictators in South America and in Central America when we came in, in 1953."
+   ]
+  },
+  {
+   "begin": "217.520",
+   "children": [],
+   "end": "220.100",
+   "id": "f000024",
+   "language": null,
+   "lines": [
+    "Today there are only three left including the one in Cuba."
+   ]
+  },
+  {
+   "begin": "220.100",
+   "children": [],
+   "end": "221.160",
+   "id": "n000013",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "221.160",
+   "children": [],
+   "end": "223.700",
+   "id": "f000025",
+   "language": null,
+   "lines": [
+    "We think that's pretty good progress."
+   ]
+  },
+  {
+   "begin": "223.700",
+   "children": [],
+   "end": "231.520",
+   "id": "f000026",
+   "language": null,
+   "lines": [
+    "Senator Kennedy also indicated with regard to Cuba that he thought that I had made a mistake when I was in Cuba in not calling for free elections in that country."
+   ]
+  },
+  {
+   "begin": "231.520",
+   "children": [],
+   "end": "232.800",
+   "id": "n000014",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "232.800",
+   "children": [],
+   "end": "239.680",
+   "id": "f000027",
+   "language": null,
+   "lines": [
+    "Now I'm very surprised that Senator Kennedy, who is on the Foreign Relations Committee, would have made such a statement as this kind."
+   ]
+  },
+  {
+   "begin": "239.680",
+   "children": [],
+   "end": "244.040",
+   "id": "f000028",
+   "language": null,
+   "lines": [
+    "As a matter of fact in his book, The Strategy for Peace, he took the right position."
+   ]
+  },
+  {
+   "begin": "244.040",
+   "children": [],
+   "end": "257.080",
+   "id": "f000029",
+   "language": null,
+   "lines": [
+    "And that position is that the United States has a treaty - a treaty with all of the Organization of American States - which prohibits us from interfering in the internal affairs of any other state and prohibits them as well."
+   ]
+  },
+  {
+   "begin": "257.080",
+   "children": [],
+   "end": "258.080",
+   "id": "n000015",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "258.080",
+   "children": [],
+   "end": "263.120",
+   "id": "f000030",
+   "language": null,
+   "lines": [
+    "For me to have made such a statement would been in direct uh - opposition to that treaty."
+   ]
+  },
+  {
+   "begin": "263.120",
+   "children": [],
+   "end": "264.040",
+   "id": "n000016",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "264.040",
+   "children": [],
+   "end": "266.620",
+   "id": "f000031",
+   "language": null,
+   "lines": [
+    "Now with regard to Cuba, let me make one thing clear."
+   ]
+  },
+  {
+   "begin": "266.620",
+   "children": [],
+   "end": "272.160",
+   "id": "f000032",
+   "language": null,
+   "lines": [
+    "There isn't any question but that we will defend our rights there."
+   ]
+  },
+  {
+   "begin": "272.160",
+   "children": [],
+   "end": "274.480",
+   "id": "f000033",
+   "language": null,
+   "lines": [
+    "There isn't any question but that we will defend Guantanamo if it's attacked."
+   ]
+  },
+  {
+   "begin": "274.480",
+   "children": [],
+   "end": "274.960",
+   "id": "n000017",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "274.960",
+   "children": [],
+   "end": "286.040",
+   "id": "f000034",
+   "language": null,
+   "lines": [
+    "There also isn't any question but that the free people of Cuba - the people who want to be free - are going to be supported and that they will attain their freedom."
+   ]
+  },
+  {
+   "begin": "286.040",
+   "children": [],
+   "end": "287.040",
+   "id": "n000018",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "287.040",
+   "children": [],
+   "end": "292.700",
+   "id": "f000035",
+   "language": null,
+   "lines": [
+    "No, Cuba is not lost, and I don't think this kind of defeatist talk by Senator Kennedy helps the situation one bit."
+   ]
+  },
+  {
+   "begin": "292.700",
+   "children": [],
+   "end": "296.520",
+   "id": "f000036",
+   "language": null,
+   "lines": [
+    "Senator Kennedy, would you care to comment?"
+   ]
+  },
+  {
+   "begin": "296.520",
+   "children": [],
+   "end": "299.600",
+   "id": "f000037",
+   "language": null,
+   "lines": [
+    "In the first place I've never suggested that Cuba was lost except for the present."
+   ]
+  },
+  {
+   "begin": "299.600",
+   "children": [],
+   "end": "300.360",
+   "id": "n000019",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "300.360",
+   "children": [],
+   "end": "304.320",
+   "id": "f000038",
+   "language": null,
+   "lines": [
+    "In my speech last night I indicated that I thought that Cuba one day again would be free."
+   ]
+  },
+  {
+   "begin": "304.320",
+   "children": [],
+   "end": "305.160",
+   "id": "n000020",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "305.160",
+   "children": [],
+   "end": "322.560",
+   "id": "f000039",
+   "language": null,
+   "lines": [
+    "Where I've been critical of the Administration's policy, and where I criticized Mr. Nixon, was because in his press conference in Havana in 1955, he praised the competence and stability of the bicta- bict- Batista dictatorship - that dictatorship had killed over twenty thousand Cubans in seven years."
+   ]
+  },
+  {
+   "begin": "322.560",
+   "children": [],
+   "end": "326.600",
+   "id": "f000040",
+   "language": null,
+   "lines": [
+    "Secondly, I did not criticize him for not calling for free elections."
+   ]
+  },
+  {
+   "begin": "326.600",
+   "children": [],
+   "end": "327.320",
+   "id": "n000021",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "327.320",
+   "children": [],
+   "end": "338.000",
+   "id": "f000041",
+   "language": null,
+   "lines": [
+    "What I criticized was the failure of the Administration to use its great influence to persuade the Cuban government to hold free elections, particularly in 1957 and 1958."
+   ]
+  },
+  {
+   "begin": "338.000",
+   "children": [],
+   "end": "338.720",
+   "id": "n000022",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "338.720",
+   "children": [],
+   "end": "356.600",
+   "id": "f000042",
+   "language": null,
+   "lines": [
+    "Thirdly, Arthur Gardner, a Republican Ambassador, Earl Smith, a Republican Ambassador, in succession - both have indicated in the past six weeks that they reported to Washington that Castro was a Marxist, that Raul Castro was a Communist, and that they got no effective results."
+   ]
+  },
+  {
+   "begin": "356.600",
+   "children": [],
+   "end": "357.360",
+   "id": "n000023",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "357.360",
+   "children": [],
+   "end": "367.000",
+   "id": "f000043",
+   "language": null,
+   "lines": [
+    "Instead our aid continued to Batista, which was ineffective; we never were on the side of freedom; we never used our influence when we could have used it most effectively - and today Cuba is lost for freedom."
+   ]
+  },
+  {
+   "begin": "367.000",
+   "children": [],
+   "end": "367.520",
+   "id": "n000024",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "367.520",
+   "children": [],
+   "end": "388.740",
+   "id": "f000044",
+   "language": null,
+   "lines": [
+    "I hope some day it will rise; but I don't think it will rise if we continue the same policies toward Cuba that we did in recent years, and in fact towards all of Latin America - when we've almost ignored the needs of Latin America; we've beamed not a single Voice of America program in Spanish to all of Latin America in the last eight years, except for the three months of the Hungarian uh - revolution."
+   ]
+  },
+  {
+   "begin": "388.740",
+   "children": [],
+   "end": "389.680",
+   "id": "n000025",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "389.680",
+   "children": [],
+   "end": "391.960",
+   "id": "f000045",
+   "language": null,
+   "lines": [
+    "Mr. Morgan, with a question for Senator Kennedy."
+   ]
+  },
+  {
+   "begin": "391.960",
+   "children": [],
+   "end": "392.920",
+   "id": "n000026",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "392.920",
+   "children": [],
+   "end": "401.460",
+   "id": "f000046",
+   "language": null,
+   "lines": [
+    "Senator, last May, in Oregon, you discussed the possibilities of sending apologies or regrets to Khrushchev over the U-2 incident."
+   ]
+  },
+  {
+   "begin": "401.460",
+   "children": [],
+   "end": "402.880",
+   "id": "n000027",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "402.880",
+   "children": [],
+   "end": "405.080",
+   "id": "f000047",
+   "language": null,
+   "lines": [
+    "Do you think now that that would have done any good?"
+   ]
+  },
+  {
+   "begin": "405.080",
+   "children": [],
+   "end": "405.480",
+   "id": "n000028",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "405.480",
+   "children": [],
+   "end": "405.760",
+   "id": "f000048",
+   "language": null,
+   "lines": [
+    "Did you think so then?"
+   ]
+  },
+  {
+   "begin": "405.760",
+   "children": [],
+   "end": "413.660",
+   "id": "f000049",
+   "language": null,
+   "lines": [
+    "Mr. Morgan, I suggested that if the United States felt that it could save the summit conference that it would have been proper for us to have expressed regrets."
+   ]
+  },
+  {
+   "begin": "413.660",
+   "children": [],
+   "end": "422.680",
+   "id": "f000050",
+   "language": null,
+   "lines": [
+    "In my judgment that statement has been distorted uh - by Mr. Nixon and others in their debates around the country and in their discussions."
+   ]
+  },
+  {
+   "begin": "422.680",
+   "children": [],
+   "end": "428.320",
+   "id": "f000051",
+   "language": null,
+   "lines": [
+    "Mr. Lodge, on \"Meet the Press\" a month ago, said if there was ever a case when we did not have law an our side it was in the U-2 incident."
+   ]
+  },
+  {
+   "begin": "428.320",
+   "children": [],
+   "end": "432.440",
+   "id": "f000052",
+   "language": null,
+   "lines": [
+    "The U-2 flights were proper from the point of view of protecting our security."
+   ]
+  },
+  {
+   "begin": "432.440",
+   "children": [],
+   "end": "433.080",
+   "id": "n000029",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "433.080",
+   "children": [],
+   "end": "435.880",
+   "id": "f000053",
+   "language": null,
+   "lines": [
+    "But they were not in accordance with international law."
+   ]
+  },
+  {
+   "begin": "435.880",
+   "children": [],
+   "end": "457.960",
+   "id": "f000054",
+   "language": null,
+   "lines": [
+    "And I said that I felt that rather than tell the lie which we told, rather than indicate that the flights would continue - in fact, I believe Mr. Nixon himself said on May fifteenth that the flights would continue even though Mr. Herter testified before the Senate Foreign Relations Committee that they had been canceled as of May twelfth - that it would have been far better that if we had expressed regrets, if that would have saved the summit, and if the summit is useful - and I believe it is."
+   ]
+  },
+  {
+   "begin": "457.960",
+   "children": [],
+   "end": "458.520",
+   "id": "n000030",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "458.520",
+   "children": [],
+   "end": "470.040",
+   "id": "f000055",
+   "language": null,
+   "lines": [
+    "The point that is always left out is the fact that we expressed regrets to Castro this winter; that we expressed regrets - the Eisenhower Administration expressed regrets - for a flight over Southern Russia in 1958."
+   ]
+  },
+  {
+   "begin": "470.040",
+   "children": [],
+   "end": "470.840",
+   "id": "n000031",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "470.840",
+   "children": [],
+   "end": "474.160",
+   "id": "f000056",
+   "language": null,
+   "lines": [
+    "We expressed regrets for a flight over Eastern Germany under this Administration."
+   ]
+  },
+  {
+   "begin": "474.160",
+   "children": [],
+   "end": "475.000",
+   "id": "n000032",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "475.000",
+   "children": [],
+   "end": "478.880",
+   "id": "f000057",
+   "language": null,
+   "lines": [
+    "The Soviet Union in 1955 expressed regrets to us over the Bering Sea incident."
+   ]
+  },
+  {
+   "begin": "478.880",
+   "children": [],
+   "end": "485.100",
+   "id": "f000058",
+   "language": null,
+   "lines": [
+    "The Chinese Communists expressed regrets to us over a plane incident in 1956."
+   ]
+  },
+  {
+   "begin": "485.100",
+   "children": [],
+   "end": "496.400",
+   "id": "f000059",
+   "language": null,
+   "lines": [
+    "That is the accepted procedure between nations; and my judgment is that we should follow the advice of Theodore Roosevelt: Be strong; maintain a strong position; but also speak softly."
+   ]
+  },
+  {
+   "begin": "496.400",
+   "children": [],
+   "end": "505.380",
+   "id": "f000060",
+   "language": null,
+   "lines": [
+    "I believe that in those cases where international custom calls for the expression of a regret, if that would have kept the summit going, in my judgment it was a proper action."
+   ]
+  },
+  {
+   "begin": "505.380",
+   "children": [],
+   "end": "505.840",
+   "id": "n000033",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "505.840",
+   "children": [],
+   "end": "506.480",
+   "id": "f000061",
+   "language": null,
+   "lines": [
+    "It's not appeasement."
+   ]
+  },
+  {
+   "begin": "506.480",
+   "children": [],
+   "end": "506.920",
+   "id": "n000034",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "506.920",
+   "children": [],
+   "end": "507.560",
+   "id": "f000062",
+   "language": null,
+   "lines": [
+    "It's not soft."
+   ]
+  },
+  {
+   "begin": "507.560",
+   "children": [],
+   "end": "508.200",
+   "id": "n000035",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "508.200",
+   "children": [],
+   "end": "510.920",
+   "id": "f000063",
+   "language": null,
+   "lines": [
+    "I believe we should be stronger than we now are."
+   ]
+  },
+  {
+   "begin": "510.920",
+   "children": [],
+   "end": "512.640",
+   "id": "f000064",
+   "language": null,
+   "lines": [
+    "I believe we should have a stronger military force."
+   ]
+  },
+  {
+   "begin": "512.640",
+   "children": [],
+   "end": "513.400",
+   "id": "n000036",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "513.400",
+   "children": [],
+   "end": "515.680",
+   "id": "f000065",
+   "language": null,
+   "lines": [
+    "I believe we should increase our strength all over the world."
+   ]
+  },
+  {
+   "begin": "515.680",
+   "children": [],
+   "end": "516.400",
+   "id": "n000037",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "516.400",
+   "children": [],
+   "end": "535.960",
+   "id": "f000066",
+   "language": null,
+   "lines": [
+    "But I don't confuse words with strength; and in my judgment if the summit was useful, if it would have brought us closer to peace, that rather than the lie that we told - which has been criticized by all responsible people afterwards - it would have been far better for us to follow the common diplomatic procedure of expressing regrets and then try to move on."
+   ]
+  },
+  {
+   "begin": "535.960",
+   "children": [],
+   "end": "537.360",
+   "id": "f000067",
+   "language": null,
+   "lines": [
+    "Mr. Vice President."
+   ]
+  },
+  {
+   "begin": "537.360",
+   "children": [],
+   "end": "539.920",
+   "id": "f000068",
+   "language": null,
+   "lines": [
+    "I think Kenne- Senator Kennedy is wrong on three counts."
+   ]
+  },
+  {
+   "begin": "539.920",
+   "children": [],
+   "end": "540.360",
+   "id": "n000038",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "540.360",
+   "children": [],
+   "end": "549.620",
+   "id": "f000069",
+   "language": null,
+   "lines": [
+    "First of all, he's wrong in thinking th- er- even suggesting that Mr. Khrushchev might have continued the conference if we had expressed regrets."
+   ]
+  },
+  {
+   "begin": "549.620",
+   "children": [],
+   "end": "555.020",
+   "id": "f000070",
+   "language": null,
+   "lines": [
+    "He knew these flights were going on long before and that wasn't the reason that he broke up the conference."
+   ]
+  },
+  {
+   "begin": "555.020",
+   "children": [],
+   "end": "557.060",
+   "id": "f000071",
+   "language": null,
+   "lines": [
+    "Second, he's wrong in the analogies that he makes."
+   ]
+  },
+  {
+   "begin": "557.060",
+   "children": [],
+   "end": "557.920",
+   "id": "n000039",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "557.920",
+   "children": [],
+   "end": "560.700",
+   "id": "f000072",
+   "language": null,
+   "lines": [
+    "The United States is a strong country."
+   ]
+  },
+  {
+   "begin": "560.700",
+   "children": [],
+   "end": "563.100",
+   "id": "f000073",
+   "language": null,
+   "lines": [
+    "Whenever we do anything that's wrong, we can express regrets."
+   ]
+  },
+  {
+   "begin": "563.100",
+   "children": [],
+   "end": "577.920",
+   "id": "f000074",
+   "language": null,
+   "lines": [
+    "But when the president of the United States is doing something that's right, something that is for the purpose of defending the security of this country against surprise attack, he can never express regrets or apologize to anybody, including Mr. Khrushchev."
+   ]
+  },
+  {
+   "begin": "577.920",
+   "children": [],
+   "end": "578.960",
+   "id": "n000040",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "578.960",
+   "children": [],
+   "end": "593.020",
+   "id": "f000075",
+   "language": null,
+   "lines": [
+    "Now in that connection Senator Kennedy has criticized the President on the ground not only of not expressing regrets, but because he allowed this flight to take place while the summit conference - or immediately before the summit conference occurred."
+   ]
+  },
+  {
+   "begin": "593.020",
+   "children": [],
+   "end": "596.080",
+   "id": "f000076",
+   "language": null,
+   "lines": [
+    "This seems to me is criticism that again is wrong on his part."
+   ]
+  },
+  {
+   "begin": "596.080",
+   "children": [],
+   "end": "597.120",
+   "id": "n000041",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "597.120",
+   "children": [],
+   "end": "598.280",
+   "id": "f000077",
+   "language": null,
+   "lines": [
+    "We all remember Pearl Harbor."
+   ]
+  },
+  {
+   "begin": "598.280",
+   "children": [],
+   "end": "599.120",
+   "id": "n000042",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "599.120",
+   "children": [],
+   "end": "600.720",
+   "id": "f000078",
+   "language": null,
+   "lines": [
+    "We lost three thousand American lives."
+   ]
+  },
+  {
+   "begin": "600.720",
+   "children": [],
+   "end": "601.680",
+   "id": "n000043",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "601.680",
+   "children": [],
+   "end": "604.280",
+   "id": "f000079",
+   "language": null,
+   "lines": [
+    "We cannot afford an intelligence gap."
+   ]
+  },
+  {
+   "begin": "604.280",
+   "children": [],
+   "end": "610.760",
+   "id": "f000080",
+   "language": null,
+   "lines": [
+    "And I just want to make my position absolutely clear with regard to getting intelligence information."
+   ]
+  },
+  {
+   "begin": "610.760",
+   "children": [],
+   "end": "621.160",
+   "id": "f000081",
+   "language": null,
+   "lines": [
+    "I don't intend to see to it that the United States is ever in a position where, while we're negotiating with the Soviet Union, that we discontinue our intelligence effort."
+   ]
+  },
+  {
+   "begin": "621.160",
+   "children": [],
+   "end": "633.860",
+   "id": "f000082",
+   "language": null,
+   "lines": [
+    "And I don't intend ever to express regrets to Mr. Khrushchev or anybody else if I'm doing something that has the support of the Congress and that is right for the purpose of protecting the security of the United States."
+   ]
+  },
+  {
+   "begin": "633.860",
+   "children": [],
+   "end": "636.720",
+   "id": "f000083",
+   "language": null,
+   "lines": [
+    "Mr. Spivak with a question for Vice President Nixon."
+   ]
+  },
+  {
+   "begin": "636.720",
+   "children": [],
+   "end": "644.840",
+   "id": "f000084",
+   "language": null,
+   "lines": [
+    "Mr. Vice President, you have accused Senator Kennedy of avoiding the civil rights issue when he has been in the South and he has accused you of the same thing."
+   ]
+  },
+  {
+   "begin": "644.840",
+   "children": [],
+   "end": "645.640",
+   "id": "n000044",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "645.640",
+   "children": [],
+   "end": "654.740",
+   "id": "f000085",
+   "language": null,
+   "lines": [
+    "With both North and South listening and watching, would you sum up uh - your own intentions in the field of civil rights if you become president."
+   ]
+  },
+  {
+   "begin": "654.740",
+   "children": [],
+   "end": "659.160",
+   "id": "f000086",
+   "language": null,
+   "lines": [
+    "My intentions in the field of civil rights have been spelled out in the Republican platform."
+   ]
+  },
+  {
+   "begin": "659.160",
+   "children": [],
+   "end": "661.680",
+   "id": "f000087",
+   "language": null,
+   "lines": [
+    "I think we have to make progress first in the field of employment."
+   ]
+  },
+  {
+   "begin": "661.680",
+   "children": [],
+   "end": "662.480",
+   "id": "n000045",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "662.480",
+   "children": [],
+   "end": "676.820",
+   "id": "f000088",
+   "language": null,
+   "lines": [
+    "And there we would give statutory authority to the Committee on Government Contracts, which is an effective way of getting real progress made in this area, since about one out of every four jobs is held by and is allotted by people who have government contracts."
+   ]
+  },
+  {
+   "begin": "676.820",
+   "children": [],
+   "end": "677.480",
+   "id": "n000046",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "677.480",
+   "children": [],
+   "end": "689.640",
+   "id": "f000089",
+   "language": null,
+   "lines": [
+    "Certainly I think all of us agree that when anybody has a government contract, certainly the money that is spent under that contract ought to be disbursed equally without regard to the race or creed or color of the individual who is to be employed."
+   ]
+  },
+  {
+   "begin": "689.640",
+   "children": [],
+   "end": "690.520",
+   "id": "n000047",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "690.520",
+   "children": [],
+   "end": "700.320",
+   "id": "f000090",
+   "language": null,
+   "lines": [
+    "Second, in the field of schools, we believe that there should be provisions whereby the federal government would give assistance to those districts who do want to integrate their schools."
+   ]
+  },
+  {
+   "begin": "700.320",
+   "children": [],
+   "end": "701.080",
+   "id": "n000048",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "701.080",
+   "children": [],
+   "end": "707.720",
+   "id": "f000091",
+   "language": null,
+   "lines": [
+    "That of course was rejected as was the government contracts provision by the special session of the Congress to - in which Mr. Kennedy was quite active."
+   ]
+  },
+  {
+   "begin": "707.720",
+   "children": [],
+   "end": "708.720",
+   "id": "n000049",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "708.720",
+   "children": [],
+   "end": "714.000",
+   "id": "f000092",
+   "language": null,
+   "lines": [
+    "And then as far as other areas are concerned, I think that we have to look to presidential leadership."
+   ]
+  },
+  {
+   "begin": "714.000",
+   "children": [],
+   "end": "715.000",
+   "id": "n000050",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "715.000",
+   "children": [],
+   "end": "720.200",
+   "id": "f000093",
+   "language": null,
+   "lines": [
+    "And when I speak of presidential leadership, I refer for example to our attitude on the sit-in strikes."
+   ]
+  },
+  {
+   "begin": "720.200",
+   "children": [],
+   "end": "721.240",
+   "id": "n000051",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "721.240",
+   "children": [],
+   "end": "733.560",
+   "id": "f000094",
+   "language": null,
+   "lines": [
+    "Here we have a situation which causes all of us concern - causes us concern because of the denial of the rights of people to the equality which we think belongs to everybody."
+   ]
+  },
+  {
+   "begin": "733.560",
+   "children": [],
+   "end": "735.840",
+   "id": "f000095",
+   "language": null,
+   "lines": [
+    "I have talked to Negro mothers."
+   ]
+  },
+  {
+   "begin": "735.840",
+   "children": [],
+   "end": "748.000",
+   "id": "f000096",
+   "language": null,
+   "lines": [
+    "I've heard them explain - try to explain - how they tell their children how they can go into a store and buy a loaf of bread but then can't go into that store and sit at the counter and get a Coca Cola."
+   ]
+  },
+  {
+   "begin": "748.000",
+   "children": [],
+   "end": "750.600",
+   "id": "f000097",
+   "language": null,
+   "lines": [
+    "This is wrong, and we have to do something about it."
+   ]
+  },
+  {
+   "begin": "750.600",
+   "children": [],
+   "end": "751.360",
+   "id": "n000052",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "751.360",
+   "children": [],
+   "end": "753.020",
+   "id": "f000098",
+   "language": null,
+   "lines": [
+    "So, under the circumstances, what do we do?"
+   ]
+  },
+  {
+   "begin": "753.020",
+   "children": [],
+   "end": "762.620",
+   "id": "f000099",
+   "language": null,
+   "lines": [
+    "Well what we do is what the Attorney-General of the United States did under the direction of the President: call in the owners of chain stores and get them to take action."
+   ]
+  },
+  {
+   "begin": "762.620",
+   "children": [],
+   "end": "763.760",
+   "id": "n000053",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "763.760",
+   "children": [],
+   "end": "772.900",
+   "id": "f000100",
+   "language": null,
+   "lines": [
+    "Now there are other places where the executive can lead, but let me just sum up by saying this: why do I talk every time I'm in the South on civil rights?"
+   ]
+  },
+  {
+   "begin": "772.900",
+   "children": [],
+   "end": "780.860",
+   "id": "f000101",
+   "language": null,
+   "lines": [
+    "Not because I am preaching to the people of the South because this isn't just a Southern problem; it's a Northern problem and a Western problem; it's a problem for all of us."
+   ]
+  },
+  {
+   "begin": "780.860",
+   "children": [],
+   "end": "787.000",
+   "id": "f000102",
+   "language": null,
+   "lines": [
+    "I do it because it's the responsibility of leadership, I do it because we have to solve this problem together."
+   ]
+  },
+  {
+   "begin": "787.000",
+   "children": [],
+   "end": "788.040",
+   "id": "n000054",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "788.040",
+   "children": [],
+   "end": "806.280",
+   "id": "f000103",
+   "language": null,
+   "lines": [
+    "I do it right at this time particularly because when we have Khrushchev in this country - a man who has enslaved millions, a man who has slaughtered thousands - we cannot continue to have a situation where he can point the finger at the United States of America and say that we are denying rights to our citizens."
+   ]
+  },
+  {
+   "begin": "806.280",
+   "children": [],
+   "end": "816.260",
+   "id": "f000104",
+   "language": null,
+   "lines": [
+    "And so I say both the candidates and both the vice presidential candidates, I would hope as well - including Senator Johnson - should talk on this issue at every opportunity."
+   ]
+  },
+  {
+   "begin": "816.260",
+   "children": [],
+   "end": "817.120",
+   "id": "n000055",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "817.120",
+   "children": [],
+   "end": "817.400",
+   "id": "f000105",
+   "language": null,
+   "lines": [
+    "Senator Kennedy."
+   ]
+  },
+  {
+   "begin": "817.400",
+   "children": [],
+   "end": "826.700",
+   "id": "f000106",
+   "language": null,
+   "lines": [
+    "Well, Mr. Nixon hasn't discussed the two basic questions: what is going to be done and what will be his policy on implementing the Supreme Court decision of 1954?"
+   ]
+  },
+  {
+   "begin": "826.700",
+   "children": [],
+   "end": "830.680",
+   "id": "f000107",
+   "language": null,
+   "lines": [
+    "Giving aid to schools technically that are trying to carry out the decision is not the great question."
+   ]
+  },
+  {
+   "begin": "830.680",
+   "children": [],
+   "end": "831.360",
+   "id": "n000056",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "831.360",
+   "children": [],
+   "end": "833.680",
+   "id": "f000108",
+   "language": null,
+   "lines": [
+    "Secondly, what's he going to do to provide fair employment?"
+   ]
+  },
+  {
+   "begin": "833.680",
+   "children": [],
+   "end": "834.320",
+   "id": "n000057",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "834.320",
+   "children": [],
+   "end": "841.040",
+   "id": "f000109",
+   "language": null,
+   "lines": [
+    "He's been the head of the Committee on Government Contracts that's carried out two cases, both in the District of Columbia."
+   ]
+  },
+  {
+   "begin": "841.040",
+   "children": [],
+   "end": "849.200",
+   "id": "f000110",
+   "language": null,
+   "lines": [
+    "He has not indicated his support of an attempt to provide fair employment practices around the country, so that everyone can get a job regardless of their race or color."
+   ]
+  },
+  {
+   "begin": "849.200",
+   "children": [],
+   "end": "856.760",
+   "id": "f000111",
+   "language": null,
+   "lines": [
+    "Nor has he indicated that he will support Title Three, which would give the Attorney General additional powers to protect Constitutional rights."
+   ]
+  },
+  {
+   "begin": "856.760",
+   "children": [],
+   "end": "859.480",
+   "id": "f000112",
+   "language": null,
+   "lines": [
+    "These are the great questions: equality of education in school."
+   ]
+  },
+  {
+   "begin": "859.480",
+   "children": [],
+   "end": "860.320",
+   "id": "n000058",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "860.320",
+   "children": [],
+   "end": "866.960",
+   "id": "f000113",
+   "language": null,
+   "lines": [
+    "About two percent of our population of white people are - is illiterate, ten per cent of our colored population."
+   ]
+  },
+  {
+   "begin": "866.960",
+   "children": [],
+   "end": "869.640",
+   "id": "f000114",
+   "language": null,
+   "lines": [
+    "Sixty to seventy percent of our colored children do not finish high school."
+   ]
+  },
+  {
+   "begin": "869.640",
+   "children": [],
+   "end": "870.400",
+   "id": "n000059",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "870.400",
+   "children": [],
+   "end": "874.180",
+   "id": "f000115",
+   "language": null,
+   "lines": [
+    "These are the questions in these areas that the North and South, East and West are entitled to know."
+   ]
+  },
+  {
+   "begin": "874.180",
+   "children": [],
+   "end": "878.660",
+   "id": "f000116",
+   "language": null,
+   "lines": [
+    "What will be the leadership of the president in these areas to provide equality of opportunity for employment?"
+   ]
+  },
+  {
+   "begin": "878.660",
+   "children": [],
+   "end": "886.800",
+   "id": "f000117",
+   "language": null,
+   "lines": [
+    "Equality of opportunity in the field of housing, which could be done on all federal supported housing by a stroke of the president's pen."
+   ]
+  },
+  {
+   "begin": "886.800",
+   "children": [],
+   "end": "887.440",
+   "id": "n000060",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "887.440",
+   "children": [],
+   "end": "891.860",
+   "id": "f000118",
+   "language": null,
+   "lines": [
+    "What will be done to provide equality of education in all sections of the United States?"
+   ]
+  },
+  {
+   "begin": "891.860",
+   "children": [],
+   "end": "895.440",
+   "id": "f000119",
+   "language": null,
+   "lines": [
+    "Those are the questions to which the president must establish a moral tone and moral leadership."
+   ]
+  },
+  {
+   "begin": "895.440",
+   "children": [],
+   "end": "896.040",
+   "id": "n000061",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "896.040",
+   "children": [],
+   "end": "898.480",
+   "id": "f000120",
+   "language": null,
+   "lines": [
+    "And I can assure you that if I'm elected president we will do so."
+   ]
+  },
+  {
+   "begin": "898.480",
+   "children": [],
+   "end": "900.200",
+   "id": "n000062",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "900.200",
+   "children": [],
+   "end": "902.200",
+   "id": "f000121",
+   "language": null,
+   "lines": [
+    "Mr. Levy with a question for Senator Kennedy."
+   ]
+  },
+  {
+   "begin": "902.200",
+   "children": [],
+   "end": "902.920",
+   "id": "n000063",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "902.920",
+   "children": [],
+   "end": "913.940",
+   "id": "f000122",
+   "language": null,
+   "lines": [
+    "Senator, on the same subject, in the past you have emphasized the president's responsibility as a moral leader as well as an executive on civil rights questions."
+   ]
+  },
+  {
+   "begin": "913.940",
+   "children": [],
+   "end": "914.920",
+   "id": "n000064",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "914.920",
+   "children": [],
+   "end": "924.120",
+   "id": "f000123",
+   "language": null,
+   "lines": [
+    "What specifically might the next president do uh - in the event of an uh - an occurrence such as Little Rock or the lunch-counter sit-ins?"
+   ]
+  },
+  {
+   "begin": "924.120",
+   "children": [],
+   "end": "924.840",
+   "id": "n000065",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "924.840",
+   "children": [],
+   "end": "925.640",
+   "id": "f000124",
+   "language": null,
+   "lines": [
+    "From the standpoint of"
+   ]
+  },
+  {
+   "begin": "925.640",
+   "children": [],
+   "end": "929.320",
+   "id": "f000125",
+   "language": null,
+   "lines": [
+    "Well let me say that I think that the president operates in a number of different areas."
+   ]
+  },
+  {
+   "begin": "929.320",
+   "children": [],
+   "end": "930.760",
+   "id": "f000126",
+   "language": null,
+   "lines": [
+    "First, as a legislative leader."
+   ]
+  },
+  {
+   "begin": "930.760",
+   "children": [],
+   "end": "941.560",
+   "id": "f000127",
+   "language": null,
+   "lines": [
+    "And as I just said that I believe that the passage of the so-called Title Three, which gives the Attorney General the power to protect Constitutional rights in those cases where it's not possible for the person involved to bring the suit."
+   ]
+  },
+  {
+   "begin": "941.560",
+   "children": [],
+   "end": "942.360",
+   "id": "n000066",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "942.360",
+   "children": [],
+   "end": "943.640",
+   "id": "f000128",
+   "language": null,
+   "lines": [
+    "Secondly, as an executive leader."
+   ]
+  },
+  {
+   "begin": "943.640",
+   "children": [],
+   "end": "944.560",
+   "id": "n000067",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "944.560",
+   "children": [],
+   "end": "951.780",
+   "id": "f000129",
+   "language": null,
+   "lines": [
+    "There have been only six cases brought by this Attorney General under the voting bill passed in 1957 and the voting bill passed in 1960."
+   ]
+  },
+  {
+   "begin": "951.780",
+   "children": [],
+   "end": "953.040",
+   "id": "f000130",
+   "language": null,
+   "lines": [
+    "The right to vote is basic."
+   ]
+  },
+  {
+   "begin": "953.040",
+   "children": [],
+   "end": "953.680",
+   "id": "n000068",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "953.680",
+   "children": [],
+   "end": "961.020",
+   "id": "f000131",
+   "language": null,
+   "lines": [
+    "I do not believe that this Administration has implemented those bills which represent the will of the majority of the Congress on two occasions with vigor."
+   ]
+  },
+  {
+   "begin": "961.020",
+   "children": [],
+   "end": "961.920",
+   "id": "n000069",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "961.920",
+   "children": [],
+   "end": "965.300",
+   "id": "f000132",
+   "language": null,
+   "lines": [
+    "Thirdly, I don't believe that the government contracts division is operated with vigor."
+   ]
+  },
+  {
+   "begin": "965.300",
+   "children": [],
+   "end": "966.320",
+   "id": "n000070",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "966.320",
+   "children": [],
+   "end": "973.060",
+   "id": "f000133",
+   "language": null,
+   "lines": [
+    "Everyone who does business with the government should have the opportunity to make sure that they do not practice discrimination in their hiring."
+   ]
+  },
+  {
+   "begin": "973.060",
+   "children": [],
+   "end": "974.900",
+   "id": "f000134",
+   "language": null,
+   "lines": [
+    "And that's in all sections of the United States."
+   ]
+  },
+  {
+   "begin": "974.900",
+   "children": [],
+   "end": "975.840",
+   "id": "n000071",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "975.840",
+   "children": [],
+   "end": "978.200",
+   "id": "f000135",
+   "language": null,
+   "lines": [
+    "And then fourthly, as a moral leader."
+   ]
+  },
+  {
+   "begin": "978.200",
+   "children": [],
+   "end": "978.720",
+   "id": "n000072",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "978.720",
+   "children": [],
+   "end": "985.380",
+   "id": "f000136",
+   "language": null,
+   "lines": [
+    "There is a very strong moral basis for this concept of equality of opportunity."
+   ]
+  },
+  {
+   "begin": "985.380",
+   "children": [],
+   "end": "990.340",
+   "id": "f000137",
+   "language": null,
+   "lines": [
+    "We are in a very difficult time."
+   ]
+  },
+  {
+   "begin": "990.340",
+   "children": [],
+   "end": "991.680",
+   "id": "f000138",
+   "language": null,
+   "lines": [
+    "We need all the talent we can get."
+   ]
+  },
+  {
+   "begin": "991.680",
+   "children": [],
+   "end": "992.320",
+   "id": "n000073",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "992.320",
+   "children": [],
+   "end": "993.880",
+   "id": "f000139",
+   "language": null,
+   "lines": [
+    "We sit on a conspicuous stage."
+   ]
+  },
+  {
+   "begin": "993.880",
+   "children": [],
+   "end": "994.400",
+   "id": "n000074",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "994.400",
+   "children": [],
+   "end": "997.220",
+   "id": "f000140",
+   "language": null,
+   "lines": [
+    "We are a goldfish bowl before the world."
+   ]
+  },
+  {
+   "begin": "997.220",
+   "children": [],
+   "end": "998.620",
+   "id": "f000141",
+   "language": null,
+   "lines": [
+    "We have to practice what we preach."
+   ]
+  },
+  {
+   "begin": "998.620",
+   "children": [],
+   "end": "999.160",
+   "id": "n000075",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "999.160",
+   "children": [],
+   "end": "1001.640",
+   "id": "f000142",
+   "language": null,
+   "lines": [
+    "We set a very high standard for ourselves."
+   ]
+  },
+  {
+   "begin": "1001.640",
+   "children": [],
+   "end": "1003.120",
+   "id": "f000143",
+   "language": null,
+   "lines": [
+    "The Communists do not."
+   ]
+  },
+  {
+   "begin": "1003.120",
+   "children": [],
+   "end": "1005.060",
+   "id": "f000144",
+   "language": null,
+   "lines": [
+    "They set a low standard of materialism."
+   ]
+  },
+  {
+   "begin": "1005.060",
+   "children": [],
+   "end": "1016.020",
+   "id": "f000145",
+   "language": null,
+   "lines": [
+    "We preach in the Declaration of Independence and in the Constitution, in the statement of our greatest leaders, we preach very high standards; and if we're not going to be s- charged before the world with hypocrisy we have to meet those standards."
+   ]
+  },
+  {
+   "begin": "1016.020",
+   "children": [],
+   "end": "1018.060",
+   "id": "f000146",
+   "language": null,
+   "lines": [
+    "I believe the president of the United States should indicate it."
+   ]
+  },
+  {
+   "begin": "1018.060",
+   "children": [],
+   "end": "1018.880",
+   "id": "n000076",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1018.880",
+   "children": [],
+   "end": "1020.880",
+   "id": "f000147",
+   "language": null,
+   "lines": [
+    "Now lastly, I believe in the case of Little Rock."
+   ]
+  },
+  {
+   "begin": "1020.880",
+   "children": [],
+   "end": "1021.480",
+   "id": "n000077",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1021.480",
+   "children": [],
+   "end": "1028.860",
+   "id": "f000148",
+   "language": null,
+   "lines": [
+    "I would have hoped that the president of the United States would have been possible for him to indicate it clearly that uh - the Supreme Court decision was going to be carried out."
+   ]
+  },
+  {
+   "begin": "1028.860",
+   "children": [],
+   "end": "1032.280",
+   "id": "f000149",
+   "language": null,
+   "lines": [
+    "I would have hoped that it would have been possible to use marshals to do so."
+   ]
+  },
+  {
+   "begin": "1032.280",
+   "children": [],
+   "end": "1035.000",
+   "id": "f000150",
+   "language": null,
+   "lines": [
+    "But it wou- uh - evidently uh - under the handling of the case it was not."
+   ]
+  },
+  {
+   "begin": "1035.000",
+   "children": [],
+   "end": "1035.320",
+   "id": "n000078",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1035.320",
+   "children": [],
+   "end": "1037.080",
+   "id": "f000151",
+   "language": null,
+   "lines": [
+    "I would hope an incident like that would not happen."
+   ]
+  },
+  {
+   "begin": "1037.080",
+   "children": [],
+   "end": "1037.560",
+   "id": "n000079",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1037.560",
+   "children": [],
+   "end": "1053.700",
+   "id": "f000152",
+   "language": null,
+   "lines": [
+    "I think if the president is responsible, if he consults with those involved, if he makes it clear that the Supreme Court decision is going to be carried out in a way that the Supreme Court planned - with deliberate speed - then in my judgment, providing he's behind action, I believe we can make uh - progress."
+   ]
+  },
+  {
+   "begin": "1053.700",
+   "children": [],
+   "end": "1054.240",
+   "id": "n000080",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1054.240",
+   "children": [],
+   "end": "1060.360",
+   "id": "f000153",
+   "language": null,
+   "lines": [
+    "Now the present Administration - the President - has said - never indicated what he thought of the 1954 decision."
+   ]
+  },
+  {
+   "begin": "1060.360",
+   "children": [],
+   "end": "1069.400",
+   "id": "f000154",
+   "language": null,
+   "lines": [
+    "Unless the president speaks, then of course uh - the country doesn't speak, and Franklin Roosevelt said: \"The pre - uh - the presidency of the United States is above all a place of moral leadership.\""
+   ]
+  },
+  {
+   "begin": "1069.400",
+   "children": [],
+   "end": "1070.160",
+   "id": "n000081",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1070.160",
+   "children": [],
+   "end": "1074.120",
+   "id": "f000155",
+   "language": null,
+   "lines": [
+    "And I believe on this great moral issue he should speak out and give his views clearly."
+   ]
+  },
+  {
+   "begin": "1074.120",
+   "children": [],
+   "end": "1075.640",
+   "id": "n000082",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1075.640",
+   "children": [],
+   "end": "1076.320",
+   "id": "f000156",
+   "language": null,
+   "lines": [
+    "Mr. Vice President."
+   ]
+  },
+  {
+   "begin": "1076.320",
+   "children": [],
+   "end": "1077.800",
+   "id": "n000083",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1077.800",
+   "children": [],
+   "end": "1085.920",
+   "id": "f000157",
+   "language": null,
+   "lines": [
+    "Senator Kennedy has expressed some hopes in this field, hopes which I think all Americans would share who want some problem - some progress in this area."
+   ]
+  },
+  {
+   "begin": "1085.920",
+   "children": [],
+   "end": "1086.800",
+   "id": "n000084",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1086.800",
+   "children": [],
+   "end": "1089.420",
+   "id": "f000158",
+   "language": null,
+   "lines": [
+    "But let's look at the performance."
+   ]
+  },
+  {
+   "begin": "1089.420",
+   "children": [],
+   "end": "1097.680",
+   "id": "f000159",
+   "language": null,
+   "lines": [
+    "When he selected his vice presidential running mate, he selected a man who had voted against most of these proposals and who opposes them at the present time."
+   ]
+  },
+  {
+   "begin": "1097.680",
+   "children": [],
+   "end": "1098.800",
+   "id": "n000085",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1098.800",
+   "children": [],
+   "end": "1100.600",
+   "id": "f000160",
+   "language": null,
+   "lines": [
+    "Let me s- look also at what I did."
+   ]
+  },
+  {
+   "begin": "1100.600",
+   "children": [],
+   "end": "1105.640",
+   "id": "f000161",
+   "language": null,
+   "lines": [
+    "I selected a man who stands with me in this field and who will talk with me and work with me on it."
+   ]
+  },
+  {
+   "begin": "1105.640",
+   "children": [],
+   "end": "1109.040",
+   "id": "f000162",
+   "language": null,
+   "lines": [
+    "Now the Senator referred to the Committee on Government Contracts."
+   ]
+  },
+  {
+   "begin": "1109.040",
+   "children": [],
+   "end": "1109.800",
+   "id": "n000086",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1109.800",
+   "children": [],
+   "end": "1119.000",
+   "id": "f000163",
+   "language": null,
+   "lines": [
+    "And yet that very committee of which I am chairman has been handicapped by the fact that we have not had adequate funds; we have not had adequate powers; we haven't had an adequate staff."
+   ]
+  },
+  {
+   "begin": "1119.000",
+   "children": [],
+   "end": "1119.880",
+   "id": "n000087",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1119.880",
+   "children": [],
+   "end": "1151.800",
+   "id": "f000164",
+   "language": null,
+   "lines": [
+    "Now in the special session of Congress and also in the session that preceded it, the Democratic Congress - in which there's a two-to-one Democratic majority - was asked by the President to give us the funds and give us the power to do a job and they did nothing at all, And in the special session in which Senator Kennedy was calling the signals, along with Senator Johnson, they turned it down and he himself voted against giving us the powers despite the fact that the bill had already been considered before, that it already had hearings on, and the Congress already knew what it had before it."
+   ]
+  },
+  {
+   "begin": "1151.800",
+   "children": [],
+   "end": "1152.640",
+   "id": "n000088",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1152.640",
+   "children": [],
+   "end": "1156.280",
+   "id": "f000165",
+   "language": null,
+   "lines": [
+    "All that I can say is this: what we need here are not just high hopes."
+   ]
+  },
+  {
+   "begin": "1156.280",
+   "children": [],
+   "end": "1156.880",
+   "id": "n000089",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1156.880",
+   "children": [],
+   "end": "1159.520",
+   "id": "f000166",
+   "language": null,
+   "lines": [
+    "What we need is action."
+   ]
+  },
+  {
+   "begin": "1159.520",
+   "children": [],
+   "end": "1171.080",
+   "id": "f000167",
+   "language": null,
+   "lines": [
+    "And in the field of executive leadership, I can say that I believe it's essential that the president of the United States not only set the tone but he also must lead; he must act as he talks."
+   ]
+  },
+  {
+   "begin": "1171.080",
+   "children": [],
+   "end": "1172.200",
+   "id": "n000090",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1172.200",
+   "children": [],
+   "end": "1175.500",
+   "id": "f000168",
+   "language": null,
+   "lines": [
+    "Mr. Morgan with a question for Vice President Nixon."
+   ]
+  },
+  {
+   "begin": "1175.500",
+   "children": [],
+   "end": "1182.360",
+   "id": "f000169",
+   "language": null,
+   "lines": [
+    "Mr. Vice President, in your speeches you emphasize that the United States is doing basically well in the cold war."
+   ]
+  },
+  {
+   "begin": "1182.360",
+   "children": [],
+   "end": "1183.600",
+   "id": "n000091",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1183.600",
+   "children": [],
+   "end": "1200.080",
+   "id": "f000170",
+   "language": null,
+   "lines": [
+    "Can you square that statement with a considerable mass of bipartisan reports and studies, including one prominently participated in by Governor Rockefeller, which almost unanimously conclude that we are not doing nearly so well as we should?"
+   ]
+  },
+  {
+   "begin": "1200.080",
+   "children": [],
+   "end": "1202.120",
+   "id": "n000092",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1202.120",
+   "children": [],
+   "end": "1208.140",
+   "id": "f000171",
+   "language": null,
+   "lines": [
+    "Mr. Morgan, no matter how well we're doing in the cold war, we're not doing as well as we should."
+   ]
+  },
+  {
+   "begin": "1208.140",
+   "children": [],
+   "end": "1215.680",
+   "id": "f000172",
+   "language": null,
+   "lines": [
+    "And that will always be the case as long as the Communists are on the international scene, in the aggressive tac- uh - tendencies that they presently are following."
+   ]
+  },
+  {
+   "begin": "1215.680",
+   "children": [],
+   "end": "1226.600",
+   "id": "f000173",
+   "language": null,
+   "lines": [
+    "Now as far as the present situation is concerned, I think it's time that we nail a few of these distortions about the United States that have been put out."
+   ]
+  },
+  {
+   "begin": "1226.600",
+   "children": [],
+   "end": "1230.400",
+   "id": "f000174",
+   "language": null,
+   "lines": [
+    "First of all, we hear that our prestige is at an all-time low."
+   ]
+  },
+  {
+   "begin": "1230.400",
+   "children": [],
+   "end": "1233.740",
+   "id": "f000175",
+   "language": null,
+   "lines": [
+    "Senator Kennedy has been hitting that point over and over again."
+   ]
+  },
+  {
+   "begin": "1233.740",
+   "children": [],
+   "end": "1249.440",
+   "id": "f000176",
+   "language": null,
+   "lines": [
+    "I would suggest that after Premier Kush- Khrushchev's uh - performance in the United Nations, compared with President Eisenhower's eloquent speech, that at the present time Communist prestige in the world is at an all-time low and American prestige is at an all-time high."
+   ]
+  },
+  {
+   "begin": "1249.440",
+   "children": [],
+   "end": "1253.000",
+   "id": "f000177",
+   "language": null,
+   "lines": [
+    "Now that, of course, is just one factor, but it's a significant one."
+   ]
+  },
+  {
+   "begin": "1253.000",
+   "children": [],
+   "end": "1254.620",
+   "id": "f000178",
+   "language": null,
+   "lines": [
+    "When we look, for example, at the vote on the Congo."
+   ]
+  },
+  {
+   "begin": "1254.620",
+   "children": [],
+   "end": "1255.320",
+   "id": "n000093",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1255.320",
+   "children": [],
+   "end": "1258.560",
+   "id": "f000179",
+   "language": null,
+   "lines": [
+    "We were on one side; they were on the other side."
+   ]
+  },
+  {
+   "begin": "1258.560",
+   "children": [],
+   "end": "1259.560",
+   "id": "n000094",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1259.560",
+   "children": [],
+   "end": "1260.040",
+   "id": "f000180",
+   "language": null,
+   "lines": [
+    "What happened?"
+   ]
+  },
+  {
+   "begin": "1260.040",
+   "children": [],
+   "end": "1261.920",
+   "id": "f000181",
+   "language": null,
+   "lines": [
+    "There were seventy votes for our position and none for theirs."
+   ]
+  },
+  {
+   "begin": "1261.920",
+   "children": [],
+   "end": "1262.840",
+   "id": "n000095",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1262.840",
+   "children": [],
+   "end": "1266.580",
+   "id": "f000182",
+   "language": null,
+   "lines": [
+    "Look at the votes in the United Nations over the past seven and a half years."
+   ]
+  },
+  {
+   "begin": "1266.580",
+   "children": [],
+   "end": "1267.440",
+   "id": "f000183",
+   "language": null,
+   "lines": [
+    "That's a test of prestige."
+   ]
+  },
+  {
+   "begin": "1267.440",
+   "children": [],
+   "end": "1267.960",
+   "id": "n000096",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1267.960",
+   "children": [],
+   "end": "1273.200",
+   "id": "f000184",
+   "language": null,
+   "lines": [
+    "Every time the United States has been an one side and they've been on the other side, our position has been sustained."
+   ]
+  },
+  {
+   "begin": "1273.200",
+   "children": [],
+   "end": "1274.040",
+   "id": "n000097",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1274.040",
+   "children": [],
+   "end": "1277.040",
+   "id": "f000185",
+   "language": null,
+   "lines": [
+    "Now looking to what we ought to do in the future."
+   ]
+  },
+  {
+   "begin": "1277.040",
+   "children": [],
+   "end": "1283.940",
+   "id": "f000186",
+   "language": null,
+   "lines": [
+    "In this cold war we have to recognize where it is being fought and then we have to develop programs to deal with it."
+   ]
+  },
+  {
+   "begin": "1283.940",
+   "children": [],
+   "end": "1290.120",
+   "id": "f000187",
+   "language": null,
+   "lines": [
+    "It's being fought primarily in Asia, in Africa, and in Latin America."
+   ]
+  },
+  {
+   "begin": "1290.120",
+   "children": [],
+   "end": "1290.480",
+   "id": "f000188",
+   "language": null,
+   "lines": [
+    "What do we need?"
+   ]
+  },
+  {
+   "begin": "1290.480",
+   "children": [],
+   "end": "1290.800",
+   "id": "n000098",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1290.800",
+   "children": [],
+   "end": "1292.040",
+   "id": "f000189",
+   "language": null,
+   "lines": [
+    "What tools do we need to fight us?"
+   ]
+  },
+  {
+   "begin": "1292.040",
+   "children": [],
+   "end": "1292.920",
+   "id": "n000099",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1292.920",
+   "children": [],
+   "end": "1303.940",
+   "id": "f000190",
+   "language": null,
+   "lines": [
+    "Well we need, for example, economic assistance; we need technical assistance; we need exchange; we need programs of diplomatic and other character which will be effective in that area."
+   ]
+  },
+  {
+   "begin": "1303.940",
+   "children": [],
+   "end": "1305.000",
+   "id": "n000100",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1305.000",
+   "children": [],
+   "end": "1312.520",
+   "id": "f000191",
+   "language": null,
+   "lines": [
+    "Now Senator Kennedy a moment ago referred to the fact that there was not an adequate Voice of America program for Latin America."
+   ]
+  },
+  {
+   "begin": "1312.520",
+   "children": [],
+   "end": "1321.040",
+   "id": "f000192",
+   "language": null,
+   "lines": [
+    "I'd like to point out that in the last six years, the Democratic Congresses, of which he'd been a member, have cut twenty million dollars off of the Voice of America programs."
+   ]
+  },
+  {
+   "begin": "1321.040",
+   "children": [],
+   "end": "1325.040",
+   "id": "f000193",
+   "language": null,
+   "lines": [
+    "They also have cut four billion dollars off of mutual security in these last six years."
+   ]
+  },
+  {
+   "begin": "1325.040",
+   "children": [],
+   "end": "1325.840",
+   "id": "n000101",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1325.840",
+   "children": [],
+   "end": "1328.200",
+   "id": "f000194",
+   "language": null,
+   "lines": [
+    "They also have cut two billion dollars off of defense."
+   ]
+  },
+  {
+   "begin": "1328.200",
+   "children": [],
+   "end": "1329.160",
+   "id": "n000102",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1329.160",
+   "children": [],
+   "end": "1335.720",
+   "id": "f000195",
+   "language": null,
+   "lines": [
+    "Now when they talk about our record here, it is well that they recognize that they have to stand up for their record as well."
+   ]
+  },
+  {
+   "begin": "1335.720",
+   "children": [],
+   "end": "1346.800",
+   "id": "f000196",
+   "language": null,
+   "lines": [
+    "So let me summarize by saying this: I'm not satisfied with what we're doing in the cold war because I believe we have to step up our activities and launch an offensive for the minds and hearts and souls of men."
+   ]
+  },
+  {
+   "begin": "1346.800",
+   "children": [],
+   "end": "1347.480",
+   "id": "n000103",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1347.480",
+   "children": [],
+   "end": "1351.640",
+   "id": "f000197",
+   "language": null,
+   "lines": [
+    "It must be economic; it must be technological; above all it must be ideological."
+   ]
+  },
+  {
+   "begin": "1351.640",
+   "children": [],
+   "end": "1352.480",
+   "id": "n000104",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1352.480",
+   "children": [],
+   "end": "1356.320",
+   "id": "f000198",
+   "language": null,
+   "lines": [
+    "But we've got to get help from the Congress in order to do this."
+   ]
+  },
+  {
+   "begin": "1356.320",
+   "children": [],
+   "end": "1356.480",
+   "id": "f000199",
+   "language": null,
+   "lines": [
+    "Senator Kennedy."
+   ]
+  },
+  {
+   "begin": "1356.480",
+   "children": [],
+   "end": "1364.460",
+   "id": "f000200",
+   "language": null,
+   "lines": [
+    "Of course Mr. Nixon is wholly inaccurate when he says that the Congress has not provided more funds in fact than the President recommended for national defense."
+   ]
+  },
+  {
+   "begin": "1364.460",
+   "children": [],
+   "end": "1368.680",
+   "id": "f000201",
+   "language": null,
+   "lines": [
+    "Nineteen fifty-three we tried to put an appropriation of five billion dollars for our defenses."
+   ]
+  },
+  {
+   "begin": "1368.680",
+   "children": [],
+   "end": "1369.160",
+   "id": "n000105",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1369.160",
+   "children": [],
+   "end": "1373.360",
+   "id": "f000202",
+   "language": null,
+   "lines": [
+    "I was responsible for the amendment with Senator Monroney in 1954 to strengthen our ground forces."
+   ]
+  },
+  {
+   "begin": "1373.360",
+   "children": [],
+   "end": "1380.880",
+   "id": "f000203",
+   "language": null,
+   "lines": [
+    "The Congress of the United States appropriated six hundred and seventy-seven million dollars mare than the President was willing to use up till a week ago."
+   ]
+  },
+  {
+   "begin": "1380.880",
+   "children": [],
+   "end": "1381.480",
+   "id": "n000106",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1381.480",
+   "children": [],
+   "end": "1383.880",
+   "id": "f000204",
+   "language": null,
+   "lines": [
+    "Secondly, on the question of our position in the United Nations."
+   ]
+  },
+  {
+   "begin": "1383.880",
+   "children": [],
+   "end": "1384.440",
+   "id": "n000107",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1384.440",
+   "children": [],
+   "end": "1391.120",
+   "id": "f000205",
+   "language": null,
+   "lines": [
+    "We all know about the vote held this week - of the five neutralists - and it was generally regarded as a defeat for the United States."
+   ]
+  },
+  {
+   "begin": "1391.120",
+   "children": [],
+   "end": "1396.040",
+   "id": "f000206",
+   "language": null,
+   "lines": [
+    "Thirdly, in 1952, there were only seven votes in favor of the admission of Red China into the United Nations."
+   ]
+  },
+  {
+   "begin": "1396.040",
+   "children": [],
+   "end": "1396.480",
+   "id": "n000108",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1396.480",
+   "children": [],
+   "end": "1402.840",
+   "id": "f000207",
+   "language": null,
+   "lines": [
+    "Last year there were twenty-nine and tomorrow when the preliminary vote is held you will see a strengthening of that position or very closely to it."
+   ]
+  },
+  {
+   "begin": "1402.840",
+   "children": [],
+   "end": "1403.560",
+   "id": "n000109",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1403.560",
+   "children": [],
+   "end": "1405.220",
+   "id": "f000208",
+   "language": null,
+   "lines": [
+    "We have not maintained our position and our prestige."
+   ]
+  },
+  {
+   "begin": "1405.220",
+   "children": [],
+   "end": "1420.540",
+   "id": "f000209",
+   "language": null,
+   "lines": [
+    "A Gallup Poll taken in February of this year asking the - in eight out of nine countries - they asked the people, who do they think would be ahead by 1970 militarily and scientifically, and a majority in eight of the nine countries said the Soviet Union would be by 1970."
+   ]
+  },
+  {
+   "begin": "1420.540",
+   "children": [],
+   "end": "1426.440",
+   "id": "f000210",
+   "language": null,
+   "lines": [
+    "Governor Rockefeller has been far more critical in June of our position in the world than I have been."
+   ]
+  },
+  {
+   "begin": "1426.440",
+   "children": [],
+   "end": "1427.040",
+   "id": "n000110",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1427.040",
+   "children": [],
+   "end": "1453.200",
+   "id": "f000211",
+   "language": null,
+   "lines": [
+    "The Rockefeller Brothers report, General Ridgway, General Gavin, the Gaither Report, various reports of Congressional committees all indicate that the relative strength of the p- United States both militarily, politically, psychologically, and scientifically and industrially - the relative strength of the so- of United States compared to that of the Soviet Union and the Chinese Communists together - has deteriorated in the last eight years and we should know it, and the American people should be told the facts."
+   ]
+  },
+  {
+   "begin": "1453.200",
+   "children": [],
+   "end": "1454.960",
+   "id": "f000212",
+   "language": null,
+   "lines": [
+    "Mr. Spivak with a question for Senator Kennedy."
+   ]
+  },
+  {
+   "begin": "1454.960",
+   "children": [],
+   "end": "1455.600",
+   "id": "n000111",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1455.600",
+   "children": [],
+   "end": "1468.040",
+   "id": "f000213",
+   "language": null,
+   "lines": [
+    "Senator, uh - following this up, how would you go about increasing the prestige you say we're losing, and could the programs you've devised to do so be accomplished without absolutely wrecking our economy?"
+   ]
+  },
+  {
+   "begin": "1468.040",
+   "children": [],
+   "end": "1468.480",
+   "id": "n000112",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1468.480",
+   "children": [],
+   "end": "1468.800",
+   "id": "f000214",
+   "language": null,
+   "lines": [
+    "Yes."
+   ]
+  },
+  {
+   "begin": "1468.800",
+   "children": [],
+   "end": "1471.480",
+   "id": "f000215",
+   "language": null,
+   "lines": [
+    "We have been wholly indifferent to Latin America until the last few months."
+   ]
+  },
+  {
+   "begin": "1471.480",
+   "children": [],
+   "end": "1480.100",
+   "id": "f000216",
+   "language": null,
+   "lines": [
+    "The program that was put forward this summer, after we broke off the sugar quota with Cuba, really was done because we wanted to get through the O.A.S."
+   ]
+  },
+  {
+   "begin": "1480.100",
+   "children": [],
+   "end": "1483.840",
+   "id": "f000217",
+   "language": null,
+   "lines": [
+    "meeting a condemnation of Russian infiltration of Cuba."
+   ]
+  },
+  {
+   "begin": "1483.840",
+   "children": [],
+   "end": "1497.660",
+   "id": "f000218",
+   "language": null,
+   "lines": [
+    "And therefore we passed an authorization - not an aid bill - which was the first time, really, since the Inter-American Bank which was founded a year ago was developed, that we really have looked at the needs of Latin America; that we have associated ourselves with those people."
+   ]
+  },
+  {
+   "begin": "1497.660",
+   "children": [],
+   "end": "1498.440",
+   "id": "n000113",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1498.440",
+   "children": [],
+   "end": "1513.560",
+   "id": "f000219",
+   "language": null,
+   "lines": [
+    "Secondly, I believe that in the ca- that it's far better for the United States, instead of concentrating our aid, particularly in the underdeveloped world, on surplus military equipment - we poured three hundred million dollars of surplus military equipment into Laos."
+   ]
+  },
+  {
+   "begin": "1513.560",
+   "children": [],
+   "end": "1525.200",
+   "id": "f000220",
+   "language": null,
+   "lines": [
+    "We paid more military aid, more aid into Laos po- per - per person than in any country in the world and we ought to know now that Laos is moving from neutralism in the direction of the Communists."
+   ]
+  },
+  {
+   "begin": "1525.200",
+   "children": [],
+   "end": "1534.960",
+   "id": "f000221",
+   "language": null,
+   "lines": [
+    "I believe instead of doing that, we should concentrate our aid in long-term loans which these people can pay back either in hard money or in local currency."
+   ]
+  },
+  {
+   "begin": "1534.960",
+   "children": [],
+   "end": "1537.020",
+   "id": "f000222",
+   "language": null,
+   "lines": [
+    "This permits them to maintain their self-respect."
+   ]
+  },
+  {
+   "begin": "1537.020",
+   "children": [],
+   "end": "1537.760",
+   "id": "n000114",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1537.760",
+   "children": [],
+   "end": "1542.200",
+   "id": "f000223",
+   "language": null,
+   "lines": [
+    "It permits us to make sure that the projects which are invested in are going to produce greater wealth."
+   ]
+  },
+  {
+   "begin": "1542.200",
+   "children": [],
+   "end": "1542.960",
+   "id": "n000115",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1542.960",
+   "children": [],
+   "end": "1547.820",
+   "id": "f000224",
+   "language": null,
+   "lines": [
+    "And I believe that in cases of India and Africa and Latin America that this is where our emphasis should be."
+   ]
+  },
+  {
+   "begin": "1547.820",
+   "children": [],
+   "end": "1550.360",
+   "id": "f000225",
+   "language": null,
+   "lines": [
+    "I would strengthen the Development Loan Fund."
+   ]
+  },
+  {
+   "begin": "1550.360",
+   "children": [],
+   "end": "1554.100",
+   "id": "f000226",
+   "language": null,
+   "lines": [
+    "And Senator Fulbright, Senator Humphrey and I tried to do that."
+   ]
+  },
+  {
+   "begin": "1554.100",
+   "children": [],
+   "end": "1559.840",
+   "id": "f000227",
+   "language": null,
+   "lines": [
+    "We tried to provide an appropriation of a billion and a half for five years, on a long-term loan basis, which this Administration opposed."
+   ]
+  },
+  {
+   "begin": "1559.840",
+   "children": [],
+   "end": "1567.480",
+   "id": "f000228",
+   "language": null,
+   "lines": [
+    "And unless we're ready to carry out programs like that in the sixties, this battle for economic survival which these people are waging are going to be lost."
+   ]
+  },
+  {
+   "begin": "1567.480",
+   "children": [],
+   "end": "1568.120",
+   "id": "n000116",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1568.120",
+   "children": [],
+   "end": "1577.400",
+   "id": "f000229",
+   "language": null,
+   "lines": [
+    "And if India should lose her battle, with thirty-five per cent of the people of the underdeveloped world within her borders, then I believe that the balance of power could move against us."
+   ]
+  },
+  {
+   "begin": "1577.400",
+   "children": [],
+   "end": "1578.460",
+   "id": "f000230",
+   "language": null,
+   "lines": [
+    "I think the United States can afford to do these things."
+   ]
+  },
+  {
+   "begin": "1578.460",
+   "children": [],
+   "end": "1579.440",
+   "id": "n000117",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1579.440",
+   "children": [],
+   "end": "1582.460",
+   "id": "f000231",
+   "language": null,
+   "lines": [
+    "I think that we could not afford not to do these things."
+   ]
+  },
+  {
+   "begin": "1582.460",
+   "children": [],
+   "end": "1583.240",
+   "id": "f000232",
+   "language": null,
+   "lines": [
+    "This goes to our survival."
+   ]
+  },
+  {
+   "begin": "1583.240",
+   "children": [],
+   "end": "1584.080",
+   "id": "n000118",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1584.080",
+   "children": [],
+   "end": "1595.400",
+   "id": "f000233",
+   "language": null,
+   "lines": [
+    "And here in a country which if it is moving ahead, if it's developing its economy to the fullest - which we are not now - in my judgment, we'll have the resources to meet our military commitments and also our commitments overseas."
+   ]
+  },
+  {
+   "begin": "1595.400",
+   "children": [],
+   "end": "1617.520",
+   "id": "f000234",
+   "language": null,
+   "lines": [
+    "I believe it's essential that we do it because in the next ten years the balance of power is going to begin to move in the world from one direction or another - towards us or towards the Communists - and unless we begin to identify ourselves not only with the anti-Communist fight, but also with the fight against poverty and hunger, these people are going to begin to turn to the Communists as an example."
+   ]
+  },
+  {
+   "begin": "1617.520",
+   "children": [],
+   "end": "1619.160",
+   "id": "f000235",
+   "language": null,
+   "lines": [
+    "I believe we can do it."
+   ]
+  },
+  {
+   "begin": "1619.160",
+   "children": [],
+   "end": "1624.320",
+   "id": "f000236",
+   "language": null,
+   "lines": [
+    "If we build our economy the way we should, we can afford to do these things and we must do it."
+   ]
+  },
+  {
+   "begin": "1624.320",
+   "children": [],
+   "end": "1626.080",
+   "id": "f000237",
+   "language": null,
+   "lines": [
+    "Mr. Vice President."
+   ]
+  },
+  {
+   "begin": "1626.080",
+   "children": [],
+   "end": "1629.720",
+   "id": "f000238",
+   "language": null,
+   "lines": [
+    "Senator Kennedy has put a great deal of stress on the necessity for economic assistance."
+   ]
+  },
+  {
+   "begin": "1629.720",
+   "children": [],
+   "end": "1630.480",
+   "id": "n000119",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1630.480",
+   "children": [],
+   "end": "1630.820",
+   "id": "f000239",
+   "language": null,
+   "lines": [
+    "This is important."
+   ]
+  },
+  {
+   "begin": "1630.820",
+   "children": [],
+   "end": "1642.240",
+   "id": "f000240",
+   "language": null,
+   "lines": [
+    "But it's also tremendously important to bear in mind that when you pour in money without pouring in technical assistance at w- as well, that you have a disastrous situation."
+   ]
+  },
+  {
+   "begin": "1642.240",
+   "children": [],
+   "end": "1643.120",
+   "id": "n000120",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1643.120",
+   "children": [],
+   "end": "1650.600",
+   "id": "f000241",
+   "language": null,
+   "lines": [
+    "We need to step up exchange; we need to step up technical assistance so that trained people in these newly developing countries can operate the economies."
+   ]
+  },
+  {
+   "begin": "1650.600",
+   "children": [],
+   "end": "1651.640",
+   "id": "n000121",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1651.640",
+   "children": [],
+   "end": "1670.080",
+   "id": "f000242",
+   "language": null,
+   "lines": [
+    "We also have to have in mind something else with regard to this whole situation in the world, and that is: that as America moves forward, we not only must think in terms of fighting Communism, but we must also think primarily in terms of the interests of these countries."
+   ]
+  },
+  {
+   "begin": "1670.080",
+   "children": [],
+   "end": "1672.640",
+   "id": "f000243",
+   "language": null,
+   "lines": [
+    "We must associate ourselves with their aspirations."
+   ]
+  },
+  {
+   "begin": "1672.640",
+   "children": [],
+   "end": "1673.560",
+   "id": "n000122",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1673.560",
+   "children": [],
+   "end": "1684.200",
+   "id": "f000244",
+   "language": null,
+   "lines": [
+    "We must let them know that the great American ideals - of independence, of the right of people to be free, and of the right to progress - that these are ideals that belong not to ourselves alone, but they belong to everybody."
+   ]
+  },
+  {
+   "begin": "1684.200",
+   "children": [],
+   "end": "1685.040",
+   "id": "n000123",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1685.040",
+   "children": [],
+   "end": "1687.520",
+   "id": "f000245",
+   "language": null,
+   "lines": [
+    "This we must get across to the world."
+   ]
+  },
+  {
+   "begin": "1687.520",
+   "children": [],
+   "end": "1695.320",
+   "id": "f000246",
+   "language": null,
+   "lines": [
+    "And we can't do it unless we do have adequate funds for, for example, information which has been cut by the Congress, adequate funds for technical assistance."
+   ]
+  },
+  {
+   "begin": "1695.320",
+   "children": [],
+   "end": "1696.520",
+   "id": "n000124",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1696.520",
+   "children": [],
+   "end": "1705.760",
+   "id": "f000247",
+   "language": null,
+   "lines": [
+    "The other point that I would make with regard to economic assistance and technical assistance is that the United States must not rest its case here alone."
+   ]
+  },
+  {
+   "begin": "1705.760",
+   "children": [],
+   "end": "1706.880",
+   "id": "n000125",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1706.880",
+   "children": [],
+   "end": "1711.840",
+   "id": "f000248",
+   "language": null,
+   "lines": [
+    "This is primarily an ideological battle - a battle for the minds and the hearts and the souls of men."
+   ]
+  },
+  {
+   "begin": "1711.840",
+   "children": [],
+   "end": "1712.520",
+   "id": "n000126",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1712.520",
+   "children": [],
+   "end": "1716.560",
+   "id": "f000249",
+   "language": null,
+   "lines": [
+    "We must not meet the Communists purely in the field of gross atheistic materialism."
+   ]
+  },
+  {
+   "begin": "1716.560",
+   "children": [],
+   "end": "1717.400",
+   "id": "n000127",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1717.400",
+   "children": [],
+   "end": "1718.720",
+   "id": "f000250",
+   "language": null,
+   "lines": [
+    "We must stand for our ideals."
+   ]
+  },
+  {
+   "begin": "1718.720",
+   "children": [],
+   "end": "1720.560",
+   "id": "n000128",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1720.560",
+   "children": [],
+   "end": "1723.620",
+   "id": "f000251",
+   "language": null,
+   "lines": [
+    "Mr. Levy with a question for Vice President Nixon."
+   ]
+  },
+  {
+   "begin": "1723.620",
+   "children": [],
+   "end": "1732.200",
+   "id": "f000252",
+   "language": null,
+   "lines": [
+    "LEVY; Mr. Vice President, the Labor Department today added five more major industrial centers to the list of areas with substantial unemployment."
+   ]
+  },
+  {
+   "begin": "1732.200",
+   "children": [],
+   "end": "1733.040",
+   "id": "n000129",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1733.040",
+   "children": [],
+   "end": "1743.160",
+   "id": "f000253",
+   "language": null,
+   "lines": [
+    "You said in New York this week that as president you would use the full powers of the government, if necessary, to combat unemployment."
+   ]
+  },
+  {
+   "begin": "1743.160",
+   "children": [],
+   "end": "1744.360",
+   "id": "f000254",
+   "language": null,
+   "lines": [
+    "Specifically what measures would you advocate and at what point?"
+   ]
+  },
+  {
+   "begin": "1744.360",
+   "children": [],
+   "end": "1744.880",
+   "id": "n000130",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1744.880",
+   "children": [],
+   "end": "1753.400",
+   "id": "f000255",
+   "language": null,
+   "lines": [
+    "To combat unemployment we first must concentrate on the very areas to which you refer - the so-called depressed areas."
+   ]
+  },
+  {
+   "begin": "1753.400",
+   "children": [],
+   "end": "1754.280",
+   "id": "n000131",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1754.280",
+   "children": [],
+   "end": "1762.640",
+   "id": "f000256",
+   "language": null,
+   "lines": [
+    "Now in the last Congress - the special session of the Congress - there was a bill: one by the President, one by Senator Kennedy and members of his party."
+   ]
+  },
+  {
+   "begin": "1762.640",
+   "children": [],
+   "end": "1763.720",
+   "id": "n000132",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1763.720",
+   "children": [],
+   "end": "1777.800",
+   "id": "f000257",
+   "language": null,
+   "lines": [
+    "Now the bill that the President had submitted would have provided more aid for those areas that really need it - areas like Scranton and Wilkes-Barre and the areas of West Virginia - than the ones that Senator Kennedy was supporting."
+   ]
+  },
+  {
+   "begin": "1777.800",
+   "children": [],
+   "end": "1783.520",
+   "id": "f000258",
+   "language": null,
+   "lines": [
+    "On the other hand we found that the bill got into the legislative difficulties and consequently no action was taken."
+   ]
+  },
+  {
+   "begin": "1783.520",
+   "children": [],
+   "end": "1784.240",
+   "id": "n000133",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1784.240",
+   "children": [],
+   "end": "1790.400",
+   "id": "f000259",
+   "language": null,
+   "lines": [
+    "So point one, at the highest priority we must get a bill for depressed areas through the next Congress."
+   ]
+  },
+  {
+   "begin": "1790.400",
+   "children": [],
+   "end": "1791.120",
+   "id": "n000134",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1791.120",
+   "children": [],
+   "end": "1796.220",
+   "id": "f000260",
+   "language": null,
+   "lines": [
+    "I have made recommendations on that and I have discussed them previously and I will spell them out further in the campaign."
+   ]
+  },
+  {
+   "begin": "1796.220",
+   "children": [],
+   "end": "1797.360",
+   "id": "n000135",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1797.360",
+   "children": [],
+   "end": "1802.800",
+   "id": "f000261",
+   "language": null,
+   "lines": [
+    "Second, as we consider this problem of unemployment, we have to realize where it is."
+   ]
+  },
+  {
+   "begin": "1802.800",
+   "children": [],
+   "end": "1803.720",
+   "id": "n000136",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1803.720",
+   "children": [],
+   "end": "1818.600",
+   "id": "f000262",
+   "language": null,
+   "lines": [
+    "In analyzing the figures we will find that our unemployment exists among the older citizens; it exists also among those who are inadequately trained; that is, those who do not have an adequate opportunity for education."
+   ]
+  },
+  {
+   "begin": "1818.600",
+   "children": [],
+   "end": "1819.520",
+   "id": "n000137",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1819.520",
+   "children": [],
+   "end": "1821.700",
+   "id": "f000263",
+   "language": null,
+   "lines": [
+    "It also exists among minority groups."
+   ]
+  },
+  {
+   "begin": "1821.700",
+   "children": [],
+   "end": "1827.000",
+   "id": "f000264",
+   "language": null,
+   "lines": [
+    "If we're going to combat unemployment, then, we have to do a better job in these areas."
+   ]
+  },
+  {
+   "begin": "1827.000",
+   "children": [],
+   "end": "1835.200",
+   "id": "f000265",
+   "language": null,
+   "lines": [
+    "That's why I have a program for education, a program in the case of equal job opportunities, and one that would also deal with our older citizens."
+   ]
+  },
+  {
+   "begin": "1835.200",
+   "children": [],
+   "end": "1836.240",
+   "id": "n000138",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1836.240",
+   "children": [],
+   "end": "1855.600",
+   "id": "f000266",
+   "language": null,
+   "lines": [
+    "Now finally, with regard to the whole problem of combating recession, as you call it, we must use the full resources of the government in these respects: one, we must see to it that credit is expanded as we go into any recessionary period - and understand, I do not believe we're going into a recession."
+   ]
+  },
+  {
+   "begin": "1855.600",
+   "children": [],
+   "end": "1858.220",
+   "id": "f000267",
+   "language": null,
+   "lines": [
+    "I believe this economy is sound and that we're going to move up."
+   ]
+  },
+  {
+   "begin": "1858.220",
+   "children": [],
+   "end": "1859.280",
+   "id": "n000139",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1859.280",
+   "children": [],
+   "end": "1878.060",
+   "id": "f000268",
+   "language": null,
+   "lines": [
+    "But second, in addition to that, if we do get into a recessionary period we should move on that part of the economy which is represented by the private sector, and I mean stimulate that part of the economy that can create jobs - the private sector of the economy."
+   ]
+  },
+  {
+   "begin": "1878.060",
+   "children": [],
+   "end": "1883.760",
+   "id": "f000269",
+   "language": null,
+   "lines": [
+    "This means through tax reform and if necessary tax cuts that will stimulate more jobs."
+   ]
+  },
+  {
+   "begin": "1883.760",
+   "children": [],
+   "end": "1884.480",
+   "id": "n000140",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1884.480",
+   "children": [],
+   "end": "1893.400",
+   "id": "f000270",
+   "language": null,
+   "lines": [
+    "I favor that rather than massive federal spending programs which will come into effect usually long after you've passed through the recessionary period."
+   ]
+  },
+  {
+   "begin": "1893.400",
+   "children": [],
+   "end": "1894.280",
+   "id": "n000141",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1894.280",
+   "children": [],
+   "end": "1900.080",
+   "id": "f000271",
+   "language": null,
+   "lines": [
+    "So we must use all of these weapons for the purpose of combating recession if it should come."
+   ]
+  },
+  {
+   "begin": "1900.080",
+   "children": [],
+   "end": "1902.420",
+   "id": "f000272",
+   "language": null,
+   "lines": [
+    "But I do not expect it to come."
+   ]
+  },
+  {
+   "begin": "1902.420",
+   "children": [],
+   "end": "1903.380",
+   "id": "f000273",
+   "language": null,
+   "lines": [
+    "Senator Kennedy."
+   ]
+  },
+  {
+   "begin": "1903.380",
+   "children": [],
+   "end": "1907.720",
+   "id": "f000274",
+   "language": null,
+   "lines": [
+    "Well Mr. Nixon has stated the record inaccurately in regard to the depressed area bill."
+   ]
+  },
+  {
+   "begin": "1907.720",
+   "children": [],
+   "end": "1908.160",
+   "id": "n000142",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1908.160",
+   "children": [],
+   "end": "1908.720",
+   "id": "f000275",
+   "language": null,
+   "lines": [
+    "I'm very familiar with it."
+   ]
+  },
+  {
+   "begin": "1908.720",
+   "children": [],
+   "end": "1912.520",
+   "id": "f000276",
+   "language": null,
+   "lines": [
+    "It came out of the committee of which I was the chairman - the labor subcommittee - in fifty-five."
+   ]
+  },
+  {
+   "begin": "1912.520",
+   "children": [],
+   "end": "1912.880",
+   "id": "n000143",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1912.880",
+   "children": [],
+   "end": "1913.740",
+   "id": "f000277",
+   "language": null,
+   "lines": [
+    "I was the floor manager."
+   ]
+  },
+  {
+   "begin": "1913.740",
+   "children": [],
+   "end": "1914.280",
+   "id": "n000144",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1914.280",
+   "children": [],
+   "end": "1922.160",
+   "id": "f000278",
+   "language": null,
+   "lines": [
+    "We passed an area redevelopment bill far more effective than the bill the Administration suggested, on two occasions, and the President vetoed it both times."
+   ]
+  },
+  {
+   "begin": "1922.160",
+   "children": [],
+   "end": "1923.160",
+   "id": "n000145",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1923.160",
+   "children": [],
+   "end": "1929.680",
+   "id": "f000279",
+   "language": null,
+   "lines": [
+    "We passed a bill again this year in the cong- in the Senate and it died in the Rules Committee of the House of Representatives."
+   ]
+  },
+  {
+   "begin": "1929.680",
+   "children": [],
+   "end": "1935.920",
+   "id": "f000280",
+   "language": null,
+   "lines": [
+    "Let me make it very clear that the bill that Mr. Nixon talked about did not mention Wilkes-Barre or Scranton; it did not mention West Virginia."
+   ]
+  },
+  {
+   "begin": "1935.920",
+   "children": [],
+   "end": "1936.680",
+   "id": "n000146",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1936.680",
+   "children": [],
+   "end": "1939.360",
+   "id": "f000281",
+   "language": null,
+   "lines": [
+    "Our bill was far more effective."
+   ]
+  },
+  {
+   "begin": "1939.360",
+   "children": [],
+   "end": "1946.280",
+   "id": "f000282",
+   "language": null,
+   "lines": [
+    "The bill introduced and erd- sponsored by Senator Douglas was far more effective in trying to stimulate the economy of those areas."
+   ]
+  },
+  {
+   "begin": "1946.280",
+   "children": [],
+   "end": "1946.600",
+   "id": "n000147",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1946.600",
+   "children": [],
+   "end": "1948.080",
+   "id": "f000283",
+   "language": null,
+   "lines": [
+    "Secondly, he has mentioned the problem of our older citizens."
+   ]
+  },
+  {
+   "begin": "1948.080",
+   "children": [],
+   "end": "1948.680",
+   "id": "n000148",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1948.680",
+   "children": [],
+   "end": "1958.720",
+   "id": "f000284",
+   "language": null,
+   "lines": [
+    "I cannot still understand why this Administration and Mr. Nixon oppose putting medical care for the aged under Social Security to give them some security."
+   ]
+  },
+  {
+   "begin": "1958.720",
+   "children": [],
+   "end": "1962.920",
+   "id": "f000285",
+   "language": null,
+   "lines": [
+    "Third, I believe we should step up the use of our surplus foods in these areas until we're able to get the people back to work."
+   ]
+  },
+  {
+   "begin": "1962.920",
+   "children": [],
+   "end": "1963.280",
+   "id": "n000149",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1963.280",
+   "children": [],
+   "end": "1968.900",
+   "id": "f000286",
+   "language": null,
+   "lines": [
+    "Five cents a day - that's what the food package averages per person."
+   ]
+  },
+  {
+   "begin": "1968.900",
+   "children": [],
+   "end": "1981.080",
+   "id": "f000287",
+   "language": null,
+   "lines": [
+    "Fourthly, I believe we should not carry out a hard money, high interest rate policy which helped intensify certainly the recession of 1958, and I think helped bring the slow-down of 1960."
+   ]
+  },
+  {
+   "begin": "1981.080",
+   "children": [],
+   "end": "1988.440",
+   "id": "f000288",
+   "language": null,
+   "lines": [
+    "If we move into a recession in sixty-one, then I would agree that we have to put more money into the economy, and it can be done by either one of the two methods discussed."
+   ]
+  },
+  {
+   "begin": "1988.440",
+   "children": [],
+   "end": "1988.920",
+   "id": "n000150",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1988.920",
+   "children": [],
+   "end": "1991.000",
+   "id": "f000289",
+   "language": null,
+   "lines": [
+    "One is by ex- the programs such as aid to education."
+   ]
+  },
+  {
+   "begin": "1991.000",
+   "children": [],
+   "end": "1991.320",
+   "id": "n000151",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1991.320",
+   "children": [],
+   "end": "1994.680",
+   "id": "f000290",
+   "language": null,
+   "lines": [
+    "The other would be to make a judgment on what's the most effective tax program to stimulate our economy."
+   ]
+  },
+  {
+   "begin": "1994.680",
+   "children": [],
+   "end": "1999.080",
+   "id": "f000291",
+   "language": null,
+   "lines": [
+    "Mr. Niven with a question for Senator Kennedy."
+   ]
+  },
+  {
+   "begin": "1999.080",
+   "children": [],
+   "end": "1999.800",
+   "id": "n000152",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1999.800",
+   "children": [],
+   "end": "2008.200",
+   "id": "f000292",
+   "language": null,
+   "lines": [
+    "Senator, while the main theme of your campaign has been this decline of American power and prestige in the last eight years, you've hardly criticized President Eisenhower at all."
+   ]
+  },
+  {
+   "begin": "2008.200",
+   "children": [],
+   "end": "2012.160",
+   "id": "f000293",
+   "language": null,
+   "lines": [
+    "And in a speech last weekend you said you had no quarrel with the President."
+   ]
+  },
+  {
+   "begin": "2012.160",
+   "children": [],
+   "end": "2012.880",
+   "id": "n000153",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2012.880",
+   "children": [],
+   "end": "2018.620",
+   "id": "f000294",
+   "language": null,
+   "lines": [
+    "Now isn't Mr. Eisenhower and not Mr. Nixon responsible for any such decline?"
+   ]
+  },
+  {
+   "begin": "2018.620",
+   "children": [],
+   "end": "2023.480",
+   "id": "f000295",
+   "language": null,
+   "lines": [
+    "Well I understood that this was the Eisenhower-Nixon Administration according to all the Republican uh - propaganda that I've read."
+   ]
+  },
+  {
+   "begin": "2023.480",
+   "children": [],
+   "end": "2024.820",
+   "id": "f000296",
+   "language": null,
+   "lines": [
+    "The question is what we're going to do in the future."
+   ]
+  },
+  {
+   "begin": "2024.820",
+   "children": [],
+   "end": "2025.520",
+   "id": "n000154",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2025.520",
+   "children": [],
+   "end": "2028.640",
+   "id": "f000297",
+   "language": null,
+   "lines": [
+    "I've been critical of this Administration and I've been critical of the President."
+   ]
+  },
+  {
+   "begin": "2028.640",
+   "children": [],
+   "end": "2032.360",
+   "id": "f000298",
+   "language": null,
+   "lines": [
+    "In fact uh - Mr. Nixon uh - discussed that a week ago in a speech."
+   ]
+  },
+  {
+   "begin": "2032.360",
+   "children": [],
+   "end": "2032.840",
+   "id": "n000155",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2032.840",
+   "children": [],
+   "end": "2036.280",
+   "id": "f000299",
+   "language": null,
+   "lines": [
+    "I believe that our power and prestige in the last eight years has declined."
+   ]
+  },
+  {
+   "begin": "2036.280",
+   "children": [],
+   "end": "2039.320",
+   "id": "f000300",
+   "language": null,
+   "lines": [
+    "Now what is the issue is what we're going to do in the future."
+   ]
+  },
+  {
+   "begin": "2039.320",
+   "children": [],
+   "end": "2041.940",
+   "id": "f000301",
+   "language": null,
+   "lines": [
+    "Now that's an issue between Mr. Nixon and myself."
+   ]
+  },
+  {
+   "begin": "2041.940",
+   "children": [],
+   "end": "2052.100",
+   "id": "f000302",
+   "language": null,
+   "lines": [
+    "He feels that we're moving ahead uh - in a - we're not going into a recession in this country, economically; he feels that our power and prestige is stronger than it ever was relative to that of the Communists, that we're moving ahead."
+   ]
+  },
+  {
+   "begin": "2052.100",
+   "children": [],
+   "end": "2052.880",
+   "id": "f000303",
+   "language": null,
+   "lines": [
+    "I disagree."
+   ]
+  },
+  {
+   "begin": "2052.880",
+   "children": [],
+   "end": "2053.520",
+   "id": "n000156",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2053.520",
+   "children": [],
+   "end": "2065.340",
+   "id": "f000304",
+   "language": null,
+   "lines": [
+    "And I believe the American people have to make the choice on November eighth between the view of whether we have to move ahead faster, whether what we're doing now is not satisfactory, whether we have to build greater strength at home and abroad and Mr. Nixon's view."
+   ]
+  },
+  {
+   "begin": "2065.340",
+   "children": [],
+   "end": "2065.840",
+   "id": "n000157",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2065.840",
+   "children": [],
+   "end": "2066.560",
+   "id": "f000305",
+   "language": null,
+   "lines": [
+    "That's the great issue."
+   ]
+  },
+  {
+   "begin": "2066.560",
+   "children": [],
+   "end": "2067.000",
+   "id": "n000158",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2067.000",
+   "children": [],
+   "end": "2070.880",
+   "id": "f000306",
+   "language": null,
+   "lines": [
+    "President Eisenhower moves from the scene on January twentieth and the next four years are the critical years."
+   ]
+  },
+  {
+   "begin": "2070.880",
+   "children": [],
+   "end": "2072.860",
+   "id": "f000307",
+   "language": null,
+   "lines": [
+    "And that's the debate."
+   ]
+  },
+  {
+   "begin": "2072.860",
+   "children": [],
+   "end": "2080.860",
+   "id": "f000308",
+   "language": null,
+   "lines": [
+    "That's the argument between Mr. Nixon and myself and on that issue the American people have to make their judgment and I think it's a important judgment."
+   ]
+  },
+  {
+   "begin": "2080.860",
+   "children": [],
+   "end": "2085.260",
+   "id": "f000309",
+   "language": null,
+   "lines": [
+    "I think in many ways this election is more important than any since 1932, or certainly almost any in this century."
+   ]
+  },
+  {
+   "begin": "2085.260",
+   "children": [],
+   "end": "2085.920",
+   "id": "n000159",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2085.920",
+   "children": [],
+   "end": "2094.740",
+   "id": "f000310",
+   "language": null,
+   "lines": [
+    "Because we disagree very fundamentally on the position of the United States, and if his view prevails then I think that's going to bring an important result to this country in the sixties."
+   ]
+  },
+  {
+   "begin": "2094.740",
+   "children": [],
+   "end": "2095.720",
+   "id": "n000160",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2095.720",
+   "children": [],
+   "end": "2113.160",
+   "id": "f000311",
+   "language": null,
+   "lines": [
+    "If our view prevails that we have to do more, that we have to make a greater national and international effort, that we have lost prestige in Latin America - the President of Brazil - the new incumbent running for office called on Castro during his campaign because he thought it was important to get the vote of those who were supporting Castro in Latin America."
+   ]
+  },
+  {
+   "begin": "2113.160",
+   "children": [],
+   "end": "2113.600",
+   "id": "n000161",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2113.600",
+   "children": [],
+   "end": "2116.680",
+   "id": "f000312",
+   "language": null,
+   "lines": [
+    "In Africa, the United States has ignored Latin uh - Africa."
+   ]
+  },
+  {
+   "begin": "2116.680",
+   "children": [],
+   "end": "2117.280",
+   "id": "n000162",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2117.280",
+   "children": [],
+   "end": "2123.120",
+   "id": "f000313",
+   "language": null,
+   "lines": [
+    "We gave more scholarships to the Congo - this summer we offered them - than we've given to all of Africa the year before."
+   ]
+  },
+  {
+   "begin": "2123.120",
+   "children": [],
+   "end": "2123.920",
+   "id": "n000163",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2123.920",
+   "children": [],
+   "end": "2129.160",
+   "id": "f000314",
+   "language": null,
+   "lines": [
+    "Less than two hundred for all the countries of Africa and they need trained leadership more than anything."
+   ]
+  },
+  {
+   "begin": "2129.160",
+   "children": [],
+   "end": "2132.040",
+   "id": "f000315",
+   "language": null,
+   "lines": [
+    "We've been uh - having a very clear decision in the last eight years."
+   ]
+  },
+  {
+   "begin": "2132.040",
+   "children": [],
+   "end": "2133.620",
+   "id": "f000316",
+   "language": null,
+   "lines": [
+    "Mr. Nixon has been part of that Administration."
+   ]
+  },
+  {
+   "begin": "2133.620",
+   "children": [],
+   "end": "2133.900",
+   "id": "f000317",
+   "language": null,
+   "lines": [
+    "He's had experience in it."
+   ]
+  },
+  {
+   "begin": "2133.900",
+   "children": [],
+   "end": "2156.000",
+   "id": "f000318",
+   "language": null,
+   "lines": [
+    "And I believe this Administration has not met its responsibilities in the last eight years, that our power relative to that of the Communists is declining, that we're facing a very hazardous time in the sixties, and unless the United States begin to move here - unless we start to go ahead - I don't believe that we're going to meet our responsibility to our own people or to the cause of freedom."
+   ]
+  },
+  {
+   "begin": "2156.000",
+   "children": [],
+   "end": "2156.600",
+   "id": "n000164",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2156.600",
+   "children": [],
+   "end": "2156.920",
+   "id": "f000319",
+   "language": null,
+   "lines": [
+    "I think the choice is clear and it involves the future."
+   ]
+  },
+  {
+   "begin": "2156.920",
+   "children": [],
+   "end": "2157.560",
+   "id": "f000320",
+   "language": null,
+   "lines": [
+    "Mr. Vice President."
+   ]
+  },
+  {
+   "begin": "2157.560",
+   "children": [],
+   "end": "2166.840",
+   "id": "f000321",
+   "language": null,
+   "lines": [
+    "Well first of all, I think Senator Kennedy should make up his mind with regard to my responsibility."
+   ]
+  },
+  {
+   "begin": "2166.840",
+   "children": [],
+   "end": "2174.500",
+   "id": "f000322",
+   "language": null,
+   "lines": [
+    "In our first debate he indicated that I had not had experience or at least uh - had not participated significantly in the making of the decisions."
+   ]
+  },
+  {
+   "begin": "2174.500",
+   "children": [],
+   "end": "2178.920",
+   "id": "f000323",
+   "language": null,
+   "lines": [
+    "I'm glad to hear tonight that he does suggest that I have had some experience."
+   ]
+  },
+  {
+   "begin": "2178.920",
+   "children": [],
+   "end": "2179.720",
+   "id": "n000165",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2179.720",
+   "children": [],
+   "end": "2181.960",
+   "id": "f000324",
+   "language": null,
+   "lines": [
+    "Let me make my position cl ear."
+   ]
+  },
+  {
+   "begin": "2181.960",
+   "children": [],
+   "end": "2185.480",
+   "id": "f000325",
+   "language": null,
+   "lines": [
+    "I have participated in the discussions leading to the decisions in this Administration."
+   ]
+  },
+  {
+   "begin": "2185.480",
+   "children": [],
+   "end": "2186.120",
+   "id": "n000166",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2186.120",
+   "children": [],
+   "end": "2188.800",
+   "id": "f000326",
+   "language": null,
+   "lines": [
+    "I'm proud of the record of this Administration."
+   ]
+  },
+  {
+   "begin": "2188.800",
+   "children": [],
+   "end": "2193.560",
+   "id": "f000327",
+   "language": null,
+   "lines": [
+    "I don't stand on it because it isn't something to stand on but something to build on."
+   ]
+  },
+  {
+   "begin": "2193.560",
+   "children": [],
+   "end": "2200.160",
+   "id": "f000328",
+   "language": null,
+   "lines": [
+    "Now looking at Senator Kennedy's credentials: he is suggesting that he will move America faster and further than I will."
+   ]
+  },
+  {
+   "begin": "2200.160",
+   "children": [],
+   "end": "2200.920",
+   "id": "n000167",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2200.920",
+   "children": [],
+   "end": "2201.600",
+   "id": "f000329",
+   "language": null,
+   "lines": [
+    "But what does he offer?"
+   ]
+  },
+  {
+   "begin": "2201.600",
+   "children": [],
+   "end": "2202.400",
+   "id": "n000168",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2202.400",
+   "children": [],
+   "end": "2205.980",
+   "id": "f000330",
+   "language": null,
+   "lines": [
+    "He offers retreads of programs that failed."
+   ]
+  },
+  {
+   "begin": "2205.980",
+   "children": [],
+   "end": "2223.400",
+   "id": "f000331",
+   "language": null,
+   "lines": [
+    "I submit to you that as you look at his programs, his program for example with regard to the Federal Reserve and uh - free money or loose money uh - high - low interest rates, his program in the economic field generally are the programs that were adopted and tried during the Truman Administration."
+   ]
+  },
+  {
+   "begin": "2223.400",
+   "children": [],
+   "end": "2239.360",
+   "id": "f000332",
+   "language": null,
+   "lines": [
+    "And when we compare the economic progress of this country in the Truman Administration with that of the Eisenhower Administration, we find that in every index there has been a tr- great deal more performance and more progress in this Administration than in that one."
+   ]
+  },
+  {
+   "begin": "2239.360",
+   "children": [],
+   "end": "2245.200",
+   "id": "f000333",
+   "language": null,
+   "lines": [
+    "I say the programs and the leadership that failed then is not the program and the leadership that America needs now."
+   ]
+  },
+  {
+   "begin": "2245.200",
+   "children": [],
+   "end": "2245.880",
+   "id": "n000169",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2245.880",
+   "children": [],
+   "end": "2250.660",
+   "id": "f000334",
+   "language": null,
+   "lines": [
+    "I say that the American people don't want to go back to those policies."
+   ]
+  },
+  {
+   "begin": "2250.660",
+   "children": [],
+   "end": "2252.080",
+   "id": "f000335",
+   "language": null,
+   "lines": [
+    "And incidentally if Senator Kennedy disagrees, he should indicate where he believes those policies are different from those he's advocating today."
+   ]
+  },
+  {
+   "begin": "2252.080",
+   "children": [],
+   "end": "2252.520",
+   "id": "n000170",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2252.520",
+   "children": [],
+   "end": "2254.000",
+   "id": "f000336",
+   "language": null,
+   "lines": [
+    "Mr. Spivak with a question for Vice President Nixon."
+   ]
+  },
+  {
+   "begin": "2254.000",
+   "children": [],
+   "end": "2267.520",
+   "id": "f000337",
+   "language": null,
+   "lines": [
+    "Mr. Vice President, according to news dispatches Soviet Premier Khrushchev said today that Prime Minister Macmillan had assured him that there would be a summit conference next year after the presidential elections."
+   ]
+  },
+  {
+   "begin": "2267.520",
+   "children": [],
+   "end": "2282.920",
+   "id": "f000338",
+   "language": null,
+   "lines": [
+    "Have you given any cause for such assurance, and do you consider it desirable or even possible that there would be a summit conference next year if Mr. Khrushchev persists in the conditions he's laid down?"
+   ]
+  },
+  {
+   "begin": "2282.920",
+   "children": [],
+   "end": "2284.600",
+   "id": "n000171",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2284.600",
+   "children": [],
+   "end": "2286.980",
+   "id": "f000339",
+   "language": null,
+   "lines": [
+    "No, of course I haven't talked to Prime Minister Macmillan."
+   ]
+  },
+  {
+   "begin": "2286.980",
+   "children": [],
+   "end": "2289.560",
+   "id": "f000340",
+   "language": null,
+   "lines": [
+    "It would not be appropriate for me to do so."
+   ]
+  },
+  {
+   "begin": "2289.560",
+   "children": [],
+   "end": "2295.960",
+   "id": "f000341",
+   "language": null,
+   "lines": [
+    "The President is still going to be president for the next four months and he, of course, is the only one who could commit this country in this period."
+   ]
+  },
+  {
+   "begin": "2295.960",
+   "children": [],
+   "end": "2297.000",
+   "id": "n000172",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2297.000",
+   "children": [],
+   "end": "2301.200",
+   "id": "f000342",
+   "language": null,
+   "lines": [
+    "As far as a summit conference is concerned, I want to make my position absolutely clear."
+   ]
+  },
+  {
+   "begin": "2301.200",
+   "children": [],
+   "end": "2302.280",
+   "id": "n000173",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2302.280",
+   "children": [],
+   "end": "2308.340",
+   "id": "f000343",
+   "language": null,
+   "lines": [
+    "I would be willing as president to meet with Mr. Khrushchev or any other world leader if it would serve the cause of peace."
+   ]
+  },
+  {
+   "begin": "2308.340",
+   "children": [],
+   "end": "2309.560",
+   "id": "n000174",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2309.560",
+   "children": [],
+   "end": "2322.160",
+   "id": "f000344",
+   "language": null,
+   "lines": [
+    "I would not be able wou- would be willing to meet with him however, unless there were preparations for that conference which would give us some reasonable certainty - some reasonable certainty - that you were going to have some success."
+   ]
+  },
+  {
+   "begin": "2322.160",
+   "children": [],
+   "end": "2323.120",
+   "id": "n000175",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2323.120",
+   "children": [],
+   "end": "2327.440",
+   "id": "f000345",
+   "language": null,
+   "lines": [
+    "We must not build up the hopes of the world and then dash them as was the case in Paris."
+   ]
+  },
+  {
+   "begin": "2327.440",
+   "children": [],
+   "end": "2328.440",
+   "id": "n000176",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2328.440",
+   "children": [],
+   "end": "2329.400",
+   "id": "f000346",
+   "language": null,
+   "lines": [
+    "There, Mr. Khrushchev came to that conference determined to break it up."
+   ]
+  },
+  {
+   "begin": "2329.400",
+   "children": [],
+   "end": "2341.480",
+   "id": "f000347",
+   "language": null,
+   "lines": [
+    "He was going to break it up because he would - knew that he wasn't going to get his way on Berlin and on the other key matters with which he was concerned at the Paris Conference."
+   ]
+  },
+  {
+   "begin": "2341.480",
+   "children": [],
+   "end": "2359.520",
+   "id": "f000348",
+   "language": null,
+   "lines": [
+    "Now, if we're going to have another summit conference, there must be negotiations at the diplomatic level - the ambassadors, the Secretaries of State, and others at that level - prior to that time, which will delineate the issues and which will prepare the way for the heads of state to meet and make some progress."
+   ]
+  },
+  {
+   "begin": "2359.520",
+   "children": [],
+   "end": "2360.480",
+   "id": "n000177",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2360.480",
+   "children": [],
+   "end": "2368.600",
+   "id": "f000349",
+   "language": null,
+   "lines": [
+    "Otherwise, if we find the heads of state meeting and not making progress, we will find that the cause of peace will have been hurt rather than helped."
+   ]
+  },
+  {
+   "begin": "2368.600",
+   "children": [],
+   "end": "2369.560",
+   "id": "n000178",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2369.560",
+   "children": [],
+   "end": "2399.440",
+   "id": "f000350",
+   "language": null,
+   "lines": [
+    "So under these circumstances, I, therefore, strongly urge and I will strongly hold, if I have the opportunity to urge or to hold - this position: that any summit conference would be gone into only after the most careful preparation and only after Mr. Khrushchev - after his disgraceful conduct at Paris, after his disgraceful conduct at the United Nations - gave some assurance that he really wanted to sit down and talk and to accomplish something and not just to make propaganda."
+   ]
+  },
+  {
+   "begin": "2399.440",
+   "children": [],
+   "end": "2399.860",
+   "id": "f000351",
+   "language": null,
+   "lines": [
+    "Senator Kennedy."
+   ]
+  },
+  {
+   "begin": "2399.860",
+   "children": [],
+   "end": "2404.560",
+   "id": "f000352",
+   "language": null,
+   "lines": [
+    "I have no disagreement with the Vice President's position on that."
+   ]
+  },
+  {
+   "begin": "2404.560",
+   "children": [],
+   "end": "2404.920",
+   "id": "n000179",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2404.920",
+   "children": [],
+   "end": "2405.820",
+   "id": "f000353",
+   "language": null,
+   "lines": [
+    "It - my view is the same as his."
+   ]
+  },
+  {
+   "begin": "2405.820",
+   "children": [],
+   "end": "2408.280",
+   "id": "f000354",
+   "language": null,
+   "lines": [
+    "Let me say there is only one uh - point I would add."
+   ]
+  },
+  {
+   "begin": "2408.280",
+   "children": [],
+   "end": "2420.980",
+   "id": "f000355",
+   "language": null,
+   "lines": [
+    "That before we go into the summit, before we ever meet again, I think it's important that the United States build its strength; that it build its military strength as well as its own economic strength."
+   ]
+  },
+  {
+   "begin": "2420.980",
+   "children": [],
+   "end": "2430.380",
+   "id": "f000356",
+   "language": null,
+   "lines": [
+    "If we negotiate from a position where the power balance or wave is moving away from us, it's extremely difficult to reach a successful decision on Berlin as well as the other questions."
+   ]
+  },
+  {
+   "begin": "2430.380",
+   "children": [],
+   "end": "2439.100",
+   "id": "f000357",
+   "language": null,
+   "lines": [
+    "Now the next president of the United States in his first year is going to be confronted with a very serious question on our defense of Berlin, our commitment to Berlin."
+   ]
+  },
+  {
+   "begin": "2439.100",
+   "children": [],
+   "end": "2441.220",
+   "id": "f000358",
+   "language": null,
+   "lines": [
+    "It's going to be a test of our nerve and will."
+   ]
+  },
+  {
+   "begin": "2441.220",
+   "children": [],
+   "end": "2443.400",
+   "id": "f000359",
+   "language": null,
+   "lines": [
+    "It's going to be a test of our strength."
+   ]
+  },
+  {
+   "begin": "2443.400",
+   "children": [],
+   "end": "2468.580",
+   "id": "f000360",
+   "language": null,
+   "lines": [
+    "And because we're going to move in sixty-one and two, partly because we have not maintained our strength with sufficient vigor in the last years, I believe that before we meet that crisis, that the next president of the United States should send a message to Congress asking for a revitalization of our military strength, because come spring or late in the winter we're going to be face to face with the most serious Berlin crisis since l949 or fifty."
+   ]
+  },
+  {
+   "begin": "2468.580",
+   "children": [],
+   "end": "2472.480",
+   "id": "f000361",
+   "language": null,
+   "lines": [
+    "On the question of the summit, I agree with the position of Mr. Nixon."
+   ]
+  },
+  {
+   "begin": "2472.480",
+   "children": [],
+   "end": "2480.920",
+   "id": "f000362",
+   "language": null,
+   "lines": [
+    "I would not meet Mr. Khrushchev unless there were some agreements at the secondary level - foreign ministers or ambassadors - which would indicate that the meeting would have some hope of success, or a useful exchange of ideas."
+   ]
+  },
+  {
+   "begin": "2480.920",
+   "children": [],
+   "end": "2482.000",
+   "id": "n000180",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2482.000",
+   "children": [],
+   "end": "2484.640",
+   "id": "f000363",
+   "language": null,
+   "lines": [
+    "Mr. Levy with a question for Senator Kennedy."
+   ]
+  },
+  {
+   "begin": "2484.640",
+   "children": [],
+   "end": "2495.460",
+   "id": "f000364",
+   "language": null,
+   "lines": [
+    "Senator, in your acceptance speech at Los Angeles, you said that your campaign would be based not on what you intend to offer the American people, but what you intend to ask of them."
+   ]
+  },
+  {
+   "begin": "2495.460",
+   "children": [],
+   "end": "2503.120",
+   "id": "f000365",
+   "language": null,
+   "lines": [
+    "Since that time you have spelled out many of the things that you intend to do but you have made only vague reference to sacrifice and self-denial."
+   ]
+  },
+  {
+   "begin": "2503.120",
+   "children": [],
+   "end": "2509.700",
+   "id": "f000366",
+   "language": null,
+   "lines": [
+    "A year or so ago, I believe, you said that you would not hesitate to recommend a tax increase if you considered it necessary."
+   ]
+  },
+  {
+   "begin": "2509.700",
+   "children": [],
+   "end": "2510.900",
+   "id": "f000367",
+   "language": null,
+   "lines": [
+    "That's right."
+   ]
+  },
+  {
+   "begin": "2510.900",
+   "children": [],
+   "end": "2511.840",
+   "id": "f000368",
+   "language": null,
+   "lines": [
+    "Is this what you have in mind?"
+   ]
+  },
+  {
+   "begin": "2511.840",
+   "children": [],
+   "end": "2512.520",
+   "id": "n000181",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2512.520",
+   "children": [],
+   "end": "2519.980",
+   "id": "f000369",
+   "language": null,
+   "lines": [
+    "Well I don't think that in the winter of sixty-one under present economic conditions, it uh - a - uh - tax uh - increase would be desirable."
+   ]
+  },
+  {
+   "begin": "2519.980",
+   "children": [],
+   "end": "2525.740",
+   "id": "f000370",
+   "language": null,
+   "lines": [
+    "In fact, it would be deflationary; it would cause great unemployment; it would cause a real slowdown in our economy."
+   ]
+  },
+  {
+   "begin": "2525.740",
+   "children": [],
+   "end": "2537.220",
+   "id": "f000371",
+   "language": null,
+   "lines": [
+    "If it ever becomes necessary, and is wise economically and essential to our security, I would have no hesitancy in suggesting a tax increase or any other policy which would defend the United States."
+   ]
+  },
+  {
+   "begin": "2537.220",
+   "children": [],
+   "end": "2537.880",
+   "id": "n000182",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2537.880",
+   "children": [],
+   "end": "2545.560",
+   "id": "f000372",
+   "language": null,
+   "lines": [
+    "I have talked in every speech about the fact that these are going to be very difficult times in the nineteen-sixties and that we're going to have to meet our responsibilities as citizens."
+   ]
+  },
+  {
+   "begin": "2545.560",
+   "children": [],
+   "end": "2546.120",
+   "id": "n000183",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2546.120",
+   "children": [],
+   "end": "2547.520",
+   "id": "f000373",
+   "language": null,
+   "lines": [
+    "I'm talking about a national mood."
+   ]
+  },
+  {
+   "begin": "2547.520",
+   "children": [],
+   "end": "2548.360",
+   "id": "n000184",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2548.360",
+   "children": [],
+   "end": "2554.920",
+   "id": "f000374",
+   "language": null,
+   "lines": [
+    "I'm talking about our willingness to bear any burdens in order to maintain our own freedom and in order to meet our freedom around the globe."
+   ]
+  },
+  {
+   "begin": "2554.920",
+   "children": [],
+   "end": "2555.400",
+   "id": "n000185",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2555.400",
+   "children": [],
+   "end": "2557.000",
+   "id": "f000375",
+   "language": null,
+   "lines": [
+    "We don't know what the future's going to bring."
+   ]
+  },
+  {
+   "begin": "2557.000",
+   "children": [],
+   "end": "2557.720",
+   "id": "n000186",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2557.720",
+   "children": [],
+   "end": "2564.680",
+   "id": "f000376",
+   "language": null,
+   "lines": [
+    "But I would not want anyone to elect me uh - president of the United States - or vote for me - under the expectation that life would be easier if I were elected."
+   ]
+  },
+  {
+   "begin": "2564.680",
+   "children": [],
+   "end": "2573.800",
+   "id": "f000377",
+   "language": null,
+   "lines": [
+    "Now, many of the programs that I'm talking about - economic growth, care for the aged, development of our natural resources - build the strength of the United States."
+   ]
+  },
+  {
+   "begin": "2573.800",
+   "children": [],
+   "end": "2574.640",
+   "id": "n000187",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2574.640",
+   "children": [],
+   "end": "2581.600",
+   "id": "f000378",
+   "language": null,
+   "lines": [
+    "That's how the United States began to prepare for its great actions in World War II and in the post-war period."
+   ]
+  },
+  {
+   "begin": "2581.600",
+   "children": [],
+   "end": "2582.040",
+   "id": "n000188",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2582.040",
+   "children": [],
+   "end": "2594.920",
+   "id": "f000379",
+   "language": null,
+   "lines": [
+    "If we're moving ahead, if we're providing a viable economy, if our people have sufficient resources so that they can consume what we produce; then this country's on the move, then we're stronger, then we set a better example to the world."
+   ]
+  },
+  {
+   "begin": "2594.920",
+   "children": [],
+   "end": "2595.800",
+   "id": "n000189",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2595.800",
+   "children": [],
+   "end": "2604.240",
+   "id": "f000380",
+   "language": null,
+   "lines": [
+    "So we have the problem of not only building our own uh - military strength and extending uh - our policies abroad, we have to do a job here at home."
+   ]
+  },
+  {
+   "begin": "2604.240",
+   "children": [],
+   "end": "2604.960",
+   "id": "n000190",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2604.960",
+   "children": [],
+   "end": "2610.800",
+   "id": "f000381",
+   "language": null,
+   "lines": [
+    "So I believe that the policies that I recommend came under the general heading of strengthening the United States."
+   ]
+  },
+  {
+   "begin": "2610.800",
+   "children": [],
+   "end": "2613.840",
+   "id": "f000382",
+   "language": null,
+   "lines": [
+    "We're using our steel capacity fifty-five per cent today."
+   ]
+  },
+  {
+   "begin": "2613.840",
+   "children": [],
+   "end": "2617.860",
+   "id": "f000383",
+   "language": null,
+   "lines": [
+    "We're not able to consume what we're able to produce at a time when the Soviet Union is making great economic gains."
+   ]
+  },
+  {
+   "begin": "2617.860",
+   "children": [],
+   "end": "2632.160",
+   "id": "f000384",
+   "language": null,
+   "lines": [
+    "And all I say is, I don't know what the sixties will bring - except I think they will bring hard times in the uh - international sphere; I hope we can move ahead here at home in the United States; I'm confident we can do a far better job of mobilizing our economy and resources in the United States."
+   ]
+  },
+  {
+   "begin": "2632.160",
+   "children": [],
+   "end": "2632.520",
+   "id": "n000191",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2632.520",
+   "children": [],
+   "end": "2644.960",
+   "id": "f000385",
+   "language": null,
+   "lines": [
+    "And I merely say that they - if they elect me president, I will do my best to carry the United States through a difficult period; but I would not want people to elect me because I promised them the easy, soft life."
+   ]
+  },
+  {
+   "begin": "2644.960",
+   "children": [],
+   "end": "2649.200",
+   "id": "f000386",
+   "language": null,
+   "lines": [
+    "I think it's going to be difficult; but I'm confident that this country can meet its responsibilities."
+   ]
+  },
+  {
+   "begin": "2649.200",
+   "children": [],
+   "end": "2653.280",
+   "id": "f000387",
+   "language": null,
+   "lines": [
+    "Mr. Vice President."
+   ]
+  },
+  {
+   "begin": "2653.280",
+   "children": [],
+   "end": "2659.200",
+   "id": "f000388",
+   "language": null,
+   "lines": [
+    "Well I think we should be no - under no illusions whatever about what the responsibilities of the American people will be in the sixties."
+   ]
+  },
+  {
+   "begin": "2659.200",
+   "children": [],
+   "end": "2660.480",
+   "id": "n000192",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2660.480",
+   "children": [],
+   "end": "2669.840",
+   "id": "f000389",
+   "language": null,
+   "lines": [
+    "Our expenditures for defense, our expenditures for mutual security, our expenditures for economic assistance and technical assistance are not going to get less."
+   ]
+  },
+  {
+   "begin": "2669.840",
+   "children": [],
+   "end": "2670.640",
+   "id": "n000193",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2670.640",
+   "children": [],
+   "end": "2672.720",
+   "id": "f000390",
+   "language": null,
+   "lines": [
+    "In my opinion they're going to be de- be greater."
+   ]
+  },
+  {
+   "begin": "2672.720",
+   "children": [],
+   "end": "2673.560",
+   "id": "n000194",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2673.560",
+   "children": [],
+   "end": "2677.000",
+   "id": "f000391",
+   "language": null,
+   "lines": [
+    "I think it may be necessary that we have more taxes."
+   ]
+  },
+  {
+   "begin": "2677.000",
+   "children": [],
+   "end": "2677.680",
+   "id": "n000195",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2677.680",
+   "children": [],
+   "end": "2678.240",
+   "id": "f000392",
+   "language": null,
+   "lines": [
+    "I hope not."
+   ]
+  },
+  {
+   "begin": "2678.240",
+   "children": [],
+   "end": "2678.840",
+   "id": "n000196",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2678.840",
+   "children": [],
+   "end": "2681.520",
+   "id": "f000393",
+   "language": null,
+   "lines": [
+    "I hope we can economize elsewhere so that we don't have to."
+   ]
+  },
+  {
+   "begin": "2681.520",
+   "children": [],
+   "end": "2682.400",
+   "id": "n000197",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2682.400",
+   "children": [],
+   "end": "2696.120",
+   "id": "f000394",
+   "language": null,
+   "lines": [
+    "But I would have no hesitation to ask the American people to pay the taxes even in l961 - if necessary - to maintain a sound economy and also to maintain a sound dollar."
+   ]
+  },
+  {
+   "begin": "2696.120",
+   "children": [],
+   "end": "2707.680",
+   "id": "f000395",
+   "language": null,
+   "lines": [
+    "Because when you do not tax, and tax enough to pay for your outgo, you pay it many times over in higher prices and inflation; and I simply will not do that."
+   ]
+  },
+  {
+   "begin": "2707.680",
+   "children": [],
+   "end": "2722.240",
+   "id": "f000396",
+   "language": null,
+   "lines": [
+    "I think I should also add that as far as Senator Kennedy's proposals are concerned, if he intends to carry out his platform - the one adopted in Los Angeles - it is just impossible for him to make good on those promises without raising taxes or without having a rise in t- prices or both."
+   ]
+  },
+  {
+   "begin": "2722.240",
+   "children": [],
+   "end": "2722.241",
+   "id": "f000397",
+   "language": null,
+   "lines": [
+    "The platform suggests that it can be done through economic growth; that it can be done, in effect, with mirrors."
+   ]
+  },
+  {
+   "begin": "2722.241",
+   "children": [],
+   "end": "2722.242",
+   "id": "f000398",
+   "language": null,
+   "lines": [
+    "But it isn't going to be working that way."
+   ]
+  },
+  {
+   "begin": "2722.242",
+   "children": [],
+   "end": "2727.040",
+   "id": "f000399",
+   "language": null,
+   "lines": [
+    "You can't add billions of dollars to our expenditures and not pay for it."
+   ]
+  },
+  {
+   "begin": "2727.040",
+   "children": [],
+   "end": "2730.840",
+   "id": "f000400",
+   "language": null,
+   "lines": [
+    "After all, it isn't paid for by my money, it isn't paid for by his, but by the people's money."
+   ]
+  },
+  {
+   "begin": "2730.840",
+   "children": [],
+   "end": "2730.841",
+   "id": "f000401",
+   "language": null,
+   "lines": [
+    "Mr. Niven with a question for Vice President Nixon."
+   ]
+  },
+  {
+   "begin": "2730.841",
+   "children": [],
+   "end": "2740.880",
+   "id": "f000402",
+   "language": null,
+   "lines": [
+    "Mr. Vice President, you said that while Mr. Khrushchev is here, Senator Kennedy should talk about what's right with this country as well as what's wrong with the country."
+   ]
+  },
+  {
+   "begin": "2740.880",
+   "children": [],
+   "end": "2768.820",
+   "id": "f000403",
+   "language": null,
+   "lines": [
+    "In the 1952 campaign when you were Republican candidate for Vice President, and we were eh - at war with the Communists, did you feel a similar responsibility to t- talk about what was right with the country?"
+   ]
+  },
+  {
+   "begin": "2768.820",
+   "children": [],
+   "end": "2769.040",
+   "id": "f000404",
+   "language": null,
+   "lines": [
+    "I did."
+   ]
+  },
+  {
+   "begin": "2769.040",
+   "children": [],
+   "end": "2769.680",
+   "id": "n000198",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2769.680",
+   "children": [],
+   "end": "2780.840",
+   "id": "f000405",
+   "language": null,
+   "lines": [
+    "And as I pointed out in 1952, I made it very clear that as far as the Korean War was concerned, that I felt that the decision to go into the war in Korea was right and necessary."
+   ]
+  },
+  {
+   "begin": "2780.840",
+   "children": [],
+   "end": "2781.840",
+   "id": "n000199",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2781.840",
+   "children": [],
+   "end": "2786.760",
+   "id": "f000406",
+   "language": null,
+   "lines": [
+    "What I criticized were the policies that made it necessary to go to Korea."
+   ]
+  },
+  {
+   "begin": "2786.760",
+   "children": [],
+   "end": "2787.360",
+   "id": "n000200",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2787.360",
+   "children": [],
+   "end": "2791.220",
+   "id": "f000407",
+   "language": null,
+   "lines": [
+    "Now incidentally, I should point out here that Senator Kennedy has attacked our foreign policy."
+   ]
+  },
+  {
+   "begin": "2791.220",
+   "children": [],
+   "end": "2794.400",
+   "id": "f000408",
+   "language": null,
+   "lines": [
+    "He's said that it's been a policy that has led to defeat and retreat."
+   ]
+  },
+  {
+   "begin": "2794.400",
+   "children": [],
+   "end": "2800.160",
+   "id": "f000409",
+   "language": null,
+   "lines": [
+    "And I'd like to know where have we been defeated and where have we retreated?"
+   ]
+  },
+  {
+   "begin": "2800.160",
+   "children": [],
+   "end": "2807.500",
+   "id": "f000410",
+   "language": null,
+   "lines": [
+    "In the Truman Administration, six hundred million people went behind the Iron Curtain including the satellite countries of Eastern Europe and Communist China."
+   ]
+  },
+  {
+   "begin": "2807.500",
+   "children": [],
+   "end": "2815.220",
+   "id": "f000411",
+   "language": null,
+   "lines": [
+    "In this Administration we've stopped them at Quemoy and Matsu; we've stopped them in Indochina; we've stopped them in Lebanon; we've stopped them in other parts of the world."
+   ]
+  },
+  {
+   "begin": "2815.220",
+   "children": [],
+   "end": "2827.840",
+   "id": "f000412",
+   "language": null,
+   "lines": [
+    "I would also like to point out that as far as Senator Kennedy's comments are concerned, I think he has a perfect right and a responsibility to criticize this Administration whenever he thinks we're wrong."
+   ]
+  },
+  {
+   "begin": "2827.840",
+   "children": [],
+   "end": "2831.520",
+   "id": "f000413",
+   "language": null,
+   "lines": [
+    "But he has a responsibility to be accurate, and not to misstate the case."
+   ]
+  },
+  {
+   "begin": "2831.520",
+   "children": [],
+   "end": "2832.560",
+   "id": "n000201",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2832.560",
+   "children": [],
+   "end": "2835.680",
+   "id": "f000414",
+   "language": null,
+   "lines": [
+    "I don't think he should say that our prestige is at an all-time low."
+   ]
+  },
+  {
+   "begin": "2835.680",
+   "children": [],
+   "end": "2836.200",
+   "id": "n000202",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2836.200",
+   "children": [],
+   "end": "2840.000",
+   "id": "f000415",
+   "language": null,
+   "lines": [
+    "I think this is very harmful at a time Mr. Khrushchev is here - harmful because it's wrong."
+   ]
+  },
+  {
+   "begin": "2840.000",
+   "children": [],
+   "end": "2850.880",
+   "id": "f000416",
+   "language": null,
+   "lines": [
+    "I don't think it was helpful when he suggested - and I'm glad he's corrected this to an extent - that seventeen million people go to bed hungry every night in the United States."
+   ]
+  },
+  {
+   "begin": "2850.880",
+   "children": [],
+   "end": "2853.980",
+   "id": "f000417",
+   "language": null,
+   "lines": [
+    "Now this just wasn't true."
+   ]
+  },
+  {
+   "begin": "2853.980",
+   "children": [],
+   "end": "2870.040",
+   "id": "f000418",
+   "language": null,
+   "lines": [
+    "Now, there are people who go to bed hungry in the United States - far less, incidentally, than used to go to bed hungry when we came into power at the end of the Truman Administration."
+   ]
+  },
+  {
+   "begin": "2870.040",
+   "children": [],
+   "end": "2880.840",
+   "id": "f000419",
+   "language": null,
+   "lines": [
+    "But the thing that is right about the United States, it should be emphasized, is that less people go to bed hungry in the United States than in any major country in the world."
+   ]
+  },
+  {
+   "begin": "2880.840",
+   "children": [],
+   "end": "2891.560",
+   "id": "f000420",
+   "language": null,
+   "lines": [
+    "We're the best fed; we're the best clothed, with a better distribution of this world's goods to all of our people than any people in history."
+   ]
+  },
+  {
+   "begin": "2891.560",
+   "children": [],
+   "end": "2892.000",
+   "id": "n000203",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2892.000",
+   "children": [],
+   "end": "2901.540",
+   "id": "f000421",
+   "language": null,
+   "lines": [
+    "Now, in pointing out the things that are wrong, I think we ought to emphasize America's strengths."
+   ]
+  },
+  {
+   "begin": "2901.540",
+   "children": [],
+   "end": "2903.940",
+   "id": "f000422",
+   "language": null,
+   "lines": [
+    "It isn't necessary to - to run America down in order to build her up."
+   ]
+  },
+  {
+   "begin": "2903.940",
+   "children": [],
+   "end": "2909.380",
+   "id": "f000423",
+   "language": null,
+   "lines": [
+    "Now so that we get it absolutely clear: Senator Kennedy must as a candidate - as I as a candidate in fifty-two - criticize us when we're wrong."
+   ]
+  },
+  {
+   "begin": "2909.380",
+   "children": [],
+   "end": "2911.460",
+   "id": "f000424",
+   "language": null,
+   "lines": [
+    "And he's doing a very effective job of that, in his way."
+   ]
+  },
+  {
+   "begin": "2911.460",
+   "children": [],
+   "end": "2912.720",
+   "id": "n000204",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2912.720",
+   "children": [],
+   "end": "2914.240",
+   "id": "f000425",
+   "language": null,
+   "lines": [
+    "But on the other hand, he has a responsibility to be accurate."
+   ]
+  },
+  {
+   "begin": "2914.240",
+   "children": [],
+   "end": "2916.640",
+   "id": "f000426",
+   "language": null,
+   "lines": [
+    "And I have a responsibility to correct him every time he misstates the case; and I intend to continue to do so."
+   ]
+  },
+  {
+   "begin": "2916.640",
+   "children": [],
+   "end": "2916.760",
+   "id": "f000427",
+   "language": null,
+   "lines": [
+    "Senator Kennedy."
+   ]
+  },
+  {
+   "begin": "2916.760",
+   "children": [],
+   "end": "2931.520",
+   "id": "f000428",
+   "language": null,
+   "lines": [
+    "Well, Mr. Nixon uh- I'll just give you the testimony of Mr. George Aiken - Senator George Aiken, the ranking minority member - Republican member - and former chairman of the Senate Agricultural Committee testifying in 1959 - said there were twenty-six million Americans who did not have the income to afford a decent diet."
+   ]
+  },
+  {
+   "begin": "2931.520",
+   "children": [],
+   "end": "2941.360",
+   "id": "f000429",
+   "language": null,
+   "lines": [
+    "Mr. Benson, testifying on the food stamp plan in 1957, said there were twenty-five million Americans who could not afford a elementary low-cost diet."
+   ]
+  },
+  {
+   "begin": "2941.360",
+   "children": [],
+   "end": "2941.840",
+   "id": "n000205",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2941.840",
+   "children": [],
+   "end": "2945.000",
+   "id": "f000430",
+   "language": null,
+   "lines": [
+    "And he defined that as someone who uses beans in place of meat."
+   ]
+  },
+  {
+   "begin": "2945.000",
+   "children": [],
+   "end": "2945.680",
+   "id": "n000206",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2945.680",
+   "children": [],
+   "end": "2950.360",
+   "id": "f000431",
+   "language": null,
+   "lines": [
+    "Now I've seen a good many hundreds of thousands of people who are uh - not adequately fed."
+   ]
+  },
+  {
+   "begin": "2950.360",
+   "children": [],
+   "end": "2951.160",
+   "id": "n000207",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2951.160",
+   "children": [],
+   "end": "2959.280",
+   "id": "f000432",
+   "language": null,
+   "lines": [
+    "You can't tell me that a surplus food distribution of five cents po- per person - and that n- nearly six million Americans receiving that - is adequate."
+   ]
+  },
+  {
+   "begin": "2959.280",
+   "children": [],
+   "end": "2967.480",
+   "id": "f000433",
+   "language": null,
+   "lines": [
+    "You can't tell me that any one who uses beans instead of meat in the United States - and there are twenty-five million of them according to Mr. Benson - is well fed or adequately fed."
+   ]
+  },
+  {
+   "begin": "2967.480",
+   "children": [],
+   "end": "2977.200",
+   "id": "f000434",
+   "language": null,
+   "lines": [
+    "I believe that we should not compare what our figures may be to India or some other country that has serious problems but to remember that we are the most prosperous country in the world and that these people are not getting adequate food."
+   ]
+  },
+  {
+   "begin": "2977.200",
+   "children": [],
+   "end": "2980.000",
+   "id": "f000435",
+   "language": null,
+   "lines": [
+    "And they're not getting in many cases adequate shelter."
+   ]
+  },
+  {
+   "begin": "2980.000",
+   "children": [],
+   "end": "2980.320",
+   "id": "n000208",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2980.320",
+   "children": [],
+   "end": "2982.680",
+   "id": "f000436",
+   "language": null,
+   "lines": [
+    "And we ought to try to meet the problem."
+   ]
+  },
+  {
+   "begin": "2982.680",
+   "children": [],
+   "end": "2989.980",
+   "id": "f000437",
+   "language": null,
+   "lines": [
+    "Secondly, Mr. Nixon has continued to state - and he stated it last week - these fantastic figures of what the Democratic budget would c- uh - platform would cost."
+   ]
+  },
+  {
+   "begin": "2989.980",
+   "children": [],
+   "end": "2991.800",
+   "id": "f000438",
+   "language": null,
+   "lines": [
+    "They're wholly inaccurate."
+   ]
+  },
+  {
+   "begin": "2991.800",
+   "children": [],
+   "end": "2993.360",
+   "id": "f000439",
+   "language": null,
+   "lines": [
+    "I said last week I believed in a balanced budget."
+   ]
+  },
+  {
+   "begin": "2993.360",
+   "children": [],
+   "end": "2994.000",
+   "id": "n000209",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2994.000",
+   "children": [],
+   "end": "3002.160",
+   "id": "f000440",
+   "language": null,
+   "lines": [
+    "Unless there was a severe recession - and after all the worst unbalanced budget in history was in 1958, twelve billion dollars - larger than in any Administration in the history of the United States."
+   ]
+  },
+  {
+   "begin": "3002.160",
+   "children": [],
+   "end": "3002.680",
+   "id": "n000210",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3002.680",
+   "children": [],
+   "end": "3011.420",
+   "id": "f000441",
+   "language": null,
+   "lines": [
+    "So that I believe that on this subject we can balance the budget unless we have a national emergency or unless we have a severe recession."
+   ]
+  },
+  {
+   "begin": "3011.420",
+   "children": [],
+   "end": "3012.480",
+   "id": "n000211",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3012.480",
+   "children": [],
+   "end": "3016.240",
+   "id": "f000442",
+   "language": null,
+   "lines": [
+    "Mr. Morgan with a question for Senator Kennedy."
+   ]
+  },
+  {
+   "begin": "3016.240",
+   "children": [],
+   "end": "3027.060",
+   "id": "f000443",
+   "language": null,
+   "lines": [
+    "Senator, Saturday on television you said that you had always thought that Quemoy and Matsu were unwise places to draw our defense line in the Far East."
+   ]
+  },
+  {
+   "begin": "3027.060",
+   "children": [],
+   "end": "3037.060",
+   "id": "f000444",
+   "language": null,
+   "lines": [
+    "Would you comment further on that and also address to this question; couldn't a pullback from those islands be interpreted as appeasement?"
+   ]
+  },
+  {
+   "begin": "3037.060",
+   "children": [],
+   "end": "3045.000",
+   "id": "f000445",
+   "language": null,
+   "lines": [
+    "Well, the United States uh - has on occasion attempted uh - mostly in the middle fifties, to persuade Chiang Kai-shek to pull his troops back to Formosa."
+   ]
+  },
+  {
+   "begin": "3045.000",
+   "children": [],
+   "end": "3046.640",
+   "id": "f000446",
+   "language": null,
+   "lines": [
+    "I believe strongly in the defense of Formosa."
+   ]
+  },
+  {
+   "begin": "3046.640",
+   "children": [],
+   "end": "3047.240",
+   "id": "n000212",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3047.240",
+   "children": [],
+   "end": "3054.840",
+   "id": "f000447",
+   "language": null,
+   "lines": [
+    "These islands are a few miles - five or six miles - off the coast of Red China, within a general harbor area and more than a hundred miles from Formosa."
+   ]
+  },
+  {
+   "begin": "3054.840",
+   "children": [],
+   "end": "3060.400",
+   "id": "f000448",
+   "language": null,
+   "lines": [
+    "We have never said flatly that we will defend Quemoy and Matsu if it's attacked."
+   ]
+  },
+  {
+   "begin": "3060.400",
+   "children": [],
+   "end": "3063.560",
+   "id": "f000449",
+   "language": null,
+   "lines": [
+    "We say we will defend it if it's part of a general attack on Formosa."
+   ]
+  },
+  {
+   "begin": "3063.560",
+   "children": [],
+   "end": "3063.960",
+   "id": "n000213",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3063.960",
+   "children": [],
+   "end": "3065.520",
+   "id": "f000450",
+   "language": null,
+   "lines": [
+    "But it's extremely difficult to make that judgment."
+   ]
+  },
+  {
+   "begin": "3065.520",
+   "children": [],
+   "end": "3072.800",
+   "id": "f000451",
+   "language": null,
+   "lines": [
+    "Now, Mr. Herter in 1958, when he was Under Secretary of State, said they were strategically undefensible."
+   ]
+  },
+  {
+   "begin": "3072.800",
+   "children": [],
+   "end": "3079.000",
+   "id": "f000452",
+   "language": null,
+   "lines": [
+    "Admirals Spruance and Callins in 1955 said that we should not attempt to defend these islands, in their conference in the Far East."
+   ]
+  },
+  {
+   "begin": "3079.000",
+   "children": [],
+   "end": "3079.480",
+   "id": "n000214",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3079.480",
+   "children": [],
+   "end": "3081.120",
+   "id": "f000453",
+   "language": null,
+   "lines": [
+    "General Ridgway has said the same thing."
+   ]
+  },
+  {
+   "begin": "3081.120",
+   "children": [],
+   "end": "3081.760",
+   "id": "n000215",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3081.760",
+   "children": [],
+   "end": "3088.080",
+   "id": "f000454",
+   "language": null,
+   "lines": [
+    "I believe that when you get into a w- if you're going to get into war for the defense of Formosa, it ought to be on a clearly defined line."
+   ]
+  },
+  {
+   "begin": "3088.080",
+   "children": [],
+   "end": "3095.460",
+   "id": "f000455",
+   "language": null,
+   "lines": [
+    "One of the problems, I think, at the time of South Korea was the question of whether the United States would defend it if it were attacked."
+   ]
+  },
+  {
+   "begin": "3095.460",
+   "children": [],
+   "end": "3097.120",
+   "id": "f000456",
+   "language": null,
+   "lines": [
+    "I believe that we should defend Formosa."
+   ]
+  },
+  {
+   "begin": "3097.120",
+   "children": [],
+   "end": "3099.580",
+   "id": "f000457",
+   "language": null,
+   "lines": [
+    "We should come to its defense."
+   ]
+  },
+  {
+   "begin": "3099.580",
+   "children": [],
+   "end": "3104.720",
+   "id": "f000458",
+   "language": null,
+   "lines": [
+    "To leave this rather in the air, that we will defend it under some conditions but not under other, I think is a mistake."
+   ]
+  },
+  {
+   "begin": "3104.720",
+   "children": [],
+   "end": "3105.320",
+   "id": "n000216",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3105.320",
+   "children": [],
+   "end": "3109.220",
+   "id": "f000459",
+   "language": null,
+   "lines": [
+    "Secondly, I would not suggest the withdrawal at the point of the Communist gun."
+   ]
+  },
+  {
+   "begin": "3109.220",
+   "children": [],
+   "end": "3119.000",
+   "id": "f000460",
+   "language": null,
+   "lines": [
+    "It is a decision finally that the Nationalists should make and I believe that we should consult with them and attempt to work out a plan by which the line is drawn at the island of Formosa."
+   ]
+  },
+  {
+   "begin": "3119.000",
+   "children": [],
+   "end": "3119.560",
+   "id": "n000217",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3119.560",
+   "children": [],
+   "end": "3121.200",
+   "id": "f000461",
+   "language": null,
+   "lines": [
+    "It leaves a hundred miles between the sea."
+   ]
+  },
+  {
+   "begin": "3121.200",
+   "children": [],
+   "end": "3121.920",
+   "id": "n000218",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3121.920",
+   "children": [],
+   "end": "3140.140",
+   "id": "f000462",
+   "language": null,
+   "lines": [
+    "But with General Ridgway, Mr. Herter, General Collins, Admiral Spruance and many others, I think it's unwise to take the chance of being dragged into a war which may lead to a world war over two islands which are not strategically defensible, which are not, according to their testimony, essential to the defense of Formosa."
+   ]
+  },
+  {
+   "begin": "3140.140",
+   "children": [],
+   "end": "3142.680",
+   "id": "f000463",
+   "language": null,
+   "lines": [
+    "I think that uh - we should protect our commitments."
+   ]
+  },
+  {
+   "begin": "3142.680",
+   "children": [],
+   "end": "3143.040",
+   "id": "f000464",
+   "language": null,
+   "lines": [
+    "I believe strongly we should do so in Berlin."
+   ]
+  },
+  {
+   "begin": "3143.040",
+   "children": [],
+   "end": "3146.060",
+   "id": "f000465",
+   "language": null,
+   "lines": [
+    "I believe strongly we should d- do so in Formosa and I believe we should meet our commitments to every country whose security we've guaranteed."
+   ]
+  },
+  {
+   "begin": "3146.060",
+   "children": [],
+   "end": "3152.600",
+   "id": "f000466",
+   "language": null,
+   "lines": [
+    "But I do not believe that that line in case of war should be drawn on those islands but instead on the island of Formosa."
+   ]
+  },
+  {
+   "begin": "3152.600",
+   "children": [],
+   "end": "3172.400",
+   "id": "f000467",
+   "language": null,
+   "lines": [
+    "And as long as they are not essential to the defense of Formosa, it's been my judgment ever since 1954, at the time of the Eisenhower Doctrine for the Far East, that our line should be drawn in the sea around the island itself."
+   ]
+  },
+  {
+   "begin": "3172.400",
+   "children": [],
+   "end": "3173.000",
+   "id": "f000468",
+   "language": null,
+   "lines": [
+    "Mr. Vice President."
+   ]
+  },
+  {
+   "begin": "3173.000",
+   "children": [],
+   "end": "3174.720",
+   "id": "f000469",
+   "language": null,
+   "lines": [
+    "I disagree completely with Senator Kennedy on this point."
+   ]
+  },
+  {
+   "begin": "3174.720",
+   "children": [],
+   "end": "3176.240",
+   "id": "n000219",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3176.240",
+   "children": [],
+   "end": "3183.160",
+   "id": "f000470",
+   "language": null,
+   "lines": [
+    "I remember in the period immediately before the Korean War, South Korea was supposed to be indefensible as well."
+   ]
+  },
+  {
+   "begin": "3183.160",
+   "children": [],
+   "end": "3183.720",
+   "id": "n000220",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3183.720",
+   "children": [],
+   "end": "3184.820",
+   "id": "f000471",
+   "language": null,
+   "lines": [
+    "Generals testified to that."
+   ]
+  },
+  {
+   "begin": "3184.820",
+   "children": [],
+   "end": "3186.080",
+   "id": "n000221",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3186.080",
+   "children": [],
+   "end": "3199.080",
+   "id": "f000472",
+   "language": null,
+   "lines": [
+    "And Secretary Acheson made a very famous speech at the Press Club, early in the year that k- Korean War started, indicating in effect that South Korea was beyond the defense zone of the United States."
+   ]
+  },
+  {
+   "begin": "3199.080",
+   "children": [],
+   "end": "3202.080",
+   "id": "f000473",
+   "language": null,
+   "lines": [
+    "I suppose it was hoped when he made that speech that we wouldn't get into a war."
+   ]
+  },
+  {
+   "begin": "3202.080",
+   "children": [],
+   "end": "3203.000",
+   "id": "n000222",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3203.000",
+   "children": [],
+   "end": "3203.880",
+   "id": "f000474",
+   "language": null,
+   "lines": [
+    "But it didn't mean that."
+   ]
+  },
+  {
+   "begin": "3203.880",
+   "children": [],
+   "end": "3204.560",
+   "id": "n000223",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3204.560",
+   "children": [],
+   "end": "3206.320",
+   "id": "f000475",
+   "language": null,
+   "lines": [
+    "We had to go in when they came in."
+   ]
+  },
+  {
+   "begin": "3206.320",
+   "children": [],
+   "end": "3207.480",
+   "id": "n000224",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3207.480",
+   "children": [],
+   "end": "3214.920",
+   "id": "f000476",
+   "language": null,
+   "lines": [
+    "Now I think as far as Quemoy and Matsu are concerned, that the question is not these two little pieces of real estate - they are unimportant."
+   ]
+  },
+  {
+   "begin": "3214.920",
+   "children": [],
+   "end": "3217.440",
+   "id": "f000477",
+   "language": null,
+   "lines": [
+    "It isn't the few people who live on them - they are not too important."
+   ]
+  },
+  {
+   "begin": "3217.440",
+   "children": [],
+   "end": "3218.080",
+   "id": "n000225",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3218.080",
+   "children": [],
+   "end": "3220.520",
+   "id": "f000478",
+   "language": null,
+   "lines": [
+    "It's the principle involved."
+   ]
+  },
+  {
+   "begin": "3220.520",
+   "children": [],
+   "end": "3226.240",
+   "id": "f000479",
+   "language": null,
+   "lines": [
+    "These two islands are in the area of freedom."
+   ]
+  },
+  {
+   "begin": "3226.240",
+   "children": [],
+   "end": "3227.200",
+   "id": "f000480",
+   "language": null,
+   "lines": [
+    "The Nationalists have these two islands."
+   ]
+  },
+  {
+   "begin": "3227.200",
+   "children": [],
+   "end": "3234.660",
+   "id": "f000481",
+   "language": null,
+   "lines": [
+    "We should not uh - force our Nationalist allies to get off of them and give them to the Communists."
+   ]
+  },
+  {
+   "begin": "3234.660",
+   "children": [],
+   "end": "3243.540",
+   "id": "f000482",
+   "language": null,
+   "lines": [
+    "If we do that we start a chain reaction; because the Communists aren't after Quemoy and Matsu, they're a- they're after Formosa."
+   ]
+  },
+  {
+   "begin": "3243.540",
+   "children": [],
+   "end": "3249.560",
+   "id": "f000483",
+   "language": null,
+   "lines": [
+    "In my opinion this is the same kind of woolly thinking that led to disaster for America in Korea."
+   ]
+  },
+  {
+   "begin": "3249.560",
+   "children": [],
+   "end": "3250.040",
+   "id": "n000226",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3250.040",
+   "children": [],
+   "end": "3250.600",
+   "id": "f000484",
+   "language": null,
+   "lines": [
+    "I am against it."
+   ]
+  },
+  {
+   "begin": "3250.600",
+   "children": [],
+   "end": "3251.160",
+   "id": "n000227",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3251.160",
+   "children": [],
+   "end": "3255.460",
+   "id": "f000485",
+   "language": null,
+   "lines": [
+    "I would never tolerate it as president of the United States, and I will hope that Senator Kennedy will change his mind if he should be elected."
+   ]
+  },
+  {
+   "begin": "3255.460",
+   "children": [],
+   "end": "3255.700",
+   "id": "f000486",
+   "language": null,
+   "lines": [
+    "Gentlemen, we have approximately four minutes remaining."
+   ]
+  },
+  {
+   "begin": "3255.700",
+   "children": [],
+   "end": "3261.420",
+   "id": "f000487",
+   "language": null,
+   "lines": [
+    "May I ask you to make your questions and answers as brief as possible consistent with clarity."
+   ]
+  },
+  {
+   "begin": "3261.420",
+   "children": [],
+   "end": "3266.880",
+   "id": "f000488",
+   "language": null,
+   "lines": [
+    "And Mr. Levy has a question for Vice President Nixon."
+   ]
+  },
+  {
+   "begin": "3266.880",
+   "children": [],
+   "end": "3273.200",
+   "id": "f000489",
+   "language": null,
+   "lines": [
+    "Mr. Vice President, you are urging voters to forget party labels and vote for the man."
+   ]
+  },
+  {
+   "begin": "3273.200",
+   "children": [],
+   "end": "3274.080",
+   "id": "n000228",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3274.080",
+   "children": [],
+   "end": "3285.320",
+   "id": "f000490",
+   "language": null,
+   "lines": [
+    "Senator Kennedy says that in doing this you are trying to run away from your party on such issues as housing and aid to education by advocating what he calls a me-too program."
+   ]
+  },
+  {
+   "begin": "3285.320",
+   "children": [],
+   "end": "3286.040",
+   "id": "n000229",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3286.040",
+   "children": [],
+   "end": "3290.280",
+   "id": "f000491",
+   "language": null,
+   "lines": [
+    "Why do you say that party labels are not important?"
+   ]
+  },
+  {
+   "begin": "3290.280",
+   "children": [],
+   "end": "3294.980",
+   "id": "f000492",
+   "language": null,
+   "lines": [
+    "Because that's the way we elect a president in this country, and it's the way we should."
+   ]
+  },
+  {
+   "begin": "3294.980",
+   "children": [],
+   "end": "3301.920",
+   "id": "f000493",
+   "language": null,
+   "lines": [
+    "I'm a student of history as is Senator Kennedy, incidentally; and I have found that in the history of this country we've had many great presidents."
+   ]
+  },
+  {
+   "begin": "3301.920",
+   "children": [],
+   "end": "3303.400",
+   "id": "n000230",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3303.400",
+   "children": [],
+   "end": "3306.200",
+   "id": "f000494",
+   "language": null,
+   "lines": [
+    "Some of them have been Democrats and some of them have been Republicans."
+   ]
+  },
+  {
+   "begin": "3306.200",
+   "children": [],
+   "end": "3307.360",
+   "id": "n000231",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3307.360",
+   "children": [],
+   "end": "3314.600",
+   "id": "f000495",
+   "language": null,
+   "lines": [
+    "The people, some way, have always understood that at a particular time a certain man was the one the country needed."
+   ]
+  },
+  {
+   "begin": "3314.600",
+   "children": [],
+   "end": "3316.120",
+   "id": "n000232",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3316.120",
+   "children": [],
+   "end": "3330.380",
+   "id": "f000496",
+   "language": null,
+   "lines": [
+    "Now, I believe that in an election when we are trying to determine who should lead the free world - not just America - perhaps, as Senator Kennedy has already indicated, the most important election in our history - it isn't the label that he wears or that I wear that counts."
+   ]
+  },
+  {
+   "begin": "3330.380",
+   "children": [],
+   "end": "3331.680",
+   "id": "n000233",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3331.680",
+   "children": [],
+   "end": "3332.400",
+   "id": "f000497",
+   "language": null,
+   "lines": [
+    "It's what we are."
+   ]
+  },
+  {
+   "begin": "3332.400",
+   "children": [],
+   "end": "3333.080",
+   "id": "n000234",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3333.080",
+   "children": [],
+   "end": "3334.820",
+   "id": "f000498",
+   "language": null,
+   "lines": [
+    "It's our whole lives."
+   ]
+  },
+  {
+   "begin": "3334.820",
+   "children": [],
+   "end": "3336.060",
+   "id": "f000499",
+   "language": null,
+   "lines": [
+    "It's what we stand for."
+   ]
+  },
+  {
+   "begin": "3336.060",
+   "children": [],
+   "end": "3336.400",
+   "id": "f000500",
+   "language": null,
+   "lines": [
+    "It's what we believe."
+   ]
+  },
+  {
+   "begin": "3336.400",
+   "children": [],
+   "end": "3345.680",
+   "id": "f000501",
+   "language": null,
+   "lines": [
+    "And consequently, I don't think it's enough to go before Republican audiences - and I never do - and say, \"Look, vote for me because I'm a Republican.\""
+   ]
+  },
+  {
+   "begin": "3345.680",
+   "children": [],
+   "end": "3351.020",
+   "id": "f000502",
+   "language": null,
+   "lines": [
+    "I don't think it's enough for Senator Kennedy to go before the audiences on the Democratic side and say, \"Vote for me because I'm a Democrat.\""
+   ]
+  },
+  {
+   "begin": "3351.020",
+   "children": [],
+   "end": "3352.000",
+   "id": "n000235",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3352.000",
+   "children": [],
+   "end": "3352.560",
+   "id": "f000503",
+   "language": null,
+   "lines": [
+    "That isn't enough."
+   ]
+  },
+  {
+   "begin": "3352.560",
+   "children": [],
+   "end": "3353.280",
+   "id": "n000236",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3353.280",
+   "children": [],
+   "end": "3357.760",
+   "id": "f000504",
+   "language": null,
+   "lines": [
+    "What's involved here is the question of leadership for the whole free world."
+   ]
+  },
+  {
+   "begin": "3357.760",
+   "children": [],
+   "end": "3358.960",
+   "id": "n000237",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3358.960",
+   "children": [],
+   "end": "3360.960",
+   "id": "f000505",
+   "language": null,
+   "lines": [
+    "Now that means the best leadership."
+   ]
+  },
+  {
+   "begin": "3360.960",
+   "children": [],
+   "end": "3361.880",
+   "id": "n000238",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3361.880",
+   "children": [],
+   "end": "3365.380",
+   "id": "f000506",
+   "language": null,
+   "lines": [
+    "It may be Republican, it may be Democratic."
+   ]
+  },
+  {
+   "begin": "3365.380",
+   "children": [],
+   "end": "3367.800",
+   "id": "f000507",
+   "language": null,
+   "lines": [
+    "But the people are the ones that determine it."
+   ]
+  },
+  {
+   "begin": "3367.800",
+   "children": [],
+   "end": "3370.320",
+   "id": "f000508",
+   "language": null,
+   "lines": [
+    "The people have to make up their minds."
+   ]
+  },
+  {
+   "begin": "3370.320",
+   "children": [],
+   "end": "3379.180",
+   "id": "f000509",
+   "language": null,
+   "lines": [
+    "And I believe the people, therefore, should be asked to make up their minds not simply on the basis of, \"Vote the way your grandfather did; vote the way your mother did.\""
+   ]
+  },
+  {
+   "begin": "3379.180",
+   "children": [],
+   "end": "3381.060",
+   "id": "f000510",
+   "language": null,
+   "lines": [
+    "I think the people should put America first, rather than party first."
+   ]
+  },
+  {
+   "begin": "3381.060",
+   "children": [],
+   "end": "3392.440",
+   "id": "f000511",
+   "language": null,
+   "lines": [
+    "Now, as far as running away from my party is concerned, Senator Kennedy has said that we have no compassion for the poor, that we are against progress - the enemies of progress, is the term that he's used, and the like."
+   ]
+  },
+  {
+   "begin": "3392.440",
+   "children": [],
+   "end": "3393.080",
+   "id": "n000239",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3393.080",
+   "children": [],
+   "end": "3403.480",
+   "id": "f000512",
+   "language": null,
+   "lines": [
+    "All that I can say is this: we do have programs in all of these fields - education, housing, defense - that will move America forward."
+   ]
+  },
+  {
+   "begin": "3403.480",
+   "children": [],
+   "end": "3410.300",
+   "id": "f000513",
+   "language": null,
+   "lines": [
+    "They will move her forward faster, and they will move her more surely than in his program."
+   ]
+  },
+  {
+   "begin": "3410.300",
+   "children": [],
+   "end": "3410.580",
+   "id": "f000514",
+   "language": null,
+   "lines": [
+    "This is what I deeply believe."
+   ]
+  },
+  {
+   "begin": "3410.580",
+   "children": [],
+   "end": "3413.780",
+   "id": "f000515",
+   "language": null,
+   "lines": [
+    "I'm sure he believes just as deeply that his will move that way."
+   ]
+  },
+  {
+   "begin": "3413.780",
+   "children": [],
+   "end": "3419.480",
+   "id": "f000516",
+   "language": null,
+   "lines": [
+    "I suggest, however, that in the interest of fairness that he could give me the benefit of also believing as he believes."
+   ]
+  },
+  {
+   "begin": "3419.480",
+   "children": [],
+   "end": "3420.280",
+   "id": "n000240",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3420.280",
+   "children": [],
+   "end": "3422.200",
+   "id": "f000517",
+   "language": null,
+   "lines": [
+    "Senator Kennedy."
+   ]
+  },
+  {
+   "begin": "3422.200",
+   "children": [],
+   "end": "3422.920",
+   "id": "n000241",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3422.920",
+   "children": [],
+   "end": "3428.960",
+   "id": "f000518",
+   "language": null,
+   "lines": [
+    "Well, let me say I do think that parties are important in that they tell something about the program and something about the man."
+   ]
+  },
+  {
+   "begin": "3428.960",
+   "children": [],
+   "end": "3429.760",
+   "id": "n000242",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3429.760",
+   "children": [],
+   "end": "3436.620",
+   "id": "f000519",
+   "language": null,
+   "lines": [
+    "Abraham Lincoln was a great president of all the people; but he was selected by his party at a key time in history because his party stood for something."
+   ]
+  },
+  {
+   "begin": "3436.620",
+   "children": [],
+   "end": "3437.640",
+   "id": "n000243",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3437.640",
+   "children": [],
+   "end": "3439.720",
+   "id": "f000520",
+   "language": null,
+   "lines": [
+    "The Democratic party in this century has stood for something."
+   ]
+  },
+  {
+   "begin": "3439.720",
+   "children": [],
+   "end": "3440.280",
+   "id": "n000244",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3440.280",
+   "children": [],
+   "end": "3444.620",
+   "id": "f000521",
+   "language": null,
+   "lines": [
+    "It has stood for progress; it has stood for concern for the people's welfare."
+   ]
+  },
+  {
+   "begin": "3444.620",
+   "children": [],
+   "end": "3452.040",
+   "id": "f000522",
+   "language": null,
+   "lines": [
+    "It has stood for a strong foreign policy and a strong national defense, and as a result, produced Wilson, President Roosevelt, and President Truman."
+   ]
+  },
+  {
+   "begin": "3452.040",
+   "children": [],
+   "end": "3452.600",
+   "id": "n000245",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3452.600",
+   "children": [],
+   "end": "3456.780",
+   "id": "f000523",
+   "language": null,
+   "lines": [
+    "The Republican party has produced McKinley and Harding, Coolidge, Dewey, and Landon."
+   ]
+  },
+  {
+   "begin": "3456.780",
+   "children": [],
+   "end": "3457.400",
+   "id": "n000246",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3457.400",
+   "children": [],
+   "end": "3458.460",
+   "id": "f000524",
+   "language": null,
+   "lines": [
+    "They do stand for something."
+   ]
+  },
+  {
+   "begin": "3458.460",
+   "children": [],
+   "end": "3462.760",
+   "id": "f000525",
+   "language": null,
+   "lines": [
+    "They stand for a whole different approach to the problems facing this country at home and abroad."
+   ]
+  },
+  {
+   "begin": "3462.760",
+   "children": [],
+   "end": "3463.280",
+   "id": "n000247",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3463.280",
+   "children": [],
+   "end": "3467.020",
+   "id": "f000526",
+   "language": null,
+   "lines": [
+    "That's the importance of party; only if it tells something about the record."
+   ]
+  },
+  {
+   "begin": "3467.020",
+   "children": [],
+   "end": "3479.840",
+   "id": "f000527",
+   "language": null,
+   "lines": [
+    "And the Republicans in recent years - not only in the last twenty-five years, but in the last eight years - have opposed housing, opposed care for the aged, opposed federal aid to education, opposed minimum wage and I think that record tells something."
+   ]
+  },
+  {
+   "begin": "3479.840",
+   "children": [],
+   "end": "3534.867",
+   "id": "TAIL",
+   "language": null,
+   "lines": [
+    ""
+   ]
+  }
+ ]
+}

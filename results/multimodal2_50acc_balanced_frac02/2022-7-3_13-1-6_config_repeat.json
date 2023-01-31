@@ -1,0 +1,18 @@
+{
+    "batch_size": 16,
+    "conv1_filters": 4,
+    "conv1_kernel": 3,
+    "conv2_filters": 8,
+    "conv2_kernel": 7,
+    "dropout_audio": 0.6,
+    "dropout_final": 0,
+    "dropout_text": 0.5,
+    "hidden_activation": "relu",
+    "lr": 7.725425967024116e-05,
+    "nb_neurons_bisltm_audio": 32,
+    "nb_neurons_bisltm_text": 64,
+    "nb_neurons_dense": 16,
+    "pool1_size": 2,
+    "pool2_size": 2,
+    "trainable": true
+}

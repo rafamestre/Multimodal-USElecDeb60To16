@@ -1,0 +1,1 @@
+Due to copyright reasons, we cannot provide the videos directly, but we provide a script to download them automatically for personal used for the researcher (script name). Then, all the scripts to reproduce the results, from utterance splitting to audio feature extraction, are provided as well.

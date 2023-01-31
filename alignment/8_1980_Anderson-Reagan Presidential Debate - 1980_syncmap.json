@@ -1,0 +1,7080 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "6.000",
+   "id": "HEAD",
+   "language": null,
+   "lines": []
+  },
+  {
+   "begin": "6.000",
+   "children": [],
+   "end": "18.400",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "We're presenting these debates to provide citizens an opportunity to see and hear the candidates state their positions on important issues of concern to us all."
+   ]
+  },
+  {
+   "begin": "18.400",
+   "children": [],
+   "end": "21.800",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "Our moderator is Bill Moyers."
+   ]
+  },
+  {
+   "begin": "21.800",
+   "children": [],
+   "end": "23.800",
+   "id": "n000001",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "23.800",
+   "children": [],
+   "end": "24.800",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "Thank you, Mrs. Hinerfeld."
+   ]
+  },
+  {
+   "begin": "24.800",
+   "children": [],
+   "end": "25.760",
+   "id": "n000002",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "25.760",
+   "children": [],
+   "end": "44.260",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "My colleagues and I agreed to participate tonight, although the questioners are limited by the constraints of the format, because we thought with the League of Women Voters, that it is desirable to seek a comparison of views on a few issues in a joint appearance by the men who would be the next President of the United States."
+   ]
+  },
+  {
+   "begin": "44.260",
+   "children": [],
+   "end": "45.360",
+   "id": "n000003",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "45.360",
+   "children": [],
+   "end": "54.840",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "Former Governor Ronald Reagan, a Republican Party candidate, and Congressman John Anderson, who is running as an Independent, accepted the League of Women Voters' invitation to be here."
+   ]
+  },
+  {
+   "begin": "54.840",
+   "children": [],
+   "end": "55.640",
+   "id": "n000004",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "55.640",
+   "children": [],
+   "end": "57.080",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "President Carter declined."
+   ]
+  },
+  {
+   "begin": "57.080",
+   "children": [],
+   "end": "58.320",
+   "id": "n000005",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "58.320",
+   "children": [],
+   "end": "81.200",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "Mr. Reagan and Mr. Anderson will respond with their views on certain issues posed by questions from my colleagues: Carol Loomis of Fortune Magazine; Daniel Greenberg, a syndicated columnist; Charles Corddry of the Baltimore Sun; Lee May of The Los Angeles Times; James Bryant Quinn."
+   ]
+  },
+  {
+   "begin": "81.200",
+   "children": [],
+   "end": "85.240",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "Jane Bryant Quinn of Newsweek; and Soma Golden of The New York Times."
+   ]
+  },
+  {
+   "begin": "85.240",
+   "children": [],
+   "end": "86.480",
+   "id": "n000006",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "86.480",
+   "children": [],
+   "end": "93.980",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "None of the questions has been submitted in advance to either the League of Women Voters, or to the candidates, or to their representatives."
+   ]
+  },
+  {
+   "begin": "93.980",
+   "children": [],
+   "end": "95.200",
+   "id": "n000007",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "95.200",
+   "children": [],
+   "end": "97.640",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "Gentlemen, thank you both for coming."
+   ]
+  },
+  {
+   "begin": "97.640",
+   "children": [],
+   "end": "98.480",
+   "id": "n000008",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "98.480",
+   "children": [],
+   "end": "101.400",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "The ground rules you agreed upon with the League are brief."
+   ]
+  },
+  {
+   "begin": "101.400",
+   "children": [],
+   "end": "102.200",
+   "id": "n000009",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "102.200",
+   "children": [],
+   "end": "104.540",
+   "id": "f000012",
+   "language": "en",
+   "lines": [
+    "Each panelist will ask a single question."
+   ]
+  },
+  {
+   "begin": "104.540",
+   "children": [],
+   "end": "105.560",
+   "id": "n000010",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "105.560",
+   "children": [],
+   "end": "108.320",
+   "id": "f000013",
+   "language": "en",
+   "lines": [
+    "You will have two and a half minutes in which to respond."
+   ]
+  },
+  {
+   "begin": "108.320",
+   "children": [],
+   "end": "109.120",
+   "id": "n000011",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "109.120",
+   "children": [],
+   "end": "116.160",
+   "id": "f000014",
+   "language": "en",
+   "lines": [
+    "After you've stated your positions in those two and a half minutes, each of you will have one minute and 15 seconds for response."
+   ]
+  },
+  {
+   "begin": "116.160",
+   "children": [],
+   "end": "117.000",
+   "id": "n000012",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "117.000",
+   "children": [],
+   "end": "121.040",
+   "id": "f000015",
+   "language": "en",
+   "lines": [
+    "At the close of the debate, each of you will have three minutes for closing remarks."
+   ]
+  },
+  {
+   "begin": "121.040",
+   "children": [],
+   "end": "122.080",
+   "id": "n000013",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "122.080",
+   "children": [],
+   "end": "132.880",
+   "id": "f000016",
+   "language": "en",
+   "lines": [
+    "We ask the Convention Center audience to abide by one simple ground rule: Please do not applaud or express approval or disapproval during the debate."
+   ]
+  },
+  {
+   "begin": "132.880",
+   "children": [],
+   "end": "133.440",
+   "id": "n000014",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "133.440",
+   "children": [],
+   "end": "135.040",
+   "id": "f000017",
+   "language": "en",
+   "lines": [
+    "You may do that on November 4."
+   ]
+  },
+  {
+   "begin": "135.040",
+   "children": [],
+   "end": "136.320",
+   "id": "n000015",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "136.320",
+   "children": [],
+   "end": "142.200",
+   "id": "f000018",
+   "language": "en",
+   "lines": [
+    "Having won the toss of the coin, Mr. Anderson will respond to the first question from Carol Loomis."
+   ]
+  },
+  {
+   "begin": "142.200",
+   "children": [],
+   "end": "143.480",
+   "id": "n000016",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "143.480",
+   "children": [],
+   "end": "157.760",
+   "id": "f000019",
+   "language": "en",
+   "lines": [
+    "Mr. Anderson, opinion polls show that the American public sees inflation as the country's number one economic problem, yet, as individuals, they oppose cures that hurt them personally."
+   ]
+  },
+  {
+   "begin": "157.760",
+   "children": [],
+   "end": "159.040",
+   "id": "n000017",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "159.040",
+   "children": [],
+   "end": "175.080",
+   "id": "f000020",
+   "language": "en",
+   "lines": [
+    "Elected officials have played along by promising to cure inflation while backing away from tough programs that might hurt one special interest group or another, and by actually adding inflationary elements to the system, such as indexing."
+   ]
+  },
+  {
+   "begin": "175.080",
+   "children": [],
+   "end": "176.600",
+   "id": "n000018",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "176.600",
+   "children": [],
+   "end": "183.040",
+   "id": "f000021",
+   "language": "en",
+   "lines": [
+    "They have gone for what is politically popular, rather than for what might work and amount to leadership."
+   ]
+  },
+  {
+   "begin": "183.040",
+   "children": [],
+   "end": "184.320",
+   "id": "n000019",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "184.320",
+   "children": [],
+   "end": "200.080",
+   "id": "f000022",
+   "language": "en",
+   "lines": [
+    "My question, and please be specific, is what politically unpopular measures are you willing to endorse, push and stay with, that might provide real progress in reducing inflation?"
+   ]
+  },
+  {
+   "begin": "200.080",
+   "children": [],
+   "end": "201.360",
+   "id": "n000020",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "201.360",
+   "children": [],
+   "end": "219.200",
+   "id": "f000023",
+   "language": "en",
+   "lines": [
+    "Miss Loomis, I think it's very appropriate that the first question in this first debate of Campaign '80 should relate to the economy of the country, because it seems to me that the people who are watching us tonight - 221 million Americans - are truly concerned about the poor rate of performance of the American economy over the last four years."
+   ]
+  },
+  {
+   "begin": "219.200",
+   "children": [],
+   "end": "219.880",
+   "id": "n000021",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "219.880",
+   "children": [],
+   "end": "224.840",
+   "id": "f000024",
+   "language": "en",
+   "lines": [
+    "Governor Reagan is not responsible for what has happened over the last four years, nor am I."
+   ]
+  },
+  {
+   "begin": "224.840",
+   "children": [],
+   "end": "225.400",
+   "id": "n000022",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "225.400",
+   "children": [],
+   "end": "229.600",
+   "id": "f000025",
+   "language": "en",
+   "lines": [
+    "The man who should be here tonight to respond to those charges chose not to attend."
+   ]
+  },
+  {
+   "begin": "229.600",
+   "children": [],
+   "end": "230.320",
+   "id": "n000023",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "230.320",
+   "children": [],
+   "end": "234.240",
+   "id": "f000026",
+   "language": "en",
+   "lines": [
+    "But I want to answer as specifically as I can the question that you have just put to me."
+   ]
+  },
+  {
+   "begin": "234.240",
+   "children": [],
+   "end": "235.000",
+   "id": "n000024",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "235.000",
+   "children": [],
+   "end": "256.080",
+   "id": "f000027",
+   "language": "en",
+   "lines": [
+    "Let me tell you that I, first of all, oppose an election year tax cut, whether it is the 10% across-the-board tax cut promised to the taxpayers by my opponent in this debate tonight, or whether it is the $27.5 billion tax cut promised on the 20th of August by President Carter."
+   ]
+  },
+  {
+   "begin": "256.080",
+   "children": [],
+   "end": "256.560",
+   "id": "n000025",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "256.560",
+   "children": [],
+   "end": "274.320",
+   "id": "f000028",
+   "language": "en",
+   "lines": [
+    "I simply think that when we are confronting a budget deficit this year - and this fiscal year will end in about 10 days, and we are confronted with the possibility of a deficit of $60 billion, perhaps as much as $63 billion - that that simply would be irresponsible."
+   ]
+  },
+  {
+   "begin": "274.320",
+   "children": [],
+   "end": "282.920",
+   "id": "f000029",
+   "language": "en",
+   "lines": [
+    "That, once again, the printing presses will start to roll; once again we will see the monetization of that debt result in a higher rate of inflation."
+   ]
+  },
+  {
+   "begin": "282.920",
+   "children": [],
+   "end": "283.960",
+   "id": "n000026",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "283.960",
+   "children": [],
+   "end": "302.360",
+   "id": "f000030",
+   "language": "en",
+   "lines": [
+    "Even though we've seen some hopeful signs, perhaps, in the flash report on the third quarter, that perhaps the economy is coming out of the recession, we've also seen the rise in the rate of the prime; we have seen mortgage rates back up again, a sure sign of inflation in the housing industry."
+   ]
+  },
+  {
+   "begin": "302.360",
+   "children": [],
+   "end": "302.880",
+   "id": "n000027",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "302.880",
+   "children": [],
+   "end": "314.940",
+   "id": "f000031",
+   "language": "en",
+   "lines": [
+    "What I would propose, and I proposed it way back in March when I was a candidate in my own state of Illinois, I proposed $11.3 billion, specifically, in cuts in the Federal budget."
+   ]
+  },
+  {
+   "begin": "314.940",
+   "children": [],
+   "end": "317.320",
+   "id": "f000032",
+   "language": "en",
+   "lines": [
+    "I think we've got to have fiscal restraint."
+   ]
+  },
+  {
+   "begin": "317.320",
+   "children": [],
+   "end": "317.920",
+   "id": "n000028",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "317.920",
+   "children": [],
+   "end": "341.000",
+   "id": "f000033",
+   "language": "en",
+   "lines": [
+    "And I said at that time that one of the things that we could do, that perhaps would save as much as $5 billion to $7 billion, according, to one of the leading members of the House Budget Committee, was to recalculate the index that is used to determine the cost of living benefits that are paid to civil service retirees, to military retirees."
+   ]
+  },
+  {
+   "begin": "341.000",
+   "children": [],
+   "end": "341.480",
+   "id": "n000029",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "341.480",
+   "children": [],
+   "end": "349.980",
+   "id": "f000034",
+   "language": "en",
+   "lines": [
+    "That we ought to ... in addition to that, we ought to pay those retirement benefits on the basis of once a year, rather than twice a year, and save $750 billion."
+   ]
+  },
+  {
+   "begin": "349.980",
+   "children": [],
+   "end": "351.200",
+   "id": "f000035",
+   "language": "en",
+   "lines": [
+    "In other words...."
+   ]
+  },
+  {
+   "begin": "351.200",
+   "children": [],
+   "end": "351.440",
+   "id": "f000036",
+   "language": "en",
+   "lines": [
+    "Mr. Anderson."
+   ]
+  },
+  {
+   "begin": "351.440",
+   "children": [],
+   "end": "352.720",
+   "id": "f000037",
+   "language": "en",
+   "lines": [
+    "fiscal restraint, I think is necessary."
+   ]
+  },
+  {
+   "begin": "352.720",
+   "children": [],
+   "end": "353.080",
+   "id": "f000038",
+   "language": "en",
+   "lines": [
+    "your time is up."
+   ]
+  },
+  {
+   "begin": "353.080",
+   "children": [],
+   "end": "354.040",
+   "id": "f000039",
+   "language": "en",
+   "lines": [
+    "Ms. Loomis?"
+   ]
+  },
+  {
+   "begin": "354.040",
+   "children": [],
+   "end": "365.280",
+   "id": "f000040",
+   "language": "en",
+   "lines": [
+    "Governor Reagan, repeating the question, and I would ask you, again, to engage in as many specifics as you possibly can."
+   ]
+  },
+  {
+   "begin": "365.280",
+   "children": [],
+   "end": "373.820",
+   "id": "f000041",
+   "language": "en",
+   "lines": [
+    "What politically unpopular measures are you willing to endorse, push and stay with that might provide real progress in reducing inflation?"
+   ]
+  },
+  {
+   "begin": "373.820",
+   "children": [],
+   "end": "384.620",
+   "id": "f000042",
+   "language": "en",
+   "lines": [
+    "I believe that the only unpopular measures, actually, that could be, or would be applied, would be unpopular with the government, and with those."
+   ]
+  },
+  {
+   "begin": "384.620",
+   "children": [],
+   "end": "389.280",
+   "id": "f000043",
+   "language": "en",
+   "lines": [
+    "perhaps, some special interest groups who are tied closely to government."
+   ]
+  },
+  {
+   "begin": "389.280",
+   "children": [],
+   "end": "411.980",
+   "id": "f000044",
+   "language": "en",
+   "lines": [
+    "I believe that inflation today is caused by government simply spending more than government takes in, at the same time that government has imposed upon business and industry, from the shopkeeper on the corner to the biggest industrial plant in America, countless harassing regulations and punitive taxes that have reduced productivity at the same time they have increased the cost of production."
+   ]
+  },
+  {
+   "begin": "411.980",
+   "children": [],
+   "end": "420.120",
+   "id": "f000045",
+   "language": "en",
+   "lines": [
+    "And when you are reducing productivity at the same time that you are turning out printing-press money in excessive amounts, you're causing inflation."
+   ]
+  },
+  {
+   "begin": "420.120",
+   "children": [],
+   "end": "420.800",
+   "id": "n000030",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "420.800",
+   "children": [],
+   "end": "425.640",
+   "id": "f000046",
+   "language": "en",
+   "lines": [
+    "And it isn't really higher prices, it's just, you are reducing the value of the money."
+   ]
+  },
+  {
+   "begin": "425.640",
+   "children": [],
+   "end": "426.280",
+   "id": "n000031",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "426.280",
+   "children": [],
+   "end": "429.200",
+   "id": "f000047",
+   "language": "en",
+   "lines": [
+    "You are robbing the American people of their savings."
+   ]
+  },
+  {
+   "begin": "429.200",
+   "children": [],
+   "end": "469.800",
+   "id": "f000048",
+   "language": "en",
+   "lines": [
+    "And so, the plan that I have proposed - and contrary to what John says, my plan is for a phased-in tax cut over a three-year period, tax increase and depreciation allowances for business and industry to give them the capital to refurbish plant and equipment, research and development, improved technology - all of which we see our foreign competitors having, and we have the greatest percentage of outmoded industrial plant and equipment of any of the industrial nations - produce more, have stable money supply, and give the people of this country a greater share of their own savings."
+   ]
+  },
+  {
+   "begin": "469.800",
+   "children": [],
+   "end": "470.960",
+   "id": "n000032",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "470.960",
+   "children": [],
+   "end": "478.220",
+   "id": "f000049",
+   "language": "en",
+   "lines": [
+    "Now, I know that this has been called inflationary by my opponent and by the man who isn't here tonight."
+   ]
+  },
+  {
+   "begin": "478.220",
+   "children": [],
+   "end": "491.960",
+   "id": "f000050",
+   "language": "en",
+   "lines": [
+    "But I don't see where it is inflationary to have people keep more of their earnings and spend it, and it isn't inflationary for government to take that money away from them and spend it on the things it wants to spend it on."
+   ]
+  },
+  {
+   "begin": "491.960",
+   "children": [],
+   "end": "505.260",
+   "id": "f000051",
+   "language": "en",
+   "lines": [
+    "I believe we need incentive for the individual, and for business and industry, and I believe the plan that I have submitted, with detailed backing, and which has been approved by a number of our leading economists in the country, is based on projections."
+   ]
+  },
+  {
+   "begin": "505.260",
+   "children": [],
+   "end": "514.020",
+   "id": "f000052",
+   "language": "en",
+   "lines": [
+    "conservative projections out for the next five years, that indicates that this plan would, by 1983, result in a balanced budget."
+   ]
+  },
+  {
+   "begin": "514.020",
+   "children": [],
+   "end": "514.880",
+   "id": "n000033",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "514.880",
+   "children": [],
+   "end": "526.640",
+   "id": "f000053",
+   "language": "en",
+   "lines": [
+    "We have to remember, when we talk a tax cut, we're only talking about reducing a tax increase, because this Administration has left us with a built-in tax increase that will amount to $86 billion next year."
+   ]
+  },
+  {
+   "begin": "526.640",
+   "children": [],
+   "end": "527.080",
+   "id": "f000054",
+   "language": "en",
+   "lines": [
+    "Your time is up."
+   ]
+  },
+  {
+   "begin": "527.080",
+   "children": [],
+   "end": "529.400",
+   "id": "f000055",
+   "language": "en",
+   "lines": [
+    "...and $500 billion over the next five."
+   ]
+  },
+  {
+   "begin": "529.400",
+   "children": [],
+   "end": "530.420",
+   "id": "f000056",
+   "language": "en",
+   "lines": [
+    "Mr. Anderson?"
+   ]
+  },
+  {
+   "begin": "530.420",
+   "children": [],
+   "end": "547.120",
+   "id": "f000057",
+   "language": "en",
+   "lines": [
+    "Mr. Movers, in addition to saying that this is no time for a tax cut, in view of the incipient signs of renewed inflation, in addition to calling for restraint in Federal spending, 15 months ago, I also suggested we ought to have an emergency excise tax on gasoline."
+   ]
+  },
+  {
+   "begin": "547.120",
+   "children": [],
+   "end": "547.760",
+   "id": "n000034",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "547.760",
+   "children": [],
+   "end": "555.180",
+   "id": "f000058",
+   "language": "en",
+   "lines": [
+    "I say that because I think, this year, we will send $90 billion out of this country to pay for imported oil, even though that."
+   ]
+  },
+  {
+   "begin": "555.180",
+   "children": [],
+   "end": "556.580",
+   "id": "f000059",
+   "language": "en",
+   "lines": [
+    "those imports have been reduced."
+   ]
+  },
+  {
+   "begin": "556.580",
+   "children": [],
+   "end": "557.240",
+   "id": "n000035",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "557.240",
+   "children": [],
+   "end": "565.440",
+   "id": "f000060",
+   "language": "en",
+   "lines": [
+    "And since I first made that proposal 15 months ago, the price of gasoline, which was then $.80, has gone up to about $1.30."
+   ]
+  },
+  {
+   "begin": "565.440",
+   "children": [],
+   "end": "565.920",
+   "id": "n000036",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "565.920",
+   "children": [],
+   "end": "577.160",
+   "id": "f000061",
+   "language": "en",
+   "lines": [
+    "In other words, we've had a huge increase of about $.50 a gallon since that time, and all of that increase has gone out of this country - or much of it - into the pockets of OPEC oil producers."
+   ]
+  },
+  {
+   "begin": "577.160",
+   "children": [],
+   "end": "577.680",
+   "id": "n000037",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "577.680",
+   "children": [],
+   "end": "579.520",
+   "id": "f000062",
+   "language": "en",
+   "lines": [
+    "Whereas I have proposed we ought to take."
+   ]
+  },
+  {
+   "begin": "579.520",
+   "children": [],
+   "end": "580.080",
+   "id": "n000038",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "580.080",
+   "children": [],
+   "end": "584.720",
+   "id": "f000063",
+   "language": "en",
+   "lines": [
+    "put that tax on here at home, reduce our consumption of that imported oil."
+   ]
+  },
+  {
+   "begin": "584.720",
+   "children": [],
+   "end": "590.780",
+   "id": "f000064",
+   "language": "en",
+   "lines": [
+    "Recycle those proceeds, then, back into the pockets of the American workers by reducing their tax payments."
+   ]
+  },
+  {
+   "begin": "590.780",
+   "children": [],
+   "end": "591.200",
+   "id": "n000039",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "591.200",
+   "children": [],
+   "end": "593.600",
+   "id": "f000065",
+   "language": "en",
+   "lines": [
+    "their Social Security tax payments by 50%."
+   ]
+  },
+  {
+   "begin": "593.600",
+   "children": [],
+   "end": "600.920",
+   "id": "f000066",
+   "language": "en",
+   "lines": [
+    "That, I think, in addition, would be an anti-inflationary measure that would strengthen the economy of this country."
+   ]
+  },
+  {
+   "begin": "600.920",
+   "children": [],
+   "end": "602.000",
+   "id": "n000040",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "602.000",
+   "children": [],
+   "end": "602.340",
+   "id": "f000067",
+   "language": "en",
+   "lines": [
+    "Mr. Reagan."
+   ]
+  },
+  {
+   "begin": "602.340",
+   "children": [],
+   "end": "608.700",
+   "id": "f000068",
+   "language": "en",
+   "lines": [
+    "Well, I cannot see where a $.50 a gallon tax applied to gasoline would have changed the price of gasoline."
+   ]
+  },
+  {
+   "begin": "608.700",
+   "children": [],
+   "end": "612.320",
+   "id": "f000069",
+   "language": "en",
+   "lines": [
+    "It would still have gone up as much as it has, and the $.50 would be added on top of that."
+   ]
+  },
+  {
+   "begin": "612.320",
+   "children": [],
+   "end": "618.760",
+   "id": "f000070",
+   "language": "en",
+   "lines": [
+    "And it would be a tax paid by the consumers, and then we're asked to believe that some way, they would get this back to the consumers."
+   ]
+  },
+  {
+   "begin": "618.760",
+   "children": [],
+   "end": "619.560",
+   "id": "n000041",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "619.560",
+   "children": [],
+   "end": "620.080",
+   "id": "f000071",
+   "language": "en",
+   "lines": [
+    "But why?"
+   ]
+  },
+  {
+   "begin": "620.080",
+   "children": [],
+   "end": "620.640",
+   "id": "n000042",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "620.640",
+   "children": [],
+   "end": "623.040",
+   "id": "f000072",
+   "language": "en",
+   "lines": [
+    "Why take it in the first place if you're going to give it back?"
+   ]
+  },
+  {
+   "begin": "623.040",
+   "children": [],
+   "end": "623.360",
+   "id": "n000043",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "623.360",
+   "children": [],
+   "end": "625.280",
+   "id": "f000073",
+   "language": "en",
+   "lines": [
+    "Why not leave it with them?"
+   ]
+  },
+  {
+   "begin": "625.280",
+   "children": [],
+   "end": "629.280",
+   "id": "f000074",
+   "language": "en",
+   "lines": [
+    "And John spoke about 15 years ago, on the position that he."
+   ]
+  },
+  {
+   "begin": "629.280",
+   "children": [],
+   "end": "629.600",
+   "id": "n000044",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "629.600",
+   "children": [],
+   "end": "632.220",
+   "id": "f000075",
+   "language": "en",
+   "lines": [
+    "or 15 months ago, on what he believed in."
+   ]
+  },
+  {
+   "begin": "632.220",
+   "children": [],
+   "end": "647.500",
+   "id": "f000076",
+   "language": "en",
+   "lines": [
+    "Fifteen months ago, he was a cosigner and advocating the very tax cut that I am proposing, and said that that would be a forward step in fighting inflation, and that it would be beneficial to the working people of this country."
+   ]
+  },
+  {
+   "begin": "647.500",
+   "children": [],
+   "end": "652.420",
+   "id": "f000077",
+   "language": "en",
+   "lines": [
+    "The next question goes to Mr. Reagan from Daniel Greenberg."
+   ]
+  },
+  {
+   "begin": "652.420",
+   "children": [],
+   "end": "662.560",
+   "id": "f000078",
+   "language": "en",
+   "lines": [
+    "Well, gentlemen, what I'd like to say first is, I think the panel and the audience would appreciate responsiveness to the questions, rather than repetitions of your campaign addresses."
+   ]
+  },
+  {
+   "begin": "662.560",
+   "children": [],
+   "end": "680.800",
+   "id": "f000079",
+   "language": "en",
+   "lines": [
+    "My question for the Governor is: Every serious examination of the future supply of energy and other essential resources - including air, land and water - finds that we face shortages and skyrocketing prices, and that, in many ways, we're pushing the environment to dangerous limits."
+   ]
+  },
+  {
+   "begin": "680.800",
+   "children": [],
+   "end": "681.960",
+   "id": "n000045",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "681.960",
+   "children": [],
+   "end": "698.360",
+   "id": "f000080",
+   "language": "en",
+   "lines": [
+    "I'd like to know, specifically, what changes you would encourage and require in American lifestyles in automobile use, housing, land use and general consumption, to meet problems that aren't going to respond to campaign lullabies about minor conservation efforts and more production?"
+   ]
+  },
+  {
+   "begin": "698.360",
+   "children": [],
+   "end": "700.880",
+   "id": "n000046",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "700.880",
+   "children": [],
+   "end": "705.360",
+   "id": "f000081",
+   "language": "en",
+   "lines": [
+    "Well, I believe that conservation, at course, is worthy in and of itself."
+   ]
+  },
+  {
+   "begin": "705.360",
+   "children": [],
+   "end": "706.000",
+   "id": "n000047",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "706.000",
+   "children": [],
+   "end": "711.920",
+   "id": "f000082",
+   "language": "en",
+   "lines": [
+    "Anything that would preserve, or help us use less energy, that would be fine, and I'm for it."
+   ]
+  },
+  {
+   "begin": "711.920",
+   "children": [],
+   "end": "712.560",
+   "id": "n000048",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "712.560",
+   "children": [],
+   "end": "724.960",
+   "id": "f000083",
+   "language": "en",
+   "lines": [
+    "But I do not believe that conservation alone is the answer to the present energy problem, because all you're doing then is staving off, by a short time, the day when you would come to the end of the energy supply."
+   ]
+  },
+  {
+   "begin": "724.960",
+   "children": [],
+   "end": "725.920",
+   "id": "n000049",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "725.920",
+   "children": [],
+   "end": "733.740",
+   "id": "f000084",
+   "language": "en",
+   "lines": [
+    "To say that we are limited, and at a dangerous point in this country with regard to energy, I think, is to ignore the fact."
+   ]
+  },
+  {
+   "begin": "733.740",
+   "children": [],
+   "end": "741.080",
+   "id": "f000085",
+   "language": "en",
+   "lines": [
+    "The fact is, that in today's oil wells, there is more oil still there than we have so far taken out and used."
+   ]
+  },
+  {
+   "begin": "741.080",
+   "children": [],
+   "end": "741.760",
+   "id": "n000050",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "741.760",
+   "children": [],
+   "end": "747.200",
+   "id": "f000086",
+   "language": "en",
+   "lines": [
+    "But it would require what is known as secondary or tertiary efforts to bring it out of the ground."
+   ]
+  },
+  {
+   "begin": "747.200",
+   "children": [],
+   "end": "749.720",
+   "id": "f000087",
+   "language": "en",
+   "lines": [
+    "And this is known oil reserves, known supplies."
+   ]
+  },
+  {
+   "begin": "749.720",
+   "children": [],
+   "end": "750.960",
+   "id": "n000051",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "750.960",
+   "children": [],
+   "end": "768.280",
+   "id": "f000088",
+   "language": "en",
+   "lines": [
+    "There are hundreds of millions of acres of land that have been taken out of circulation by the Government for whatever reason they have, that is believed by the most knowledgeable oil geologists to contain probably more oil and natural gas than we have used so far since we drilled that first well 121 years ago."
+   ]
+  },
+  {
+   "begin": "768.280",
+   "children": [],
+   "end": "769.080",
+   "id": "n000052",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "769.080",
+   "children": [],
+   "end": "776.940",
+   "id": "f000089",
+   "language": "en",
+   "lines": [
+    "We have a coal supply that is equal to 50% of the world's coal supply, good for centuries, in this country."
+   ]
+  },
+  {
+   "begin": "776.940",
+   "children": [],
+   "end": "784.260",
+   "id": "f000090",
+   "language": "en",
+   "lines": [
+    "I grant you that prices may go up, because as you go further and have to go deeper, you are adding to the cost of production."
+   ]
+  },
+  {
+   "begin": "784.260",
+   "children": [],
+   "end": "787.000",
+   "id": "f000091",
+   "language": "en",
+   "lines": [
+    "We have nuclear power, which, I believe, with the safest."
+   ]
+  },
+  {
+   "begin": "787.000",
+   "children": [],
+   "end": "804.160",
+   "id": "f000092",
+   "language": "en",
+   "lines": [
+    "the most stringent of safety requirements, could meet our energy needs for the next couple of decades while we go forward exploring the areas of solar power and other forms of energy that might be renewable and that would not be exhaustible."
+   ]
+  },
+  {
+   "begin": "804.160",
+   "children": [],
+   "end": "805.240",
+   "id": "n000053",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "805.240",
+   "children": [],
+   "end": "806.800",
+   "id": "f000093",
+   "language": "en",
+   "lines": [
+    "All of these things can be done."
+   ]
+  },
+  {
+   "begin": "806.800",
+   "children": [],
+   "end": "810.480",
+   "id": "f000094",
+   "language": "en",
+   "lines": [
+    "When you stop and think that we are only drilling on 2%."
+   ]
+  },
+  {
+   "begin": "810.480",
+   "children": [],
+   "end": "814.880",
+   "id": "f000095",
+   "language": "en",
+   "lines": [
+    "have leased only 2% of the possible."
+   ]
+  },
+  {
+   "begin": "814.880",
+   "children": [],
+   "end": "837.780",
+   "id": "f000096",
+   "language": "en",
+   "lines": [
+    "possibility for oil of the continental shelf around the United States; when you stop to think that the government has taken over 100 million acres of land out of circulation in Alaska, alone, that is believed by geologists to contain much in the line of minerals and energy sources, then I think it is the Government, and the Government with its own restrictions and regulations, that is creating the energy crisis."
+   ]
+  },
+  {
+   "begin": "837.780",
+   "children": [],
+   "end": "838.440",
+   "id": "n000054",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "838.440",
+   "children": [],
+   "end": "840.400",
+   "id": "f000097",
+   "language": "en",
+   "lines": [
+    "That we are, indeed, an energy-rich nation."
+   ]
+  },
+  {
+   "begin": "840.400",
+   "children": [],
+   "end": "841.920",
+   "id": "n000055",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "841.920",
+   "children": [],
+   "end": "851.560",
+   "id": "f000098",
+   "language": "en",
+   "lines": [
+    "I would like to say at this point that the candidates requested the same questions to be repeated, for the sake of precision, on the part of the interrogator."
+   ]
+  },
+  {
+   "begin": "851.560",
+   "children": [],
+   "end": "852.040",
+   "id": "n000056",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "852.040",
+   "children": [],
+   "end": "855.200",
+   "id": "f000099",
+   "language": "en",
+   "lines": [
+    "So, Mr. Greenberg, you may address Mr. Anderson."
+   ]
+  },
+  {
+   "begin": "855.200",
+   "children": [],
+   "end": "871.680",
+   "id": "f000100",
+   "language": "en",
+   "lines": [
+    "Mr. Anderson, I'd like to know specifically, what changes you would encourage and require in American lifestyles in automobile use, housing, land use and consumption, to meet problems that aren't going to respond to campaign lullabies about minor conservation efforts and more production?"
+   ]
+  },
+  {
+   "begin": "871.680",
+   "children": [],
+   "end": "893.400",
+   "id": "f000101",
+   "language": "en",
+   "lines": [
+    "Well, Mr. Greenberg, I simply cannot allow to go unpassed the statements that have just been made by Mr. Reagan, who once again, has demonstrated, I think, a total misunderstanding of the energy crisis that confronts, not only this country, but the world, when he suggests that we have 27 years' supply of natural gas, 47 years' supply of oil, and all the rest, and that we really."
+   ]
+  },
+  {
+   "begin": "893.400",
+   "children": [],
+   "end": "898.240",
+   "id": "f000102",
+   "language": "en",
+   "lines": [
+    "all we have to do is to get the Government off the back of the oil industry, and that's going to be enough."
+   ]
+  },
+  {
+   "begin": "898.240",
+   "children": [],
+   "end": "898.640",
+   "id": "n000057",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "898.640",
+   "children": [],
+   "end": "909.920",
+   "id": "f000103",
+   "language": "en",
+   "lines": [
+    "I agree with what I think is the major premise of your question, sir, that we are going to have to create a new conservation ethic in the minds of the American people."
+   ]
+  },
+  {
+   "begin": "909.920",
+   "children": [],
+   "end": "910.400",
+   "id": "n000058",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "910.400",
+   "children": [],
+   "end": "917.080",
+   "id": "f000104",
+   "language": "en",
+   "lines": [
+    "and that's simply why I proposed, 15 months ago, the emergency excise tax on gasoline that I did."
+   ]
+  },
+  {
+   "begin": "917.080",
+   "children": [],
+   "end": "917.560",
+   "id": "n000059",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "917.560",
+   "children": [],
+   "end": "926.620",
+   "id": "f000105",
+   "language": "en",
+   "lines": [
+    "I did it as a security measure to be sure, because I would rather see us reduce the consumption of imported oil than have to send American boys to fight in the Persian Gulf."
+   ]
+  },
+  {
+   "begin": "926.620",
+   "children": [],
+   "end": "937.300",
+   "id": "f000106",
+   "language": "en",
+   "lines": [
+    "But at the same time, I think it's going to take a dramatic measure of that kind to convince the American people that we will have to reduce the use of the private automobile."
+   ]
+  },
+  {
+   "begin": "937.300",
+   "children": [],
+   "end": "945.840",
+   "id": "f000107",
+   "language": "en",
+   "lines": [
+    "We simply cannot have people sitting one behind the wheel of a car in these long traffic jams going in and out of our great cities."
+   ]
+  },
+  {
+   "begin": "945.840",
+   "children": [],
+   "end": "946.760",
+   "id": "n000060",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "946.760",
+   "children": [],
+   "end": "951.280",
+   "id": "f000108",
+   "language": "en",
+   "lines": [
+    "We are going to have to resort to van pooling, to car pooling."
+   ]
+  },
+  {
+   "begin": "951.280",
+   "children": [],
+   "end": "951.640",
+   "id": "n000061",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "951.640",
+   "children": [],
+   "end": "963.840",
+   "id": "f000109",
+   "language": "en",
+   "lines": [
+    "We're going to have to develop better community transportation systems, so that with buses and light rail, we can replace the private automobile in those places where it clearly is not energy-efficient."
+   ]
+  },
+  {
+   "begin": "963.840",
+   "children": [],
+   "end": "964.440",
+   "id": "n000062",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "964.440",
+   "children": [],
+   "end": "982.060",
+   "id": "f000110",
+   "language": "en",
+   "lines": [
+    "I think that, with respect to housing, when we are consuming, even though our per capita income today is about the same as that of the Federal Republic of Germany, we are consuming about, by a factor of two, the amount of energy that they consume in that country."
+   ]
+  },
+  {
+   "begin": "982.060",
+   "children": [],
+   "end": "982.520",
+   "id": "n000063",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "982.520",
+   "children": [],
+   "end": "994.640",
+   "id": "f000111",
+   "language": "en",
+   "lines": [
+    "Surely, there are things that we can do in the retrofitting, ;n the redesign of our homes, not only of our houses, but of our commercial structures, as well, that will make it possible for us to achieve."
+   ]
+  },
+  {
+   "begin": "994.640",
+   "children": [],
+   "end": "995.120",
+   "id": "n000064",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "995.120",
+   "children": [],
+   "end": "1011.160",
+   "id": "f000112",
+   "language": "en",
+   "lines": [
+    "According to one study that was published a short time ago - the Harvard Business School study - indicated that just in the commercial sector alone of the economy, we could save between 30% and 40% of the energy that we consume in this country today."
+   ]
+  },
+  {
+   "begin": "1011.160",
+   "children": [],
+   "end": "1011.560",
+   "id": "n000065",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1011.560",
+   "children": [],
+   "end": "1017.120",
+   "id": "f000113",
+   "language": "en",
+   "lines": [
+    "So I think, yes, we will have to change in a very appreciable way, some of the lifestyles that we now enjoy."
+   ]
+  },
+  {
+   "begin": "1017.120",
+   "children": [],
+   "end": "1017.560",
+   "id": "n000066",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1017.560",
+   "children": [],
+   "end": "1017.940",
+   "id": "f000114",
+   "language": "en",
+   "lines": [
+    "Mr. Reagan."
+   ]
+  },
+  {
+   "begin": "1017.940",
+   "children": [],
+   "end": "1018.720",
+   "id": "n000067",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1018.720",
+   "children": [],
+   "end": "1022.240",
+   "id": "f000115",
+   "language": "en",
+   "lines": [
+    "Well, as I've said, I am not an enemy of conservation."
+   ]
+  },
+  {
+   "begin": "1022.240",
+   "children": [],
+   "end": "1026.120",
+   "id": "f000116",
+   "language": "en",
+   "lines": [
+    "I wouldn't be called a conservative if I were."
+   ]
+  },
+  {
+   "begin": "1026.120",
+   "children": [],
+   "end": "1046.220",
+   "id": "f000117",
+   "language": "en",
+   "lines": [
+    "But, when my figures are challenged, as the President himself challenged them after I made them, I think it should be called to the attention of John and the others here that my figures are the figures of the Department of Energy, which has not been overly optimistic in recent years as to how much supply we have left."
+   ]
+  },
+  {
+   "begin": "1046.220",
+   "children": [],
+   "end": "1046.840",
+   "id": "n000068",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1046.840",
+   "children": [],
+   "end": "1056.520",
+   "id": "f000118",
+   "language": "en",
+   "lines": [
+    "That is the same Government that, in 1920, told us we only had enough oil left for 13 years, and 19 years later, told us we only had enough left for another 15 years."
+   ]
+  },
+  {
+   "begin": "1056.520",
+   "children": [],
+   "end": "1057.560",
+   "id": "n000069",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1057.560",
+   "children": [],
+   "end": "1061.520",
+   "id": "f000119",
+   "language": "en",
+   "lines": [
+    "As for saving energy and conserving, the American people haven't been doing badly at that."
+   ]
+  },
+  {
+   "begin": "1061.520",
+   "children": [],
+   "end": "1062.440",
+   "id": "n000070",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1062.440",
+   "children": [],
+   "end": "1072.160",
+   "id": "f000120",
+   "language": "en",
+   "lines": [
+    "Because in industry today, we're producing more, over the last several years, and at 12% less use of energy than we were back in about 1973."
+   ]
+  },
+  {
+   "begin": "1072.160",
+   "children": [],
+   "end": "1072.760",
+   "id": "n000071",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1072.760",
+   "children": [],
+   "end": "1079.080",
+   "id": "f000121",
+   "language": "en",
+   "lines": [
+    "And motorists are using 8% less than they were back at that time of the oil embargo."
+   ]
+  },
+  {
+   "begin": "1079.080",
+   "children": [],
+   "end": "1079.640",
+   "id": "n000072",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1079.640",
+   "children": [],
+   "end": "1085.040",
+   "id": "f000122",
+   "language": "en",
+   "lines": [
+    "So, I think we are proving that we can go forward with conservation and benefit from that."
+   ]
+  },
+  {
+   "begin": "1085.040",
+   "children": [],
+   "end": "1085.480",
+   "id": "n000073",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1085.480",
+   "children": [],
+   "end": "1092.220",
+   "id": "f000123",
+   "language": "en",
+   "lines": [
+    "But also, I think it is safe to say that we do have sources of energy that have not yet been used or found."
+   ]
+  },
+  {
+   "begin": "1092.220",
+   "children": [],
+   "end": "1092.920",
+   "id": "f000124",
+   "language": "en",
+   "lines": [
+    "Mr. Anderson."
+   ]
+  },
+  {
+   "begin": "1092.920",
+   "children": [],
+   "end": "1093.920",
+   "id": "n000074",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1093.920",
+   "children": [],
+   "end": "1099.180",
+   "id": "f000125",
+   "language": "en",
+   "lines": [
+    "Mr. Greenberg, I think my opponent in this debate tonight is overlooking one other very important fact."
+   ]
+  },
+  {
+   "begin": "1099.180",
+   "children": [],
+   "end": "1103.160",
+   "id": "f000126",
+   "language": "en",
+   "lines": [
+    "And that is, that we cannot look at this as simply a national problem."
+   ]
+  },
+  {
+   "begin": "1103.160",
+   "children": [],
+   "end": "1103.560",
+   "id": "n000075",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1103.560",
+   "children": [],
+   "end": "1113.160",
+   "id": "f000127",
+   "language": "en",
+   "lines": [
+    "Even though it's true that, perhaps, between now and the end of the decade, our total consumption of oil may not increase by more than, perhaps, a million or 2 million barrels of oil a day."
+   ]
+  },
+  {
+   "begin": "1113.160",
+   "children": [],
+   "end": "1113.880",
+   "id": "n000076",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1113.880",
+   "children": [],
+   "end": "1121.360",
+   "id": "f000128",
+   "language": "en",
+   "lines": [
+    "The rest of the Western world, we are told, may see its consumption increase from 51 million barrels to about 66 million."
+   ]
+  },
+  {
+   "begin": "1121.360",
+   "children": [],
+   "end": "1121.920",
+   "id": "n000077",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1121.920",
+   "children": [],
+   "end": "1127.340",
+   "id": "f000129",
+   "language": "en",
+   "lines": [
+    "And that additional 15 million barrels is going to cause scarcity."
+   ]
+  },
+  {
+   "begin": "1127.340",
+   "children": [],
+   "end": "1148.680",
+   "id": "f000130",
+   "language": "en",
+   "lines": [
+    "It is going to cause scarcity in world markets because there are at least five reputable studies, one even by the American Petroleum Institute itself, that, I think, clearly indicate that somewhere along around the end of the present decade, total world demand for oil is simply going to exceed total available supplies."
+   ]
+  },
+  {
+   "begin": "1148.680",
+   "children": [],
+   "end": "1149.040",
+   "id": "n000078",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1149.040",
+   "children": [],
+   "end": "1157.320",
+   "id": "f000131",
+   "language": "en",
+   "lines": [
+    "I think that conservation - I think that a change in lifestyles - is necessary, and we had better begin to plan for that now rather than later."
+   ]
+  },
+  {
+   "begin": "1157.320",
+   "children": [],
+   "end": "1158.640",
+   "id": "n000079",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1158.640",
+   "children": [],
+   "end": "1162.760",
+   "id": "f000132",
+   "language": "en",
+   "lines": [
+    "This question goes to you, Mr. Anderson, from Charles Corddry."
+   ]
+  },
+  {
+   "begin": "1162.760",
+   "children": [],
+   "end": "1166.540",
+   "id": "f000133",
+   "language": "en",
+   "lines": [
+    "Mr. Anderson, you and Mr. Reagan both speak for better defense."
+   ]
+  },
+  {
+   "begin": "1166.540",
+   "children": [],
+   "end": "1170.360",
+   "id": "f000134",
+   "language": "en",
+   "lines": [
+    "for stronger defense and for programs that would mean spending more money."
+   ]
+  },
+  {
+   "begin": "1170.360",
+   "children": [],
+   "end": "1171.120",
+   "id": "n000080",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1171.120",
+   "children": [],
+   "end": "1180.520",
+   "id": "f000135",
+   "language": "en",
+   "lines": [
+    "You do not, either of you, however, come to grips with the fundamental problem of manning the forces, of who shall serve, and how the burden will be distributed."
+   ]
+  },
+  {
+   "begin": "1180.520",
+   "children": [],
+   "end": "1183.840",
+   "id": "f000136",
+   "language": "en",
+   "lines": [
+    "This will surely be a critical issue in the next Presidential term."
+   ]
+  },
+  {
+   "begin": "1183.840",
+   "children": [],
+   "end": "1184.600",
+   "id": "n000081",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1184.600",
+   "children": [],
+   "end": "1186.340",
+   "id": "f000137",
+   "language": "en",
+   "lines": [
+    "You both oppose the draft."
+   ]
+  },
+  {
+   "begin": "1186.340",
+   "children": [],
+   "end": "1187.040",
+   "id": "n000082",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1187.040",
+   "children": [],
+   "end": "1195.520",
+   "id": "f000138",
+   "language": "en",
+   "lines": [
+    "The questions are, how would you fill the under-strength combat forces with numbers and quality, without reviving conscription?"
+   ]
+  },
+  {
+   "begin": "1195.520",
+   "children": [],
+   "end": "1196.560",
+   "id": "n000083",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1196.560",
+   "children": [],
+   "end": "1207.740",
+   "id": "f000139",
+   "language": "en",
+   "lines": [
+    "And will you commit yourself, here, tonight, should you become the Commander in Chief, to propose a draft, however unpopular, if it becomes clear that voluntary means are not working?"
+   ]
+  },
+  {
+   "begin": "1207.740",
+   "children": [],
+   "end": "1215.200",
+   "id": "f000140",
+   "language": "en",
+   "lines": [
+    "Mr. Corddry, I am well aware of the present deficiencies in the Armed Forces of this country."
+   ]
+  },
+  {
+   "begin": "1215.200",
+   "children": [],
+   "end": "1216.080",
+   "id": "n000084",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1216.080",
+   "children": [],
+   "end": "1237.140",
+   "id": "f000141",
+   "language": "en",
+   "lines": [
+    "When you have a report, as we did recently, that six out of 10 CONUS Divisions in this country - Continental United States Army Divisions - simply could not pass a readiness test: that two out of three divisions that were to be allocated to the so-called Rapid Deployment Force could not meet a readiness test."
+   ]
+  },
+  {
+   "begin": "1237.140",
+   "children": [],
+   "end": "1248.260",
+   "id": "f000142",
+   "language": "en",
+   "lines": [
+    "And in most cases, that failure to meet the test was because of a lack of manning requirements, an inability to fill many of the slots in those divisions."
+   ]
+  },
+  {
+   "begin": "1248.260",
+   "children": [],
+   "end": "1248.720",
+   "id": "n000085",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1248.720",
+   "children": [],
+   "end": "1261.440",
+   "id": "f000143",
+   "language": "en",
+   "lines": [
+    "Yes, I have seen figures that indicate that perhaps as of September, 1980 - this very month - that there is a shortage of about 104,000 in the ranks between E-4 and E-9."
+   ]
+  },
+  {
+   "begin": "1261.440",
+   "children": [],
+   "end": "1261.960",
+   "id": "n000086",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1261.960",
+   "children": [],
+   "end": "1263.000",
+   "id": "f000144",
+   "language": "en",
+   "lines": [
+    "And there were reports."
+   ]
+  },
+  {
+   "begin": "1263.000",
+   "children": [],
+   "end": "1269.880",
+   "id": "f000145",
+   "language": "en",
+   "lines": [
+    "public reports not long ago about ships that could not leave American ports because of a lack of crews."
+   ]
+  },
+  {
+   "begin": "1269.880",
+   "children": [],
+   "end": "1270.400",
+   "id": "n000087",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1270.400",
+   "children": [],
+   "end": "1279.840",
+   "id": "f000146",
+   "language": "en",
+   "lines": [
+    "I talked to one of the leading former chiefs of Naval operations in my office a few weeks ago, who told me about 25,000 Chief Petty Officers being short."
+   ]
+  },
+  {
+   "begin": "1279.840",
+   "children": [],
+   "end": "1280.320",
+   "id": "n000088",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1280.320",
+   "children": [],
+   "end": "1295.040",
+   "id": "f000147",
+   "language": "en",
+   "lines": [
+    "But, I think that that is clearly related to the fact that, going back to the time when the all-volunteer Army was created in 1973 - and I worked hard for it and supported it - we simply have failed to keep pace with the cost of living."
+   ]
+  },
+  {
+   "begin": "1295.040",
+   "children": [],
+   "end": "1295.600",
+   "id": "n000089",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1295.600",
+   "children": [],
+   "end": "1308.560",
+   "id": "f000148",
+   "language": "en",
+   "lines": [
+    "And today, on the average, the average serviceman is at least 15% - and I happen to think that's a very modest estimate - 15% below what has happened to the cost of living over that period of time."
+   ]
+  },
+  {
+   "begin": "1308.560",
+   "children": [],
+   "end": "1309.040",
+   "id": "n000090",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1309.040",
+   "children": [],
+   "end": "1313.960",
+   "id": "f000149",
+   "language": "en",
+   "lines": [
+    "And as a result, the families of some of our young servicemen are on food stamps today."
+   ]
+  },
+  {
+   "begin": "1313.960",
+   "children": [],
+   "end": "1315.720",
+   "id": "f000150",
+   "language": "en",
+   "lines": [
+    "And I think that's shocking; it's shameful."
+   ]
+  },
+  {
+   "begin": "1315.720",
+   "children": [],
+   "end": "1316.320",
+   "id": "n000091",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1316.320",
+   "children": [],
+   "end": "1319.360",
+   "id": "f000151",
+   "language": "en",
+   "lines": [
+    "So, yes, I told the American Legion National!"
+   ]
+  },
+  {
+   "begin": "1319.360",
+   "children": [],
+   "end": "1332.480",
+   "id": "f000152",
+   "language": "en",
+   "lines": [
+    "Convention, the VFW National Convention - when I spoke to each of those bodies - I outlined a very specific program of increasing pay and allowances, reenlistment bonuses."
+   ]
+  },
+  {
+   "begin": "1332.480",
+   "children": [],
+   "end": "1333.940",
+   "id": "f000153",
+   "language": "en",
+   "lines": [
+    "That only makes sense."
+   ]
+  },
+  {
+   "begin": "1333.940",
+   "children": [],
+   "end": "1334.400",
+   "id": "n000092",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1334.400",
+   "children": [],
+   "end": "1358.020",
+   "id": "f000154",
+   "language": "en",
+   "lines": [
+    "But I would leave you with this thought, sir, to be quite specific in my answer to your question: that, of course, to protect the vital interests of this country, if that became impossible; if I could not, despite the very best efforts that I asked the Congress to put forward, to raise those pay and incentives and allowances, of course, I would not leave this country go undefended."
+   ]
+  },
+  {
+   "begin": "1358.020",
+   "children": [],
+   "end": "1360.720",
+   "id": "f000155",
+   "language": "en",
+   "lines": [
+    "Mr. Corddry?"
+   ]
+  },
+  {
+   "begin": "1360.720",
+   "children": [],
+   "end": "1361.640",
+   "id": "n000093",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1361.640",
+   "children": [],
+   "end": "1372.920",
+   "id": "f000156",
+   "language": "en",
+   "lines": [
+    "Mr. Reagan, I will just repeat the two questions: How would you fill the under-strength combat forces with numbers and with quality, without reviving conscription?"
+   ]
+  },
+  {
+   "begin": "1372.920",
+   "children": [],
+   "end": "1373.880",
+   "id": "n000094",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1373.880",
+   "children": [],
+   "end": "1387.040",
+   "id": "f000157",
+   "language": "en",
+   "lines": [
+    "And will you commit yourself; here, tonight, should you become the Commander in Chief, to propose a draft, however unpopular, if it becomes clear that voluntary means are not solving our manpower problems?"
+   ]
+  },
+  {
+   "begin": "1387.040",
+   "children": [],
+   "end": "1387.960",
+   "id": "n000095",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1387.960",
+   "children": [],
+   "end": "1403.560",
+   "id": "f000158",
+   "language": "en",
+   "lines": [
+    "Mr. Corddry, it's a shame now that there are only two of us here debating, because the two that are here are in more agreement than disagreement on this particular issue, and the only one who would be disagreeing with us is the President, if he were present."
+   ]
+  },
+  {
+   "begin": "1403.560",
+   "children": [],
+   "end": "1406.240",
+   "id": "f000159",
+   "language": "en",
+   "lines": [
+    "I. too, believe in the voluntary military."
+   ]
+  },
+  {
+   "begin": "1406.240",
+   "children": [],
+   "end": "1417.780",
+   "id": "f000160",
+   "language": "en",
+   "lines": [
+    "As a matter of fact, today the shortages of non-commissioned officers that John mentioned are such that if we tried to have a draft today, we wouldn't have the non-commissioned officers to train the draftees."
+   ]
+  },
+  {
+   "begin": "1417.780",
+   "children": [],
+   "end": "1425.040",
+   "id": "f000161",
+   "language": "en",
+   "lines": [
+    "I believe the answer lies in just recognizing human nature and how we make everything else work in this country, when we want it to work."
+   ]
+  },
+  {
+   "begin": "1425.040",
+   "children": [],
+   "end": "1425.840",
+   "id": "n000096",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1425.840",
+   "children": [],
+   "end": "1428.320",
+   "id": "f000162",
+   "language": "en",
+   "lines": [
+    "Recognize that we have a voluntary military."
+   ]
+  },
+  {
+   "begin": "1428.320",
+   "children": [],
+   "end": "1429.240",
+   "id": "n000097",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1429.240",
+   "children": [],
+   "end": "1437.880",
+   "id": "f000163",
+   "language": "en",
+   "lines": [
+    "We are asking for men and women to join the military as a career, and we're asking them to deal with the most sophisticated of equipment."
+   ]
+  },
+  {
+   "begin": "1437.880",
+   "children": [],
+   "end": "1456.960",
+   "id": "f000164",
+   "language": "en",
+   "lines": [
+    "And a young man is out there on a $1 billion carrier in charge of the maintenance of a $20 million aircraft, working 100 hours a week at times, and he's earning less for himself and his family, while he's away from his family, than he could earn if he were in one of the most menial jobs, working 40 hours a week here at home."
+   ]
+  },
+  {
+   "begin": "1456.960",
+   "children": [],
+   "end": "1458.680",
+   "id": "f000165",
+   "language": "en",
+   "lines": [
+    "As an aid to enlistment."
+   ]
+  },
+  {
+   "begin": "1458.680",
+   "children": [],
+   "end": "1467.500",
+   "id": "f000166",
+   "language": "en",
+   "lines": [
+    "we had an aid - 46% of the people who enlisted in the voluntary military up until 1977 said they did so for one particular reason, the G.I."
+   ]
+  },
+  {
+   "begin": "1467.500",
+   "children": [],
+   "end": "1474.120",
+   "id": "f000167",
+   "language": "en",
+   "lines": [
+    "Bill of Rights - the fact that, by serving in the military, they could provide for a future college education."
+   ]
+  },
+  {
+   "begin": "1474.120",
+   "children": [],
+   "end": "1474.640",
+   "id": "n000098",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1474.640",
+   "children": [],
+   "end": "1478.580",
+   "id": "f000168",
+   "language": "en",
+   "lines": [
+    "In 1977, we took that away from the military."
+   ]
+  },
+  {
+   "begin": "1478.580",
+   "children": [],
+   "end": "1483.260",
+   "id": "f000169",
+   "language": "en",
+   "lines": [
+    "That meant immediately 46% of your people that were signing up had no reason for signing up."
+   ]
+  },
+  {
+   "begin": "1483.260",
+   "children": [],
+   "end": "1484.080",
+   "id": "n000099",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1484.080",
+   "children": [],
+   "end": "1501.120",
+   "id": "f000170",
+   "language": "en",
+   "lines": [
+    "So I think it is a case of pay scale, of recognizing that if we're going to have young men and women responsible for our security, dealing with this sophisticated equipment, then for heaven's sakes, let's go out and have a pay scale that is commensurate with the sacrifice that we're asking of them."
+   ]
+  },
+  {
+   "begin": "1501.120",
+   "children": [],
+   "end": "1505.640",
+   "id": "f000171",
+   "language": "en",
+   "lines": [
+    "Along with this, I think we need something else that has been allowed to deteriorate."
+   ]
+  },
+  {
+   "begin": "1505.640",
+   "children": [],
+   "end": "1515.280",
+   "id": "f000172",
+   "language": "en",
+   "lines": [
+    "We need a million-man active reserve that could be called up on an instant's notice, and that would be also trained, ready to use that type of equipment."
+   ]
+  },
+  {
+   "begin": "1515.280",
+   "children": [],
+   "end": "1516.160",
+   "id": "n000100",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1516.160",
+   "children": [],
+   "end": "1522.320",
+   "id": "f000173",
+   "language": "en",
+   "lines": [
+    "Both of these, I think, would respond to the proper kind of incentives that we could offer these people."
+   ]
+  },
+  {
+   "begin": "1522.320",
+   "children": [],
+   "end": "1525.480",
+   "id": "f000174",
+   "language": "en",
+   "lines": [
+    "The other day, I just - I'll hasten - I just saw one example."
+   ]
+  },
+  {
+   "begin": "1525.480",
+   "children": [],
+   "end": "1526.160",
+   "id": "n000101",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1526.160",
+   "children": [],
+   "end": "1526.960",
+   "id": "f000175",
+   "language": "en",
+   "lines": [
+    "Down in Texas."
+   ]
+  },
+  {
+   "begin": "1526.960",
+   "children": [],
+   "end": "1528.920",
+   "id": "f000176",
+   "language": "en",
+   "lines": [
+    "I saw a high school that is military."
+   ]
+  },
+  {
+   "begin": "1528.920",
+   "children": [],
+   "end": "1529.360",
+   "id": "n000102",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1529.360",
+   "children": [],
+   "end": "1530.980",
+   "id": "f000177",
+   "language": "en",
+   "lines": [
+    "Your time is up, Mr. Reagan."
+   ]
+  },
+  {
+   "begin": "1530.980",
+   "children": [],
+   "end": "1531.360",
+   "id": "f000178",
+   "language": "en",
+   "lines": [
+    "Fine."
+   ]
+  },
+  {
+   "begin": "1531.360",
+   "children": [],
+   "end": "1531.680",
+   "id": "n000103",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1531.680",
+   "children": [],
+   "end": "1532.320",
+   "id": "f000179",
+   "language": "en",
+   "lines": [
+    "I'm sorry."
+   ]
+  },
+  {
+   "begin": "1532.320",
+   "children": [],
+   "end": "1532.660",
+   "id": "f000180",
+   "language": "en",
+   "lines": [
+    "I'll catch up with it later."
+   ]
+  },
+  {
+   "begin": "1532.660",
+   "children": [],
+   "end": "1534.640",
+   "id": "f000181",
+   "language": "en",
+   "lines": [
+    "You can finish it after it's over."
+   ]
+  },
+  {
+   "begin": "1534.640",
+   "children": [],
+   "end": "1535.400",
+   "id": "n000104",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1535.400",
+   "children": [],
+   "end": "1536.480",
+   "id": "f000182",
+   "language": "en",
+   "lines": [
+    "Mr. Anderson?"
+   ]
+  },
+  {
+   "begin": "1536.480",
+   "children": [],
+   "end": "1537.560",
+   "id": "n000105",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1537.560",
+   "children": [],
+   "end": "1538.040",
+   "id": "f000183",
+   "language": "en",
+   "lines": [
+    "Mr. Moyers."
+   ]
+  },
+  {
+   "begin": "1538.040",
+   "children": [],
+   "end": "1547.740",
+   "id": "f000184",
+   "language": "en",
+   "lines": [
+    "I must say that I think I have better opportunity, however, of finding the necessary funds to pay what, admittedly, will be very, very substantial sums of money."
+   ]
+  },
+  {
+   "begin": "1547.740",
+   "children": [],
+   "end": "1548.720",
+   "id": "f000185",
+   "language": "en",
+   "lines": [
+    "We signed one bill."
+   ]
+  },
+  {
+   "begin": "1548.720",
+   "children": [],
+   "end": "1554.920",
+   "id": "f000186",
+   "language": "en",
+   "lines": [
+    "or we passed one bill, just a couple of weeks ago in the House of Representatives for $500 million - a half a billion dollars."
+   ]
+  },
+  {
+   "begin": "1554.920",
+   "children": [],
+   "end": "1557.560",
+   "id": "f000187",
+   "language": "en",
+   "lines": [
+    "That is just a downpayment, in my opinion."
+   ]
+  },
+  {
+   "begin": "1557.560",
+   "children": [],
+   "end": "1557.960",
+   "id": "n000106",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1557.960",
+   "children": [],
+   "end": "1562.520",
+   "id": "f000188",
+   "language": "en",
+   "lines": [
+    "But, unlike Governor Reagan, I do not support a boondoggle like the MX missile."
+   ]
+  },
+  {
+   "begin": "1562.520",
+   "children": [],
+   "end": "1562.960",
+   "id": "n000107",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1562.960",
+   "children": [],
+   "end": "1572.800",
+   "id": "f000189",
+   "language": "en",
+   "lines": [
+    "I've just gotten a report from the Air Force that indicates that the 30-year lifecycle cost of that system is going to be $100 billion."
+   ]
+  },
+  {
+   "begin": "1572.800",
+   "children": [],
+   "end": "1589.600",
+   "id": "f000190",
+   "language": "en",
+   "lines": [
+    "The initial cost is about $54 billion, and then when you add in the additional costs - not only the construction of the system, the missiles and the personnel, and so on - when you add in the additional costs over the lifecycle of that system, over $100 billion."
+   ]
+  },
+  {
+   "begin": "1589.600",
+   "children": [],
+   "end": "1595.260",
+   "id": "f000191",
+   "language": "en",
+   "lines": [
+    "I would propose to save the taxpayers of this country from that kind of costly boondoggle."
+   ]
+  },
+  {
+   "begin": "1595.260",
+   "children": [],
+   "end": "1597.040",
+   "id": "n000108",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1597.040",
+   "children": [],
+   "end": "1599.140",
+   "id": "f000192",
+   "language": "en",
+   "lines": [
+    "Mr. Reagan?"
+   ]
+  },
+  {
+   "begin": "1599.140",
+   "children": [],
+   "end": "1605.040",
+   "id": "f000193",
+   "language": "en",
+   "lines": [
+    "Well, let me just say that, with regard to that same missile system, I happen to support and believe in the missile, itself."
+   ]
+  },
+  {
+   "begin": "1605.040",
+   "children": [],
+   "end": "1609.000",
+   "id": "f000194",
+   "language": "en",
+   "lines": [
+    "But that's not the $54 billion cost that John is talking about."
+   ]
+  },
+  {
+   "begin": "1609.000",
+   "children": [],
+   "end": "1616.720",
+   "id": "f000195",
+   "language": "en",
+   "lines": [
+    "He's talking about that fantastic plan of the Administration to take thousands and thousands of square miles out in the Western states."
+   ]
+  },
+  {
+   "begin": "1616.720",
+   "children": [],
+   "end": "1617.280",
+   "id": "n000109",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1617.280",
+   "children": [],
+   "end": "1629.280",
+   "id": "f000196",
+   "language": "en",
+   "lines": [
+    "And first, he was going to dig a racetrack and have it going around in the racetrack so it would meet the requirements of SALT II treaty, and now he's decided it'll have a straight up and down thing, so it can he both verifiable and yet hideable from the Soviet Union."
+   ]
+  },
+  {
+   "begin": "1629.280",
+   "children": [],
+   "end": "1638.200",
+   "id": "f000197",
+   "language": "en",
+   "lines": [
+    "We need the missile, I think, because we are so out of balance strategically that we lack a deterrent to a possible first assault."
+   ]
+  },
+  {
+   "begin": "1638.200",
+   "children": [],
+   "end": "1638.800",
+   "id": "n000110",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1638.800",
+   "children": [],
+   "end": "1643.200",
+   "id": "f000198",
+   "language": "en",
+   "lines": [
+    "But I am not in favor of the plan that is so costly."
+   ]
+  },
+  {
+   "begin": "1643.200",
+   "children": [],
+   "end": "1644.120",
+   "id": "n000111",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1644.120",
+   "children": [],
+   "end": "1668.860",
+   "id": "f000199",
+   "language": "en",
+   "lines": [
+    "And therefore, if I only had another second left, I'd say that that high school class in a military training - 40 of its 80 graduates last year entered the United States service academies; West Point, Annapolis and the Air Force Academy, and to see those young men made me very proud to realize that there are young people in this country that are prepared to go into that kind of a career in service of their country."
+   ]
+  },
+  {
+   "begin": "1668.860",
+   "children": [],
+   "end": "1670.440",
+   "id": "n000112",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1670.440",
+   "children": [],
+   "end": "1673.720",
+   "id": "f000200",
+   "language": "en",
+   "lines": [
+    "This question comes to you, Mr. Reagan, from my colleague, Lee May."
+   ]
+  },
+  {
+   "begin": "1673.720",
+   "children": [],
+   "end": "1675.480",
+   "id": "n000113",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1675.480",
+   "children": [],
+   "end": "1679.340",
+   "id": "f000201",
+   "language": "en",
+   "lines": [
+    "Mr. Reagan, the military is not the only area in crisis."
+   ]
+  },
+  {
+   "begin": "1679.340",
+   "children": [],
+   "end": "1679.880",
+   "id": "n000114",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1679.880",
+   "children": [],
+   "end": "1686.800",
+   "id": "f000202",
+   "language": "en",
+   "lines": [
+    "American cities are physically wearing out, as housing, streets, sewers and budgets all fall apart."
+   ]
+  },
+  {
+   "begin": "1686.800",
+   "children": [],
+   "end": "1687.760",
+   "id": "n000115",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1687.760",
+   "children": [],
+   "end": "1694.200",
+   "id": "f000203",
+   "language": "en",
+   "lines": [
+    "And all of this is piled upon the emotional strain that comes from refugees and racial confrontations."
+   ]
+  },
+  {
+   "begin": "1694.200",
+   "children": [],
+   "end": "1695.440",
+   "id": "n000116",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1695.440",
+   "children": [],
+   "end": "1704.260",
+   "id": "f000204",
+   "language": "en",
+   "lines": [
+    "Now, I'm wondering what specific plans do you have for Federal involvement in saving our cities from these physical and emotional!"
+   ]
+  },
+  {
+   "begin": "1704.260",
+   "children": [],
+   "end": "1712.780",
+   "id": "f000205",
+   "language": "en",
+   "lines": [
+    "crises, and how would you carry out those plans in addition to raising military pay, without going against your pledge of fiscal restraint?"
+   ]
+  },
+  {
+   "begin": "1712.780",
+   "children": [],
+   "end": "1714.200",
+   "id": "f000206",
+   "language": "en",
+   "lines": [
+    "I don't think I'd have to go against that pledge."
+   ]
+  },
+  {
+   "begin": "1714.200",
+   "children": [],
+   "end": "1721.920",
+   "id": "f000207",
+   "language": "en",
+   "lines": [
+    "I think one of the problems today with the cities is Federal aid."
+   ]
+  },
+  {
+   "begin": "1721.920",
+   "children": [],
+   "end": "1722.760",
+   "id": "n000117",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1722.760",
+   "children": [],
+   "end": "1725.480",
+   "id": "f000208",
+   "language": "en",
+   "lines": [
+    "The mayors that I've talked to in some of our leading cities tell!"
+   ]
+  },
+  {
+   "begin": "1725.480",
+   "children": [],
+   "end": "1730.200",
+   "id": "f000209",
+   "language": "en",
+   "lines": [
+    "me that the Federal grants that come with."
+   ]
+  },
+  {
+   "begin": "1730.200",
+   "children": [],
+   "end": "1748.600",
+   "id": "f000210",
+   "language": "en",
+   "lines": [
+    "for a specific cause or a specific objective, come with such red tape, such priorities established by a bureaucracy in Washington, that the local government's hands are tied with regard to using that money as they feel could best be used, and for what they think might be the top priority."
+   ]
+  },
+  {
+   "begin": "1748.600",
+   "children": [],
+   "end": "1749.880",
+   "id": "n000118",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1749.880",
+   "children": [],
+   "end": "1760.360",
+   "id": "f000211",
+   "language": "en",
+   "lines": [
+    "If they had that money without those government restrictions, every one of them has told me they could make great savings and make far greater use of the money."
+   ]
+  },
+  {
+   "begin": "1760.360",
+   "children": [],
+   "end": "1770.720",
+   "id": "f000212",
+   "language": "en",
+   "lines": [
+    "What I have been advocating is, why don't we start with the Federal Government turning back tax sources to states and local governments, as well as the responsibilities for those programs?"
+   ]
+  },
+  {
+   "begin": "1770.720",
+   "children": [],
+   "end": "1771.440",
+   "id": "n000119",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1771.440",
+   "children": [],
+   "end": "1773.320",
+   "id": "f000213",
+   "language": "en",
+   "lines": [
+    "Seventy-five percent of the people live in the cities."
+   ]
+  },
+  {
+   "begin": "1773.320",
+   "children": [],
+   "end": "1773.680",
+   "id": "n000120",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1773.680",
+   "children": [],
+   "end": "1777.160",
+   "id": "f000214",
+   "language": "en",
+   "lines": [
+    "I don't know of a city in America that doesn't have the kind of problems you're talking about."
+   ]
+  },
+  {
+   "begin": "1777.160",
+   "children": [],
+   "end": "1783.720",
+   "id": "f000215",
+   "language": "en",
+   "lines": [
+    "But, where are we getting the money that the Federal Government is putting out to help them?"
+   ]
+  },
+  {
+   "begin": "1783.720",
+   "children": [],
+   "end": "1786.980",
+   "id": "f000216",
+   "language": "en",
+   "lines": [
+    "New York is being taxed for money that will then go to Detroit."
+   ]
+  },
+  {
+   "begin": "1786.980",
+   "children": [],
+   "end": "1793.200",
+   "id": "f000217",
+   "language": "en",
+   "lines": [
+    "But Detroit is being taxed for money that, let's say, will go to Chicago, while Chicago is being taxed to help with the problems in Philadelphia."
+   ]
+  },
+  {
+   "begin": "1793.200",
+   "children": [],
+   "end": "1793.840",
+   "id": "n000121",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1793.840",
+   "children": [],
+   "end": "1797.240",
+   "id": "f000218",
+   "language": "en",
+   "lines": [
+    "Wouldn't it make a lot more sense if the government let them keep their own money there in the first place?"
+   ]
+  },
+  {
+   "begin": "1797.240",
+   "children": [],
+   "end": "1798.160",
+   "id": "n000122",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1798.160",
+   "children": [],
+   "end": "1802.240",
+   "id": "f000219",
+   "language": "en",
+   "lines": [
+    "But there are other things that we can do with the inner cities, and I've believed."
+   ]
+  },
+  {
+   "begin": "1802.240",
+   "children": [],
+   "end": "1812.280",
+   "id": "f000220",
+   "language": "en",
+   "lines": [
+    "I have talked of having zones in those cities that are run down, where there is a high percentage of people on welfare, and offer tax incentives."
+   ]
+  },
+  {
+   "begin": "1812.280",
+   "children": [],
+   "end": "1820.000",
+   "id": "f000221",
+   "language": "en",
+   "lines": [
+    "The government isn't getting a tax now from businesses there because they aren't there, or from individuals who are on welfare rather than working."
+   ]
+  },
+  {
+   "begin": "1820.000",
+   "children": [],
+   "end": "1820.880",
+   "id": "n000123",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1820.880",
+   "children": [],
+   "end": "1825.360",
+   "id": "f000222",
+   "language": "en",
+   "lines": [
+    "And why don't we offer incentives for business and industry to start up in those zones?"
+   ]
+  },
+  {
+   "begin": "1825.360",
+   "children": [],
+   "end": "1826.120",
+   "id": "n000124",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1826.120",
+   "children": [],
+   "end": "1830.700",
+   "id": "f000223",
+   "language": "en",
+   "lines": [
+    "Give them a tax moratorium for a period if they build and develop there."
+   ]
+  },
+  {
+   "begin": "1830.700",
+   "children": [],
+   "end": "1839.520",
+   "id": "f000224",
+   "language": "en",
+   "lines": [
+    "The individuals that would then get jobs - give them a break that encourages them to leave the social welfare programs and go to work."
+   ]
+  },
+  {
+   "begin": "1839.520",
+   "children": [],
+   "end": "1842.640",
+   "id": "f000225",
+   "language": "en",
+   "lines": [
+    "We could have an urban homestead act."
+   ]
+  },
+  {
+   "begin": "1842.640",
+   "children": [],
+   "end": "1843.320",
+   "id": "n000125",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1843.320",
+   "children": [],
+   "end": "1848.900",
+   "id": "f000226",
+   "language": "en",
+   "lines": [
+    "We've got thousands and thousands of homes owned by government boarded up, being vandalized, that have been taken in mortgage foreclosures."
+   ]
+  },
+  {
+   "begin": "1848.900",
+   "children": [],
+   "end": "1855.120",
+   "id": "f000227",
+   "language": "en",
+   "lines": [
+    "What if we had a homestead act, and said to the people, for $1 we sell you this house."
+   ]
+  },
+  {
+   "begin": "1855.120",
+   "children": [],
+   "end": "1864.080",
+   "id": "f000228",
+   "language": "en",
+   "lines": [
+    "All have to do is agree to refurbish it, make it habitable, and live in it - just as 100 or more years ago, we did with the open land in this country - urban ."
+   ]
+  },
+  {
+   "begin": "1864.080",
+   "children": [],
+   "end": "1864.400",
+   "id": "n000126",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1864.400",
+   "children": [],
+   "end": "1868.540",
+   "id": "f000229",
+   "language": "en",
+   "lines": [
+    "or country homesteading."
+   ]
+  },
+  {
+   "begin": "1868.540",
+   "children": [],
+   "end": "1869.560",
+   "id": "n000127",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1869.560",
+   "children": [],
+   "end": "1869.960",
+   "id": "f000230",
+   "language": "en",
+   "lines": [
+    "Mr. May?"
+   ]
+  },
+  {
+   "begin": "1869.960",
+   "children": [],
+   "end": "1889.600",
+   "id": "f000231",
+   "language": "en",
+   "lines": [
+    "Mr. Anderson, let me ask you, what specific plans do you have for Federal involvement in saving cities from the physical and emotional crises that confront them, and how would you carry out those plans, in addition to raising military pay, without going against your pledge of fiscal restraint?"
+   ]
+  },
+  {
+   "begin": "1889.600",
+   "children": [],
+   "end": "1890.080",
+   "id": "n000128",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1890.080",
+   "children": [],
+   "end": "1903.320",
+   "id": "f000232",
+   "language": "en",
+   "lines": [
+    "Mr. May, I recently saw a Princeton University study that indicated that the cities of America - the large cities of this country - are in worse shape today than they were in 1960."
+   ]
+  },
+  {
+   "begin": "1903.320",
+   "children": [],
+   "end": "1904.160",
+   "id": "n000129",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1904.160",
+   "children": [],
+   "end": "1916.720",
+   "id": "f000233",
+   "language": "en",
+   "lines": [
+    "It seems to totally belie the claim that I heard President Carter make a few days ago, that he was the first President that had come forth with a real urban strategy to meet the problems of urban America."
+   ]
+  },
+  {
+   "begin": "1916.720",
+   "children": [],
+   "end": "1917.320",
+   "id": "n000130",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1917.320",
+   "children": [],
+   "end": "1937.540",
+   "id": "f000234",
+   "language": "en",
+   "lines": [
+    "Incidentally, just this past week, the crown jewel in that program that he had devised was stolen, I guess, because a conference committee turned down the ambitious plan that he had to increase the amount of money that would be available to the Economic Development Administration for loan guarantees and direct loans and credits."
+   ]
+  },
+  {
+   "begin": "1937.540",
+   "children": [],
+   "end": "1938.240",
+   "id": "n000131",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1938.240",
+   "children": [],
+   "end": "1956.040",
+   "id": "f000235",
+   "language": "en",
+   "lines": [
+    "I'm happy to say that, in contrast to that, the Anderson-Lucey platform for America, program for the 80s, has devoted considerable time, and in very specific detail, we have talked about two things that ought to be done to aid urban America."
+   ]
+  },
+  {
+   "begin": "1956.040",
+   "children": [],
+   "end": "1956.640",
+   "id": "n000132",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1956.640",
+   "children": [],
+   "end": "1973.200",
+   "id": "f000236",
+   "language": "en",
+   "lines": [
+    "We call, first of all, for the creation of a $4 billion urban reinvestment trust fund to do exactly what you spoke about in your question - to rebuild the streets, to rebuild the cities, the leaking water mains."
+   ]
+  },
+  {
+   "begin": "1973.200",
+   "children": [],
+   "end": "1973.840",
+   "id": "n000133",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1973.840",
+   "children": [],
+   "end": "1983.940",
+   "id": "f000237",
+   "language": "en",
+   "lines": [
+    "I was in North Pittsburgh - I think it was a few weeks ago, on my campaign - the water mains in that city had begun to leak, and literally, there wasn't money available to fix them."
+   ]
+  },
+  {
+   "begin": "1983.940",
+   "children": [],
+   "end": "1984.560",
+   "id": "n000134",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "1984.560",
+   "children": [],
+   "end": "2007.560",
+   "id": "f000238",
+   "language": "en",
+   "lines": [
+    "And until we can begin to recreate the basic infrastructure of the great cities of America, particularly in the upper Midwest and in the Northeast, they simply are not going to provide the kind of economic climate that will enable them to retain industry, enable them to retain the kind of solid industrial base that they need, so that they can provide jobs."
+   ]
+  },
+  {
+   "begin": "2007.560",
+   "children": [],
+   "end": "2008.040",
+   "id": "n000135",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2008.040",
+   "children": [],
+   "end": "2015.000",
+   "id": "f000239",
+   "language": "en",
+   "lines": [
+    "We have also provided in our program for a $4 billion Community Trust Fund, and we've told you where the money is coming from."
+   ]
+  },
+  {
+   "begin": "2015.000",
+   "children": [],
+   "end": "2015.400",
+   "id": "n000136",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2015.400",
+   "children": [],
+   "end": "2025.700",
+   "id": "f000240",
+   "language": "en",
+   "lines": [
+    "It's going to come from the dedication, by 1984, of the excise revenues that today are being collected by the Federal Government on alcohol and tobacco."
+   ]
+  },
+  {
+   "begin": "2025.700",
+   "children": [],
+   "end": "2029.480",
+   "id": "f000241",
+   "language": "en",
+   "lines": [
+    "That money, I think, ought to be put into rebuilding the base of our cities."
+   ]
+  },
+  {
+   "begin": "2029.480",
+   "children": [],
+   "end": "2029.840",
+   "id": "n000137",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2029.840",
+   "children": [],
+   "end": "2052.380",
+   "id": "f000242",
+   "language": "en",
+   "lines": [
+    "In addition to that, jobs programs to re-employ the youth in our cities would be very high on my priority list, both the Youth Opportunities Act of 1980 and a billion-dollar program that I would recommend to put youth to work in energy projects, in conservation projects, in projects that would carry out some of the great national goals of our country."
+   ]
+  },
+  {
+   "begin": "2052.380",
+   "children": [],
+   "end": "2053.280",
+   "id": "f000243",
+   "language": "en",
+   "lines": [
+    "Mr. Reagan, your response."
+   ]
+  },
+  {
+   "begin": "2053.280",
+   "children": [],
+   "end": "2054.700",
+   "id": "f000244",
+   "language": "en",
+   "lines": [
+    "Yes."
+   ]
+  },
+  {
+   "begin": "2054.700",
+   "children": [],
+   "end": "2055.480",
+   "id": "f000245",
+   "language": "en",
+   "lines": [
+    "Government claims."
+   ]
+  },
+  {
+   "begin": "2055.480",
+   "children": [],
+   "end": "2058.640",
+   "id": "f000246",
+   "language": "en",
+   "lines": [
+    "John claims that he is making plain where the money will come from."
+   ]
+  },
+  {
+   "begin": "2058.640",
+   "children": [],
+   "end": "2059.320",
+   "id": "n000138",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2059.320",
+   "children": [],
+   "end": "2060.980",
+   "id": "f000247",
+   "language": "en",
+   "lines": [
+    "It will come from the pockets of the people."
+   ]
+  },
+  {
+   "begin": "2060.980",
+   "children": [],
+   "end": "2061.960",
+   "id": "n000139",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2061.960",
+   "children": [],
+   "end": "2065.000",
+   "id": "f000248",
+   "language": "en",
+   "lines": [
+    "It will come from the pockets of the people who are living in those very areas."
+   ]
+  },
+  {
+   "begin": "2065.000",
+   "children": [],
+   "end": "2065.760",
+   "id": "n000140",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2065.760",
+   "children": [],
+   "end": "2077.640",
+   "id": "f000249",
+   "language": "en",
+   "lines": [
+    "And the problem is, with Governments - Federal, State and Local - taking $.44 out of every dollar earned, that the Federal Government has pre-empted too many of the tax sources, and that the cities."
+   ]
+  },
+  {
+   "begin": "2077.640",
+   "children": [],
+   "end": "2083.220",
+   "id": "f000250",
+   "language": "en",
+   "lines": [
+    "if Pittsburgh does not have the money to fix the leaking water mains, it's because the Federal Government has pre-empted."
+   ]
+  },
+  {
+   "begin": "2083.220",
+   "children": [],
+   "end": "2083.920",
+   "id": "n000141",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2083.920",
+   "children": [],
+   "end": "2089.020",
+   "id": "f000251",
+   "language": "en",
+   "lines": [
+    "Now, the Federal Government is going to turn around and say, well you have this problem; we will now hand you the money to do it."
+   ]
+  },
+  {
+   "begin": "2089.020",
+   "children": [],
+   "end": "2091.360",
+   "id": "f000252",
+   "language": "en",
+   "lines": [
+    "But the Federal Government doesn't make money."
+   ]
+  },
+  {
+   "begin": "2091.360",
+   "children": [],
+   "end": "2092.680",
+   "id": "n000142",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2092.680",
+   "children": [],
+   "end": "2095.880",
+   "id": "f000253",
+   "language": "en",
+   "lines": [
+    "It just takes - from the people."
+   ]
+  },
+  {
+   "begin": "2095.880",
+   "children": [],
+   "end": "2100.320",
+   "id": "f000254",
+   "language": "en",
+   "lines": [
+    "And in my view, this is not the answer to the problem."
+   ]
+  },
+  {
+   "begin": "2100.320",
+   "children": [],
+   "end": "2101.240",
+   "id": "n000143",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2101.240",
+   "children": [],
+   "end": "2111.680",
+   "id": "f000255",
+   "language": "en",
+   "lines": [
+    "Stand in the South Bronx as I did, in the spot where Jimmy Carter made his promise that he was going to, with multi-billion dollar programs, refurbish that area that looks like bombed-out London in World War II."
+   ]
+  },
+  {
+   "begin": "2111.680",
+   "children": [],
+   "end": "2112.520",
+   "id": "n000144",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2112.520",
+   "children": [],
+   "end": "2114.080",
+   "id": "f000256",
+   "language": "en",
+   "lines": [
+    "I stood there, and I met the people."
+   ]
+  },
+  {
+   "begin": "2114.080",
+   "children": [],
+   "end": "2114.440",
+   "id": "n000145",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2114.440",
+   "children": [],
+   "end": "2118.460",
+   "id": "f000257",
+   "language": "en",
+   "lines": [
+    "And I heard them ask just for something that would give them hope."
+   ]
+  },
+  {
+   "begin": "2118.460",
+   "children": [],
+   "end": "2123.040",
+   "id": "f000258",
+   "language": "en",
+   "lines": [
+    "And I believe that, while all of the promises have been broken, they've never been carried out."
+   ]
+  },
+  {
+   "begin": "2123.040",
+   "children": [],
+   "end": "2123.800",
+   "id": "n000146",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2123.800",
+   "children": [],
+   "end": "2135.800",
+   "id": "f000259",
+   "language": "en",
+   "lines": [
+    "But I believe that my plan might offer an opportunity for that, if we would move into those areas and let, encourage - with the tax incentive - the private sector, to develop and to create the jobs for the people."
+   ]
+  },
+  {
+   "begin": "2135.800",
+   "children": [],
+   "end": "2136.920",
+   "id": "n000147",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2136.920",
+   "children": [],
+   "end": "2137.800",
+   "id": "f000260",
+   "language": "en",
+   "lines": [
+    "Mr. Anderson."
+   ]
+  },
+  {
+   "begin": "2137.800",
+   "children": [],
+   "end": "2139.920",
+   "id": "n000148",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2139.920",
+   "children": [],
+   "end": "2148.560",
+   "id": "f000261",
+   "language": "en",
+   "lines": [
+    "Well, of course, where has the private sector been, Governor Reagan, during the years that our cities have been deteriorating?"
+   ]
+  },
+  {
+   "begin": "2148.560",
+   "children": [],
+   "end": "2169.360",
+   "id": "f000262",
+   "language": "en",
+   "lines": [
+    "It seems to me that to deny the responsibility of the Federal Government to do something about our crumbling cities is to deny the opportunity for one thing: To 55% of the black population of our country that is locked within the inner cities of the metropolitan areas of our country."
+   ]
+  },
+  {
+   "begin": "2169.360",
+   "children": [],
+   "end": "2179.200",
+   "id": "f000263",
+   "language": "en",
+   "lines": [
+    "We simply cannot ignore the fact that, in those cities today, we have 55% youth unemployment among black and Hispanic youth."
+   ]
+  },
+  {
+   "begin": "2179.200",
+   "children": [],
+   "end": "2179.900",
+   "id": "f000264",
+   "language": "en",
+   "lines": [
+    "And why is that?"
+   ]
+  },
+  {
+   "begin": "2179.900",
+   "children": [],
+   "end": "2180.520",
+   "id": "n000149",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2180.520",
+   "children": [],
+   "end": "2182.900",
+   "id": "f000265",
+   "language": "en",
+   "lines": [
+    "It's because they have lost their industry."
+   ]
+  },
+  {
+   "begin": "2182.900",
+   "children": [],
+   "end": "2183.680",
+   "id": "n000150",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2183.680",
+   "children": [],
+   "end": "2185.300",
+   "id": "f000266",
+   "language": "en",
+   "lines": [
+    "And why have they lost their industry?"
+   ]
+  },
+  {
+   "begin": "2185.300",
+   "children": [],
+   "end": "2194.420",
+   "id": "f000267",
+   "language": "en",
+   "lines": [
+    "It's because they no longer present the kind of viable economic climate that makes it possible for industry to remain there, or to locate there."
+   ]
+  },
+  {
+   "begin": "2194.420",
+   "children": [],
+   "end": "2206.560",
+   "id": "f000268",
+   "language": "en",
+   "lines": [
+    "I think Government has a responsibility to find jobs for the youth of this country, and that the place to start is to assist in the very important and necessary task of helping cities rebuild."
+   ]
+  },
+  {
+   "begin": "2206.560",
+   "children": [],
+   "end": "2207.920",
+   "id": "n000151",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2207.920",
+   "children": [],
+   "end": "2211.280",
+   "id": "f000269",
+   "language": "en",
+   "lines": [
+    "Jane Bryant Quinn has the next question, for you, Mr. Anderson."
+   ]
+  },
+  {
+   "begin": "2211.280",
+   "children": [],
+   "end": "2212.080",
+   "id": "n000152",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2212.080",
+   "children": [],
+   "end": "2218.360",
+   "id": "f000270",
+   "language": "en",
+   "lines": [
+    "Mr. Anderson, many voters are very worried that tax cuts, nice as they are, will actually add to inflation."
+   ]
+  },
+  {
+   "begin": "2218.360",
+   "children": [],
+   "end": "2218.920",
+   "id": "n000153",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2218.920",
+   "children": [],
+   "end": "2226.460",
+   "id": "f000271",
+   "language": "en",
+   "lines": [
+    "And many eminent conservatives have testified that even business tax cuts, as you have proposed, can be inflationary as long as we have a budget deficit."
+   ]
+  },
+  {
+   "begin": "2226.460",
+   "children": [],
+   "end": "2227.400",
+   "id": "n000154",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2227.400",
+   "children": [],
+   "end": "2235.200",
+   "id": "f000272",
+   "language": "en",
+   "lines": [
+    "Now, Mr. Reagan has mentioned that he put out a five-year economic forecast, which indeed he did, but it contained no inflation number."
+   ]
+  },
+  {
+   "begin": "2235.200",
+   "children": [],
+   "end": "2242.080",
+   "id": "f000273",
+   "language": "en",
+   "lines": [
+    "You have published a detailed program, but it too does not have any hard numbers on it about how these things work with inflation."
+   ]
+  },
+  {
+   "begin": "2242.080",
+   "children": [],
+   "end": "2260.720",
+   "id": "f000274",
+   "language": "en",
+   "lines": [
+    "So I would like to ask you, if you will commit to publish specific forecasts within two weeks, so that the voters can absorb them and understand them and analyze them, showing exactly what al these problems you've mentioned tonight - on energy, on defense, on the cities - how these impact on inflation, and what inflation's actually going to be over five years."
+   ]
+  },
+  {
+   "begin": "2260.720",
+   "children": [],
+   "end": "2261.960",
+   "id": "n000155",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2261.960",
+   "children": [],
+   "end": "2282.640",
+   "id": "f000275",
+   "language": "en",
+   "lines": [
+    "Miss Quinn, I would be very happy to accept the challenge of your question tonight, to tell the voters of this country exactly what I think it's going to cost, because I believe that all too often in past elections, politicians have simply been promising people things that they cannot deliver."
+   ]
+  },
+  {
+   "begin": "2282.640",
+   "children": [],
+   "end": "2297.680",
+   "id": "f000276",
+   "language": "en",
+   "lines": [
+    "When these Presidential Debates were held just four years ago, I remember the incumbent President, who was willing to debate, President Ford, telling the American people that they simply ought not to vote for somebody who promised more than they could deliver."
+   ]
+  },
+  {
+   "begin": "2297.680",
+   "children": [],
+   "end": "2299.780",
+   "id": "f000277",
+   "language": "en",
+   "lines": [
+    "Well, we've seen what has happened."
+   ]
+  },
+  {
+   "begin": "2299.780",
+   "children": [],
+   "end": "2300.520",
+   "id": "n000156",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2300.520",
+   "children": [],
+   "end": "2311.080",
+   "id": "f000278",
+   "language": "en",
+   "lines": [
+    "We haven't gotten either the economies in Government that were promised; we haven't gotten the 4% inflation that we were supposed to get at the end of Mr. Carter's first term."
+   ]
+  },
+  {
+   "begin": "2311.080",
+   "children": [],
+   "end": "2311.640",
+   "id": "n000157",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2311.640",
+   "children": [],
+   "end": "2317.560",
+   "id": "f000279",
+   "language": "en",
+   "lines": [
+    "Instead we had, I think, in the second quarter, a Consumer Price Index registering around 12%."
+   ]
+  },
+  {
+   "begin": "2317.560",
+   "children": [],
+   "end": "2325.120",
+   "id": "f000280",
+   "language": "en",
+   "lines": [
+    "And nobody really knows, with the latest increase in the Wholesale Price Index - that's about 18% on an annualized basis - what it's going to be."
+   ]
+  },
+  {
+   "begin": "2325.120",
+   "children": [],
+   "end": "2325.640",
+   "id": "n000158",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2325.640",
+   "children": [],
+   "end": "2326.440",
+   "id": "f000281",
+   "language": "en",
+   "lines": [
+    "Let me say this."
+   ]
+  },
+  {
+   "begin": "2326.440",
+   "children": [],
+   "end": "2331.400",
+   "id": "f000282",
+   "language": "en",
+   "lines": [
+    "I think my programs are far less inflationary than those of Governor Reagan."
+   ]
+  },
+  {
+   "begin": "2331.400",
+   "children": [],
+   "end": "2331.760",
+   "id": "n000159",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2331.760",
+   "children": [],
+   "end": "2346.240",
+   "id": "f000283",
+   "language": "en",
+   "lines": [
+    "His own running mate, when he was running for the Presidency, said that they would cost 30% inflation inside of two years, and he cited his leading economic advisor, a very distinguished economist, Paul Macavoy, as the source of that information."
+   ]
+  },
+  {
+   "begin": "2346.240",
+   "children": [],
+   "end": "2346.760",
+   "id": "n000160",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2346.760",
+   "children": [],
+   "end": "2348.900",
+   "id": "f000284",
+   "language": "en",
+   "lines": [
+    "He went so far as to call it \"brutal economics.\""
+   ]
+  },
+  {
+   "begin": "2348.900",
+   "children": [],
+   "end": "2349.400",
+   "id": "n000161",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2349.400",
+   "children": [],
+   "end": "2358.040",
+   "id": "f000285",
+   "language": "en",
+   "lines": [
+    "I've been very careful - I have been very careful in saying that what I'm going to do is to bring Federal spending under control first."
+   ]
+  },
+  {
+   "begin": "2358.040",
+   "children": [],
+   "end": "2358.560",
+   "id": "n000162",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2358.560",
+   "children": [],
+   "end": "2363.360",
+   "id": "f000286",
+   "language": "en",
+   "lines": [
+    "I would like to stand here and promise the American people a tax cut, as Governor Reagan has done."
+   ]
+  },
+  {
+   "begin": "2363.360",
+   "children": [],
+   "end": "2363.680",
+   "id": "n000163",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2363.680",
+   "children": [],
+   "end": "2366.480",
+   "id": "f000287",
+   "language": "en",
+   "lines": [
+    "But, you know, it's gotten to be about $122 difference."
+   ]
+  },
+  {
+   "begin": "2366.480",
+   "children": [],
+   "end": "2367.000",
+   "id": "n000164",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2367.000",
+   "children": [],
+   "end": "2368.920",
+   "id": "f000288",
+   "language": "en",
+   "lines": [
+    "Somebody worked it out."
+   ]
+  },
+  {
+   "begin": "2368.920",
+   "children": [],
+   "end": "2380.640",
+   "id": "f000289",
+   "language": "en",
+   "lines": [
+    "And they figured out that between the tax cut that Governor Reagan is promising the American people, and the tax cut that Jimmy Carter is promising in 198I, his is worth about $122 more."
+   ]
+  },
+  {
+   "begin": "2380.640",
+   "children": [],
+   "end": "2381.040",
+   "id": "n000165",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2381.040",
+   "children": [],
+   "end": "2387.120",
+   "id": "f000290",
+   "language": "en",
+   "lines": [
+    "So you, dear voters, are out there on the auction block, and these two candidates are bidding for your votes."
+   ]
+  },
+  {
+   "begin": "2387.120",
+   "children": [],
+   "end": "2387.520",
+   "id": "n000166",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2387.520",
+   "children": [],
+   "end": "2395.760",
+   "id": "f000291",
+   "language": "en",
+   "lines": [
+    "And one is going to give you $122 more if you happen to be in that range of about a $20,000-a-year income."
+   ]
+  },
+  {
+   "begin": "2395.760",
+   "children": [],
+   "end": "2396.240",
+   "id": "n000167",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2396.240",
+   "children": [],
+   "end": "2406.300",
+   "id": "f000292",
+   "language": "en",
+   "lines": [
+    "I'm going to wait until I see that that inflation rate is going down, before I even begin to phase in the business tax cuts that I've talked about."
+   ]
+  },
+  {
+   "begin": "2406.300",
+   "children": [],
+   "end": "2414.940",
+   "id": "f000293",
+   "language": "en",
+   "lines": [
+    "But I think, by improving productivity, they would be far less inflationary than the consumption-oriented tax cut that Governor Reagan is recommending."
+   ]
+  },
+  {
+   "begin": "2414.940",
+   "children": [],
+   "end": "2416.160",
+   "id": "n000168",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2416.160",
+   "children": [],
+   "end": "2417.080",
+   "id": "f000294",
+   "language": "en",
+   "lines": [
+    "Ms. Quinn."
+   ]
+  },
+  {
+   "begin": "2417.080",
+   "children": [],
+   "end": "2419.120",
+   "id": "f000295",
+   "language": "en",
+   "lines": [
+    "Mr. Anderson, I'll call you for that forecast."
+   ]
+  },
+  {
+   "begin": "2419.120",
+   "children": [],
+   "end": "2434.700",
+   "id": "f000296",
+   "language": "en",
+   "lines": [
+    "Mr. Reagan, will you publish specific forecasts within two weeks, so that the voters can have time to analyze and absorb them before the election, showing exactly what all these things you've discussed tonight - for energy, cities and defense - mean for inflation over the next five years?"
+   ]
+  },
+  {
+   "begin": "2434.700",
+   "children": [],
+   "end": "2437.060",
+   "id": "f000297",
+   "language": "en",
+   "lines": [
+    "Miss Quinn, I don't have to."
+   ]
+  },
+  {
+   "begin": "2437.060",
+   "children": [],
+   "end": "2437.320",
+   "id": "f000298",
+   "language": "en",
+   "lines": [
+    "I've done it."
+   ]
+  },
+  {
+   "begin": "2437.320",
+   "children": [],
+   "end": "2438.000",
+   "id": "n000169",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2438.000",
+   "children": [],
+   "end": "2444.180",
+   "id": "f000299",
+   "language": "en",
+   "lines": [
+    "We have a back-up paper to my economic speech of a couple of weeks ago in Chicago, that gives all of the figures."
+   ]
+  },
+  {
+   "begin": "2444.180",
+   "children": [],
+   "end": "2458.160",
+   "id": "f000300",
+   "language": "en",
+   "lines": [
+    "And we used - yes, we used - the Senate Budget Committee's projections for five years, which are based on an average inflation rate of 7.5% - which, I think, that under our plan, can be eliminated."
+   ]
+  },
+  {
+   "begin": "2458.160",
+   "children": [],
+   "end": "2465.400",
+   "id": "f000301",
+   "language": "en",
+   "lines": [
+    "And eliminated probably more quickly than our plan, but we wanted to be so conservative with it, that people would see how."
+   ]
+  },
+  {
+   "begin": "2465.400",
+   "children": [],
+   "end": "2465.880",
+   "id": "n000170",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2465.880",
+   "children": [],
+   "end": "2467.900",
+   "id": "f000302",
+   "language": "en",
+   "lines": [
+    "how well it could be done."
+   ]
+  },
+  {
+   "begin": "2467.900",
+   "children": [],
+   "end": "2470.400",
+   "id": "f000303",
+   "language": "en",
+   "lines": [
+    "Now, John's been in the Congress for 20 years."
+   ]
+  },
+  {
+   "begin": "2470.400",
+   "children": [],
+   "end": "2475.260",
+   "id": "f000304",
+   "language": "en",
+   "lines": [
+    "And John tells us that first, we've got to reduce spending before we can reduce taxes."
+   ]
+  },
+  {
+   "begin": "2475.260",
+   "children": [],
+   "end": "2476.240",
+   "id": "n000171",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2476.240",
+   "children": [],
+   "end": "2482.320",
+   "id": "f000305",
+   "language": "en",
+   "lines": [
+    "Well, if you've got a kid that's extravagant, you can lecture him all you want to about his extravagance."
+   ]
+  },
+  {
+   "begin": "2482.320",
+   "children": [],
+   "end": "2487.680",
+   "id": "f000306",
+   "language": "en",
+   "lines": [
+    "Or you can cut his allowance and achieve the same end much quicker."
+   ]
+  },
+  {
+   "begin": "2487.680",
+   "children": [],
+   "end": "2491.840",
+   "id": "f000307",
+   "language": "en",
+   "lines": [
+    "But Government has never reduced Government does not tax to get the money it needs."
+   ]
+  },
+  {
+   "begin": "2491.840",
+   "children": [],
+   "end": "2492.200",
+   "id": "n000172",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2492.200",
+   "children": [],
+   "end": "2493.920",
+   "id": "f000308",
+   "language": "en",
+   "lines": [
+    "Government always needs the money it gets."
+   ]
+  },
+  {
+   "begin": "2493.920",
+   "children": [],
+   "end": "2503.800",
+   "id": "f000309",
+   "language": "en",
+   "lines": [
+    "And when John talks about his non-inflationary plan, as far as I have been able to learn, there are 88 proposals in it that call for additional Government spending programs."
+   ]
+  },
+  {
+   "begin": "2503.800",
+   "children": [],
+   "end": "2504.720",
+   "id": "n000173",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2504.720",
+   "children": [],
+   "end": "2517.120",
+   "id": "f000310",
+   "language": "en",
+   "lines": [
+    "Now, I speak with some confidence of our plan, because I took over a state - California - 10% of the population of this nation - a state that, if it were a nation, would be the seventh-ranking economic power in the world."
+   ]
+  },
+  {
+   "begin": "2517.120",
+   "children": [],
+   "end": "2518.200",
+   "id": "n000174",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2518.200",
+   "children": [],
+   "end": "2521.500",
+   "id": "f000311",
+   "language": "en",
+   "lines": [
+    "And that state we controlled spending."
+   ]
+  },
+  {
+   "begin": "2521.500",
+   "children": [],
+   "end": "2523.940",
+   "id": "f000312",
+   "language": "en",
+   "lines": [
+    "We cut the rate of increase in spending in half."
+   ]
+  },
+  {
+   "begin": "2523.940",
+   "children": [],
+   "end": "2532.640",
+   "id": "f000313",
+   "language": "en",
+   "lines": [
+    "But at the same time, we gave back to the people of California - in tax rebates, tax credits, tax cuts - $5.7 billion."
+   ]
+  },
+  {
+   "begin": "2532.640",
+   "children": [],
+   "end": "2533.400",
+   "id": "n000175",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2533.400",
+   "children": [],
+   "end": "2537.960",
+   "id": "f000314",
+   "language": "en",
+   "lines": [
+    "I vetoed 993 measures without having a veto overturned."
+   ]
+  },
+  {
+   "begin": "2537.960",
+   "children": [],
+   "end": "2538.520",
+   "id": "n000176",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2538.520",
+   "children": [],
+   "end": "2543.320",
+   "id": "f000315",
+   "language": "en",
+   "lines": [
+    "And among those vetoes, I stopped $16 billion in additional spending."
+   ]
+  },
+  {
+   "begin": "2543.320",
+   "children": [],
+   "end": "2544.080",
+   "id": "n000177",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2544.080",
+   "children": [],
+   "end": "2556.680",
+   "id": "f000316",
+   "language": "en",
+   "lines": [
+    "And the funny thing was that California, which is normally above the national average in inflation and unemployment, for those six years for the first time, was below the national average in both inflation and unemployment."
+   ]
+  },
+  {
+   "begin": "2556.680",
+   "children": [],
+   "end": "2559.060",
+   "id": "f000317",
+   "language": "en",
+   "lines": [
+    "We have considered inflation in our figures."
+   ]
+  },
+  {
+   "begin": "2559.060",
+   "children": [],
+   "end": "2559.640",
+   "id": "n000178",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2559.640",
+   "children": [],
+   "end": "2564.140",
+   "id": "f000318",
+   "language": "en",
+   "lines": [
+    "We deliberately took figures that we, ourselves, believed were too conservative."
+   ]
+  },
+  {
+   "begin": "2564.140",
+   "children": [],
+   "end": "2578.640",
+   "id": "f000319",
+   "language": "en",
+   "lines": [
+    "I believe the budget can be balanced by 1982 or 1983, and it is a combination of planned reduction of the tax increase that Carter has built into the economy, and that's what he's counting on for his plan."
+   ]
+  },
+  {
+   "begin": "2578.640",
+   "children": [],
+   "end": "2579.240",
+   "id": "n000179",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2579.240",
+   "children": [],
+   "end": "2590.000",
+   "id": "f000320",
+   "language": "en",
+   "lines": [
+    "But he's going to get a half-a-trillion dollars more over the next five years that he can use for additional programs, or hopefully, someplace down the line, balancing the budget."
+   ]
+  },
+  {
+   "begin": "2590.000",
+   "children": [],
+   "end": "2593.680",
+   "id": "f000321",
+   "language": "en",
+   "lines": [
+    "We believe that that's too much additional money to take out of the pockets of the people."
+   ]
+  },
+  {
+   "begin": "2593.680",
+   "children": [],
+   "end": "2594.520",
+   "id": "n000180",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2594.520",
+   "children": [],
+   "end": "2595.080",
+   "id": "f000322",
+   "language": "en",
+   "lines": [
+    "Mr. Anderson."
+   ]
+  },
+  {
+   "begin": "2595.080",
+   "children": [],
+   "end": "2595.520",
+   "id": "n000181",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2595.520",
+   "children": [],
+   "end": "2598.800",
+   "id": "f000323",
+   "language": "en",
+   "lines": [
+    "Mr. Moyers, I'm not here to debate Governor Reagan's record as Governor."
+   ]
+  },
+  {
+   "begin": "2598.800",
+   "children": [],
+   "end": "2601.640",
+   "id": "f000324",
+   "language": "en",
+   "lines": [
+    "This is 1980 and not 1966."
+   ]
+  },
+  {
+   "begin": "2601.640",
+   "children": [],
+   "end": "2602.200",
+   "id": "n000182",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2602.200",
+   "children": [],
+   "end": "2614.180",
+   "id": "f000325",
+   "language": "en",
+   "lines": [
+    "But I do know that, despite his pledge to reduce state Government spending, that it rose from $4.6 billion when he took office in 1967, to $10.2 billion during his eight years in office."
+   ]
+  },
+  {
+   "begin": "2614.180",
+   "children": [],
+   "end": "2615.420",
+   "id": "f000326",
+   "language": "en",
+   "lines": [
+    "Spending, in other words."
+   ]
+  },
+  {
+   "begin": "2615.420",
+   "children": [],
+   "end": "2622.000",
+   "id": "f000327",
+   "language": "en",
+   "lines": [
+    "more than doubled, and it rose at a faster rate than spending was rising in the Federal Government."
+   ]
+  },
+  {
+   "begin": "2622.000",
+   "children": [],
+   "end": "2622.440",
+   "id": "n000183",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2622.440",
+   "children": [],
+   "end": "2639.200",
+   "id": "f000328",
+   "language": "en",
+   "lines": [
+    "But on his very optimistic figures about his tax cut producing a balanced budget by 1983, and the fact that he is using, he says, the figures of the Senate Budget Committee, that Senate Budget Committee Report does not accommodate all of the Reagan defense plans."
+   ]
+  },
+  {
+   "begin": "2639.200",
+   "children": [],
+   "end": "2639.640",
+   "id": "n000184",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2639.640",
+   "children": [],
+   "end": "2658.180",
+   "id": "f000329",
+   "language": "en",
+   "lines": [
+    "It doesn't accommodate the expenditures that he calls for, for accelerated development and deployment of a new manned strategic bomber, for a permanent fleet in the Indian Ocean, for the restoration of the fleet to 600 ships, to the development and deployment of a dedicated modern aircraft interceptor."
+   ]
+  },
+  {
+   "begin": "2658.180",
+   "children": [],
+   "end": "2658.600",
+   "id": "n000185",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2658.600",
+   "children": [],
+   "end": "2666.320",
+   "id": "f000330",
+   "language": "en",
+   "lines": [
+    "In other words, I have seen his program costed out to the point where it would amount to more than $300 million a year, just for the military."
+   ]
+  },
+  {
+   "begin": "2666.320",
+   "children": [],
+   "end": "2670.820",
+   "id": "f000331",
+   "language": "en",
+   "lines": [
+    "And I think the figures that he has given are simply not going to stand up."
+   ]
+  },
+  {
+   "begin": "2670.820",
+   "children": [],
+   "end": "2675.880",
+   "id": "f000332",
+   "language": "en",
+   "lines": [
+    "Would would you have a comment, Mr. Reagan?"
+   ]
+  },
+  {
+   "begin": "2675.880",
+   "children": [],
+   "end": "2679.520",
+   "id": "f000333",
+   "language": "en",
+   "lines": [
+    "Well, some people look up figures, and some people make up figures."
+   ]
+  },
+  {
+   "begin": "2679.520",
+   "children": [],
+   "end": "2680.160",
+   "id": "n000186",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2680.160",
+   "children": [],
+   "end": "2683.980",
+   "id": "f000334",
+   "language": "en",
+   "lines": [
+    "And John has just made up some very interesting figures."
+   ]
+  },
+  {
+   "begin": "2683.980",
+   "children": [],
+   "end": "2685.540",
+   "id": "f000335",
+   "language": "en",
+   "lines": [
+    "We took the Senate report, of course."
+   ]
+  },
+  {
+   "begin": "2685.540",
+   "children": [],
+   "end": "2686.240",
+   "id": "n000187",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2686.240",
+   "children": [],
+   "end": "2698.020",
+   "id": "f000336",
+   "language": "en",
+   "lines": [
+    "But we did factor in our own ideas with regard to increases in the projected military spending that we believe would, over a period of time, do what is necessary."
+   ]
+  },
+  {
+   "begin": "2698.020",
+   "children": [],
+   "end": "2699.160",
+   "id": "n000188",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2699.160",
+   "children": [],
+   "end": "2702.240",
+   "id": "f000337",
+   "language": "en",
+   "lines": [
+    "Now also, with regard to the figures about California."
+   ]
+  },
+  {
+   "begin": "2702.240",
+   "children": [],
+   "end": "2703.640",
+   "id": "n000189",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2703.640",
+   "children": [],
+   "end": "2709.120",
+   "id": "f000338",
+   "language": "en",
+   "lines": [
+    "The truth of the matter is, we did cut the increase in spending in half."
+   ]
+  },
+  {
+   "begin": "2709.120",
+   "children": [],
+   "end": "2710.760",
+   "id": "n000190",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2710.760",
+   "children": [],
+   "end": "2715.600",
+   "id": "f000339",
+   "language": "en",
+   "lines": [
+    "It at the John doesn't quite realize - he's never held an executive position of that kind."
+   ]
+  },
+  {
+   "begin": "2715.600",
+   "children": [],
+   "end": "2726.880",
+   "id": "f000340",
+   "language": "en",
+   "lines": [
+    "And I think being Governor of California is probably the closest thing to the Presidency, if that's possible, of any executive job in America today - because it is the most populous state."
+   ]
+  },
+  {
+   "begin": "2726.880",
+   "children": [],
+   "end": "2727.640",
+   "id": "n000191",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2727.640",
+   "children": [],
+   "end": "2740.760",
+   "id": "f000341",
+   "language": "en",
+   "lines": [
+    "And I can only tell him that we reduced, in proportion of other states, the per capita spending, the per capita size of Government - we only increased the size of Government one-twelfth what it had increased in the preceding eight years."
+   ]
+  },
+  {
+   "begin": "2740.760",
+   "children": [],
+   "end": "2741.560",
+   "id": "n000192",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2741.560",
+   "children": [],
+   "end": "2753.060",
+   "id": "f000342",
+   "language": "en",
+   "lines": [
+    "And one journal, the San Francisco Chronicle, a respected newspaper, said there was no question about the fact that Governor Reagan had prevented the State of California from going bankrupt."
+   ]
+  },
+  {
+   "begin": "2753.060",
+   "children": [],
+   "end": "2757.920",
+   "id": "f000343",
+   "language": "en",
+   "lines": [
+    "Our final question comes from Soma Golden, and it's directed to Mr. Reagan."
+   ]
+  },
+  {
+   "begin": "2757.920",
+   "children": [],
+   "end": "2759.360",
+   "id": "n000193",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2759.360",
+   "children": [],
+   "end": "2763.120",
+   "id": "f000344",
+   "language": "en",
+   "lines": [
+    "I'd like to switch the focus from inflation to God."
+   ]
+  },
+  {
+   "begin": "2763.120",
+   "children": [],
+   "end": "2768.720",
+   "id": "f000345",
+   "language": "en",
+   "lines": [
+    "This week, Cardinal Medeiros of Boston warned Catholics that it's sinful to vote for candidates who favor abortion."
+   ]
+  },
+  {
+   "begin": "2768.720",
+   "children": [],
+   "end": "2769.720",
+   "id": "n000194",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2769.720",
+   "children": [],
+   "end": "2775.360",
+   "id": "f000346",
+   "language": "en",
+   "lines": [
+    "This did not defeat the two men he opposed, but it did raise questions about the roles of church and state."
+   ]
+  },
+  {
+   "begin": "2775.360",
+   "children": [],
+   "end": "2776.080",
+   "id": "n000195",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2776.080",
+   "children": [],
+   "end": "2776.240",
+   "id": "f000347",
+   "language": "en",
+   "lines": [
+    "You."
+   ]
+  },
+  {
+   "begin": "2776.240",
+   "children": [],
+   "end": "2780.520",
+   "id": "f000348",
+   "language": "en",
+   "lines": [
+    "Mr. Reagan, have endorsed the participation of fundamentalist churches in your campaign."
+   ]
+  },
+  {
+   "begin": "2780.520",
+   "children": [],
+   "end": "2781.200",
+   "id": "n000196",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2781.200",
+   "children": [],
+   "end": "2788.740",
+   "id": "f000349",
+   "language": "en",
+   "lines": [
+    "And you, Mr. Anderson, have tried three times to amend the Constitution to recognize the, quote, \"law and authority,\" unquote, of Jesus Christ."
+   ]
+  },
+  {
+   "begin": "2788.740",
+   "children": [],
+   "end": "2789.760",
+   "id": "n000197",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2789.760",
+   "children": [],
+   "end": "2793.000",
+   "id": "f000350",
+   "language": "en",
+   "lines": [
+    "My question: Do you approve of the Church's actions this week in Boston?"
+   ]
+  },
+  {
+   "begin": "2793.000",
+   "children": [],
+   "end": "2793.880",
+   "id": "n000198",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2793.880",
+   "children": [],
+   "end": "2800.320",
+   "id": "f000351",
+   "language": "en",
+   "lines": [
+    "And should a President be guided by organized religion on issues like abortion, equal rights, and defense spending?"
+   ]
+  },
+  {
+   "begin": "2800.320",
+   "children": [],
+   "end": "2802.960",
+   "id": "n000199",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2802.960",
+   "children": [],
+   "end": "2803.240",
+   "id": "f000352",
+   "language": "en",
+   "lines": [
+    "Mr. Reagan."
+   ]
+  },
+  {
+   "begin": "2803.240",
+   "children": [],
+   "end": "2803.440",
+   "id": "f000353",
+   "language": "en",
+   "lines": [
+    "Mr. Reagan."
+   ]
+  },
+  {
+   "begin": "2803.440",
+   "children": [],
+   "end": "2806.600",
+   "id": "f000354",
+   "language": "en",
+   "lines": [
+    "Oh, I'm it's my question."
+   ]
+  },
+  {
+   "begin": "2806.600",
+   "children": [],
+   "end": "2829.880",
+   "id": "f000355",
+   "language": "en",
+   "lines": [
+    "But whether I agree or disagree with some individual, or what he may say, or how he may say it, I don't think there's any way that we can suggest that because people believe in God and go to church, that they should not want reflected in those people and those causes they support, their own belief in morality, and in the high traditions and principles which we've abandoned so much in this country."
+   ]
+  },
+  {
+   "begin": "2829.880",
+   "children": [],
+   "end": "2830.960",
+   "id": "n000200",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2830.960",
+   "children": [],
+   "end": "2838.240",
+   "id": "f000356",
+   "language": "en",
+   "lines": [
+    "Going around this country, I think that I have found a great hunger in America for a spiritual revival."
+   ]
+  },
+  {
+   "begin": "2838.240",
+   "children": [],
+   "end": "2841.520",
+   "id": "f000357",
+   "language": "en",
+   "lines": [
+    "For a belief that law must be based on a higher law."
+   ]
+  },
+  {
+   "begin": "2841.520",
+   "children": [],
+   "end": "2845.860",
+   "id": "f000358",
+   "language": "en",
+   "lines": [
+    "For a return to traditions and values that we once had."
+   ]
+  },
+  {
+   "begin": "2845.860",
+   "children": [],
+   "end": "2854.900",
+   "id": "f000359",
+   "language": "en",
+   "lines": [
+    "Our Government, in its most sacred documents - the Constitution and the Declaration of Independence and all - speak of man being created, of a Creator."
+   ]
+  },
+  {
+   "begin": "2854.900",
+   "children": [],
+   "end": "2855.720",
+   "id": "n000201",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2855.720",
+   "children": [],
+   "end": "2857.000",
+   "id": "f000360",
+   "language": "en",
+   "lines": [
+    "That we're a nation under God."
+   ]
+  },
+  {
+   "begin": "2857.000",
+   "children": [],
+   "end": "2857.960",
+   "id": "n000202",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2857.960",
+   "children": [],
+   "end": "2882.440",
+   "id": "f000361",
+   "language": "en",
+   "lines": [
+    "Now, I have thought for a long time that too many of our churches have been too reluctant to speak up in behalf of what they believe is proper in Government, and they have been too too lax in interfering, in recent years, with Government's invasion of the family itself, putting itself between parent and child."
+   ]
+  },
+  {
+   "begin": "2882.440",
+   "children": [],
+   "end": "2883.920",
+   "id": "n000203",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2883.920",
+   "children": [],
+   "end": "2887.440",
+   "id": "f000362",
+   "language": "en",
+   "lines": [
+    "I vetoed a number of bills of that kind myself, when I was in California."
+   ]
+  },
+  {
+   "begin": "2887.440",
+   "children": [],
+   "end": "2888.320",
+   "id": "n000204",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2888.320",
+   "children": [],
+   "end": "2895.440",
+   "id": "f000363",
+   "language": "en",
+   "lines": [
+    "Now, whether it is rightful, on a single issue, for anyone to advocate that someone should not be elected or not, I won't take a position on that."
+   ]
+  },
+  {
+   "begin": "2895.440",
+   "children": [],
+   "end": "2896.160",
+   "id": "n000205",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2896.160",
+   "children": [],
+   "end": "2906.920",
+   "id": "f000364",
+   "language": "en",
+   "lines": [
+    "But I do believe that no one in this country should be denied the right to express themselves, or to even try to persuade others to follow their leader."
+   ]
+  },
+  {
+   "begin": "2906.920",
+   "children": [],
+   "end": "2909.080",
+   "id": "f000365",
+   "language": "en",
+   "lines": [
+    "That's what elections are all about."
+   ]
+  },
+  {
+   "begin": "2909.080",
+   "children": [],
+   "end": "2911.120",
+   "id": "n000206",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2911.120",
+   "children": [],
+   "end": "2913.720",
+   "id": "f000366",
+   "language": "en",
+   "lines": [
+    "Ms. Golden."
+   ]
+  },
+  {
+   "begin": "2913.720",
+   "children": [],
+   "end": "2914.000",
+   "id": "f000367",
+   "language": "en",
+   "lines": [
+    "Okay."
+   ]
+  },
+  {
+   "begin": "2914.000",
+   "children": [],
+   "end": "2921.320",
+   "id": "f000368",
+   "language": "en",
+   "lines": [
+    "I would point out that churches are tax-exempt institutions, and I'll repeat my question."
+   ]
+  },
+  {
+   "begin": "2921.320",
+   "children": [],
+   "end": "2930.080",
+   "id": "f000369",
+   "language": "en",
+   "lines": [
+    "Do you approve the Church's action this week in Boston, and should a President be guided by organized religion on issues like abortion, equal rights and defense spending?"
+   ]
+  },
+  {
+   "begin": "2930.080",
+   "children": [],
+   "end": "2930.960",
+   "id": "n000207",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2930.960",
+   "children": [],
+   "end": "2937.080",
+   "id": "f000370",
+   "language": "en",
+   "lines": [
+    "Ms. Golden, certainly the church has the right to take a position on moral issues."
+   ]
+  },
+  {
+   "begin": "2937.080",
+   "children": [],
+   "end": "2954.460",
+   "id": "f000371",
+   "language": "en",
+   "lines": [
+    "But to try, as occurred in the case that you mentioned - that specific case - to try to tell the parishioners of any church, of any denomination, how they should vote, or for whom they should vote, I think violates the principle of separation of church and state."
+   ]
+  },
+  {
+   "begin": "2954.460",
+   "children": [],
+   "end": "2960.840",
+   "id": "f000372",
+   "language": "en",
+   "lines": [
+    "Now, Governor Reagan is running on a platform that calls for a Constitutional amendment banning abortion."
+   ]
+  },
+  {
+   "begin": "2960.840",
+   "children": [],
+   "end": "2965.700",
+   "id": "f000373",
+   "language": "en",
+   "lines": [
+    "I think that is a moral issue that ought to be left to the freedom of conscience of the individual."
+   ]
+  },
+  {
+   "begin": "2965.700",
+   "children": [],
+   "end": "2981.000",
+   "id": "f000374",
+   "language": "en",
+   "lines": [
+    "And for the state to interfere with a Constitutional amendment, and tell a woman that she must carry that pregnancy to term, regardless of her personal belief, that, I think, violates freedom of conscience as much as anything that I can think of."
+   ]
+  },
+  {
+   "begin": "2981.000",
+   "children": [],
+   "end": "2981.520",
+   "id": "n000208",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "2981.520",
+   "children": [],
+   "end": "3000.320",
+   "id": "f000375",
+   "language": "en",
+   "lines": [
+    "And he is also running on a platform that suggests a litmus test for the selection of judges - that only judges that hold a certain, quote, \"view,\" on the sanctity of family life, ought to be appointed to the Federal Judiciary, one of the three great independent branches of our Government."
+   ]
+  },
+  {
+   "begin": "3000.320",
+   "children": [],
+   "end": "3000.480",
+   "id": "f000376",
+   "language": "en",
+   "lines": [
+    "No."
+   ]
+  },
+  {
+   "begin": "3000.480",
+   "children": [],
+   "end": "3002.420",
+   "id": "f000377",
+   "language": "en",
+   "lines": [
+    "I believe in freedom of choice."
+   ]
+  },
+  {
+   "begin": "3002.420",
+   "children": [],
+   "end": "3005.880",
+   "id": "f000378",
+   "language": "en",
+   "lines": [
+    "I don't believe in Constitutional Amendments that would interfere with that."
+   ]
+  },
+  {
+   "begin": "3005.880",
+   "children": [],
+   "end": "3006.360",
+   "id": "n000209",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3006.360",
+   "children": [],
+   "end": "3012.320",
+   "id": "f000379",
+   "language": "en",
+   "lines": [
+    "I don't believe in trying to legislate new tests for the selection of the Federal Judiciary."
+   ]
+  },
+  {
+   "begin": "3012.320",
+   "children": [],
+   "end": "3012.840",
+   "id": "n000210",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3012.840",
+   "children": [],
+   "end": "3016.060",
+   "id": "f000380",
+   "language": "en",
+   "lines": [
+    "On the Amendment that you mentioned, I abandoned it 15 years ago."
+   ]
+  },
+  {
+   "begin": "3016.060",
+   "children": [],
+   "end": "3016.920",
+   "id": "n000211",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3016.920",
+   "children": [],
+   "end": "3033.180",
+   "id": "f000381",
+   "language": "en",
+   "lines": [
+    "And I have said freely, all over this country, that it was a mistake for me or anyone to ever try to put the Judeo-Christian heritage of this country, important as it is, and important as my religious faith is to me - it's a very deeply personal matter."
+   ]
+  },
+  {
+   "begin": "3033.180",
+   "children": [],
+   "end": "3033.680",
+   "id": "n000212",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3033.680",
+   "children": [],
+   "end": "3042.560",
+   "id": "f000382",
+   "language": "en",
+   "lines": [
+    "But for me to try, in this very pluralistic society of ours, to try to frame any definition, whatever, of what that belief should be, is wrong."
+   ]
+  },
+  {
+   "begin": "3042.560",
+   "children": [],
+   "end": "3043.080",
+   "id": "n000213",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3043.080",
+   "children": [],
+   "end": "3055.960",
+   "id": "f000383",
+   "language": "en",
+   "lines": [
+    "And so, not once, but twice - in 1971 - I voted on the floor of the House of Representatives against a Constitutional amendment that tried to bring prayer back into the public schools."
+   ]
+  },
+  {
+   "begin": "3055.960",
+   "children": [],
+   "end": "3056.400",
+   "id": "n000214",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3056.400",
+   "children": [],
+   "end": "3065.840",
+   "id": "f000384",
+   "language": "en",
+   "lines": [
+    "I think mother ought to whisper to Johnny and to Susie, as they button their coats in the morning and leave for the classroom, \"Be sure to say a prayer before you start your day's work.\""
+   ]
+  },
+  {
+   "begin": "3065.840",
+   "children": [],
+   "end": "3066.280",
+   "id": "n000215",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3066.280",
+   "children": [],
+   "end": "3075.640",
+   "id": "f000385",
+   "language": "en",
+   "lines": [
+    "But I don't think that the state, the Board of Regents, a Board of Education, or any state official, should try to compose that prayer for a child to recite."
+   ]
+  },
+  {
+   "begin": "3075.640",
+   "children": [],
+   "end": "3076.800",
+   "id": "n000216",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3076.800",
+   "children": [],
+   "end": "3078.400",
+   "id": "f000386",
+   "language": "en",
+   "lines": [
+    "Mr. Reagan."
+   ]
+  },
+  {
+   "begin": "3078.400",
+   "children": [],
+   "end": "3086.600",
+   "id": "f000387",
+   "language": "en",
+   "lines": [
+    "The litmus test that John says is in the Republican platform, says no more than the judges to be appointed should have a respect for innocent life."
+   ]
+  },
+  {
+   "begin": "3086.600",
+   "children": [],
+   "end": "3087.720",
+   "id": "n000217",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3087.720",
+   "children": [],
+   "end": "3089.800",
+   "id": "f000388",
+   "language": "en",
+   "lines": [
+    "Now, I don't think that's a bad idea."
+   ]
+  },
+  {
+   "begin": "3089.800",
+   "children": [],
+   "end": "3093.320",
+   "id": "f000389",
+   "language": "en",
+   "lines": [
+    "I think all of us should have a respect for innocent life."
+   ]
+  },
+  {
+   "begin": "3093.320",
+   "children": [],
+   "end": "3101.240",
+   "id": "f000390",
+   "language": "en",
+   "lines": [
+    "With regard to the freedom of the individual for choice with regard to abortion, there's one individual who's not being considered at all."
+   ]
+  },
+  {
+   "begin": "3101.240",
+   "children": [],
+   "end": "3102.200",
+   "id": "n000218",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3102.200",
+   "children": [],
+   "end": "3104.940",
+   "id": "f000391",
+   "language": "en",
+   "lines": [
+    "That's the one who is being aborted."
+   ]
+  },
+  {
+   "begin": "3104.940",
+   "children": [],
+   "end": "3114.440",
+   "id": "f000392",
+   "language": "en",
+   "lines": [
+    "And I've noticed that everybody that is for abortion has already been born."
+   ]
+  },
+  {
+   "begin": "3114.440",
+   "children": [],
+   "end": "3116.200",
+   "id": "n000219",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3116.200",
+   "children": [],
+   "end": "3137.340",
+   "id": "f000393",
+   "language": "en",
+   "lines": [
+    "I I think that, technically, I know this is a difficult and an emotional problem, and many people sincerely feel on both sides of this, but I do believe that maybe we could find the answer through medical evidence, if we would determine once and for all, is an unborn child a human being?"
+   ]
+  },
+  {
+   "begin": "3137.340",
+   "children": [],
+   "end": "3137.680",
+   "id": "f000394",
+   "language": "en",
+   "lines": [
+    "I happen to believe it is."
+   ]
+  },
+  {
+   "begin": "3137.680",
+   "children": [],
+   "end": "3138.400",
+   "id": "n000220",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3138.400",
+   "children": [],
+   "end": "3138.560",
+   "id": "f000395",
+   "language": "en",
+   "lines": [
+    "Mr. Anderson."
+   ]
+  },
+  {
+   "begin": "3138.560",
+   "children": [],
+   "end": "3142.260",
+   "id": "f000396",
+   "language": "en",
+   "lines": [
+    "I also think that that unborn child has a right to be wanted."
+   ]
+  },
+  {
+   "begin": "3142.260",
+   "children": [],
+   "end": "3143.160",
+   "id": "n000221",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3143.160",
+   "children": [],
+   "end": "3157.080",
+   "id": "f000397",
+   "language": "en",
+   "lines": [
+    "And I also believe, sir, that the most personal intimate decision that any woman is ever called upon to make is the decision as to whether or not she shall carry a pregnancy to term."
+   ]
+  },
+  {
+   "begin": "3157.080",
+   "children": [],
+   "end": "3157.840",
+   "id": "n000222",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3157.840",
+   "children": [],
+   "end": "3197.080",
+   "id": "f000398",
+   "language": "en",
+   "lines": [
+    "And for the state to interfere in that decision, under whatever guise, and with whatever rationale, for the state to try to take over in that situation, and by edict, command what the individual shall do, and substitute itself for that individual's conscience, for her right to consult her rabbi, her minister, her priest, her doctor - any other counselor of her choice - I think goes beyond what we want to ever see accomplished in this country, if we really believe in the First Amendment: if we really believe in freedom of choice and the right of the individual."
+   ]
+  },
+  {
+   "begin": "3197.080",
+   "children": [],
+   "end": "3201.640",
+   "id": "f000399",
+   "language": "en",
+   "lines": [
+    "Mr. Reagan you now have three minutes for closing remarks."
+   ]
+  },
+  {
+   "begin": "3201.640",
+   "children": [],
+   "end": "3203.280",
+   "id": "n000223",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3203.280",
+   "children": [],
+   "end": "3217.880",
+   "id": "f000400",
+   "language": "en",
+   "lines": [
+    "Before beginning my closing remarks, here, I would just like to remark a concern that I have that we have criticized the failures of the Carter policy here rather considerably, both of us this evening."
+   ]
+  },
+  {
+   "begin": "3217.880",
+   "children": [],
+   "end": "3218.760",
+   "id": "n000224",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3218.760",
+   "children": [],
+   "end": "3223.600",
+   "id": "f000401",
+   "language": "en",
+   "lines": [
+    "And there might be some feeling of unfairness about this because he was not here to respond."
+   ]
+  },
+  {
+   "begin": "3223.600",
+   "children": [],
+   "end": "3224.560",
+   "id": "n000225",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3224.560",
+   "children": [],
+   "end": "3231.960",
+   "id": "f000402",
+   "language": "en",
+   "lines": [
+    "But I believe it would have been much more unfair to have had John Anderson denied the right to participate in this debate."
+   ]
+  },
+  {
+   "begin": "3231.960",
+   "children": [],
+   "end": "3232.640",
+   "id": "n000226",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3232.640",
+   "children": [],
+   "end": "3241.520",
+   "id": "f000403",
+   "language": "en",
+   "lines": [
+    "And I want to express my appreciation to the League of Women Voters for adopting a course with which I believe the great majority of Americans are in agreement."
+   ]
+  },
+  {
+   "begin": "3241.520",
+   "children": [],
+   "end": "3243.040",
+   "id": "n000227",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3243.040",
+   "children": [],
+   "end": "3252.840",
+   "id": "f000404",
+   "language": "en",
+   "lines": [
+    "Now, as to my closing remarks: I've always believed that this land was placed here between the two great oceans by some divine plan."
+   ]
+  },
+  {
+   "begin": "3252.840",
+   "children": [],
+   "end": "3253.840",
+   "id": "n000228",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3253.840",
+   "children": [],
+   "end": "3268.720",
+   "id": "f000405",
+   "language": "en",
+   "lines": [
+    "That it was placed here to be found by a special kind of people - people who had a special love for freedom and who had the courage to uproot themselves and leave hearth and homeland, and came to what, in the beginning, was the most undeveloped wilderness possible."
+   ]
+  },
+  {
+   "begin": "3268.720",
+   "children": [],
+   "end": "3269.880",
+   "id": "n000229",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3269.880",
+   "children": [],
+   "end": "3273.960",
+   "id": "f000406",
+   "language": "en",
+   "lines": [
+    "We came from 100 different corners of the earth."
+   ]
+  },
+  {
+   "begin": "3273.960",
+   "children": [],
+   "end": "3274.520",
+   "id": "n000230",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3274.520",
+   "children": [],
+   "end": "3277.640",
+   "id": "f000407",
+   "language": "en",
+   "lines": [
+    "We spoke a multitude of tongues."
+   ]
+  },
+  {
+   "begin": "3277.640",
+   "children": [],
+   "end": "3287.560",
+   "id": "f000408",
+   "language": "en",
+   "lines": [
+    "We landed on this Eastern shore and then went out over the mountains and the prairies and the deserts and the far western mountains to the Pacific, building cities and towns and farms, and schools and churches."
+   ]
+  },
+  {
+   "begin": "3287.560",
+   "children": [],
+   "end": "3289.040",
+   "id": "n000231",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3289.040",
+   "children": [],
+   "end": "3292.800",
+   "id": "f000409",
+   "language": "en",
+   "lines": [
+    "If wind, water or fire destroyed them, we built them again."
+   ]
+  },
+  {
+   "begin": "3292.800",
+   "children": [],
+   "end": "3304.440",
+   "id": "f000410",
+   "language": "en",
+   "lines": [
+    "And in so doing, at the same time, we built a new breed of human called an American - a proud, an independent., and a most compassionate individual, for the most part."
+   ]
+  },
+  {
+   "begin": "3304.440",
+   "children": [],
+   "end": "3306.240",
+   "id": "n000232",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3306.240",
+   "children": [],
+   "end": "3316.880",
+   "id": "f000411",
+   "language": "en",
+   "lines": [
+    "Two hundred years ago, Tom Paine, when the 13 tiny colonies were trying to become a nation, said, we have it in our power to begin the world over again."
+   ]
+  },
+  {
+   "begin": "3316.880",
+   "children": [],
+   "end": "3317.760",
+   "id": "n000233",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3317.760",
+   "children": [],
+   "end": "3318.040",
+   "id": "f000412",
+   "language": "en",
+   "lines": [
+    "Today."
+   ]
+  },
+  {
+   "begin": "3318.040",
+   "children": [],
+   "end": "3322.940",
+   "id": "f000413",
+   "language": "en",
+   "lines": [
+    "we're confronted with the horrendous problems that we've discussed here tonight."
+   ]
+  },
+  {
+   "begin": "3322.940",
+   "children": [],
+   "end": "3328.360",
+   "id": "f000414",
+   "language": "en",
+   "lines": [
+    "And some people in high positions of leadership, tell us that the answer is to retreat."
+   ]
+  },
+  {
+   "begin": "3328.360",
+   "children": [],
+   "end": "3329.320",
+   "id": "n000234",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3329.320",
+   "children": [],
+   "end": "3330.540",
+   "id": "f000415",
+   "language": "en",
+   "lines": [
+    "That the best is over."
+   ]
+  },
+  {
+   "begin": "3330.540",
+   "children": [],
+   "end": "3331.360",
+   "id": "n000235",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3331.360",
+   "children": [],
+   "end": "3332.360",
+   "id": "f000416",
+   "language": "en",
+   "lines": [
+    "That we must cut back."
+   ]
+  },
+  {
+   "begin": "3332.360",
+   "children": [],
+   "end": "3332.800",
+   "id": "n000236",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3332.800",
+   "children": [],
+   "end": "3335.000",
+   "id": "f000417",
+   "language": "en",
+   "lines": [
+    "That we must share in an ever-increasing scarcity."
+   ]
+  },
+  {
+   "begin": "3335.000",
+   "children": [],
+   "end": "3342.740",
+   "id": "f000418",
+   "language": "en",
+   "lines": [
+    "That we must, in the failure to be able to protect our national security as it is today, we must not be provocative to any possible adversary."
+   ]
+  },
+  {
+   "begin": "3342.740",
+   "children": [],
+   "end": "3349.000",
+   "id": "f000419",
+   "language": "en",
+   "lines": [
+    "Well, we, the living Americans, have gone through four wars."
+   ]
+  },
+  {
+   "begin": "3349.000",
+   "children": [],
+   "end": "3349.920",
+   "id": "n000237",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3349.920",
+   "children": [],
+   "end": "3355.500",
+   "id": "f000420",
+   "language": "en",
+   "lines": [
+    "We've gone through a Great Depression in our lifetime that literally was worldwide and almost brought us to our knees."
+   ]
+  },
+  {
+   "begin": "3355.500",
+   "children": [],
+   "end": "3360.240",
+   "id": "f000421",
+   "language": "en",
+   "lines": [
+    "But we came through all of those things and we achieved even new heights and new greatness."
+   ]
+  },
+  {
+   "begin": "3360.240",
+   "children": [],
+   "end": "3362.240",
+   "id": "n000238",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3362.240",
+   "children": [],
+   "end": "3372.000",
+   "id": "f000422",
+   "language": "en",
+   "lines": [
+    "The living Americans today have fought harder, paid a higher price for freedom, and done more to advance the dignity of man than any people who ever lived on this earth."
+   ]
+  },
+  {
+   "begin": "3372.000",
+   "children": [],
+   "end": "3378.880",
+   "id": "f000423",
+   "language": "en",
+   "lines": [
+    "For 200 years, we've lived in the future, believing that tomorrow would be better than today, and today would be better than yesterday."
+   ]
+  },
+  {
+   "begin": "3378.880",
+   "children": [],
+   "end": "3379.440",
+   "id": "n000239",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3379.440",
+   "children": [],
+   "end": "3380.320",
+   "id": "f000424",
+   "language": "en",
+   "lines": [
+    "I still believe that."
+   ]
+  },
+  {
+   "begin": "3380.320",
+   "children": [],
+   "end": "3381.640",
+   "id": "n000240",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3381.640",
+   "children": [],
+   "end": "3386.200",
+   "id": "f000425",
+   "language": "en",
+   "lines": [
+    "I'm not running for the Presidency because I believe that I can solve the problems we've discussed tonight."
+   ]
+  },
+  {
+   "begin": "3386.200",
+   "children": [],
+   "end": "3387.160",
+   "id": "n000241",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3387.160",
+   "children": [],
+   "end": "3392.240",
+   "id": "f000426",
+   "language": "en",
+   "lines": [
+    "I believe the people of this country can, and together, we can begin the world over again."
+   ]
+  },
+  {
+   "begin": "3392.240",
+   "children": [],
+   "end": "3392.880",
+   "id": "n000242",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3392.880",
+   "children": [],
+   "end": "3402.360",
+   "id": "f000427",
+   "language": "en",
+   "lines": [
+    "We can meet our destiny - and that destiny to build a land here that will be, for all mankind, a shining city on a hill."
+   ]
+  },
+  {
+   "begin": "3402.360",
+   "children": [],
+   "end": "3403.280",
+   "id": "n000243",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3403.280",
+   "children": [],
+   "end": "3404.220",
+   "id": "f000428",
+   "language": "en",
+   "lines": [
+    "I think we ought to get at it."
+   ]
+  },
+  {
+   "begin": "3404.220",
+   "children": [],
+   "end": "3405.360",
+   "id": "n000244",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3405.360",
+   "children": [],
+   "end": "3407.300",
+   "id": "f000429",
+   "language": "en",
+   "lines": [
+    "Mr. Anderson, you have the final three minutes."
+   ]
+  },
+  {
+   "begin": "3407.300",
+   "children": [],
+   "end": "3408.440",
+   "id": "n000245",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3408.440",
+   "children": [],
+   "end": "3418.060",
+   "id": "f000430",
+   "language": "en",
+   "lines": [
+    "Mr. Movers, President Carter was not right a few weeks ago when he said that the American people were confronted with only two choices, with only two men, and with only two parties."
+   ]
+  },
+  {
+   "begin": "3418.060",
+   "children": [],
+   "end": "3418.920",
+   "id": "n000246",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3418.920",
+   "children": [],
+   "end": "3427.840",
+   "id": "f000431",
+   "language": "en",
+   "lines": [
+    "I think you've seen tonight in this debate that Governor Reagan and I have agreed on exactly one thing - we are both against the reimposition of a peacetime draft."
+   ]
+  },
+  {
+   "begin": "3427.840",
+   "children": [],
+   "end": "3428.320",
+   "id": "n000247",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3428.320",
+   "children": [],
+   "end": "3432.280",
+   "id": "f000432",
+   "language": "en",
+   "lines": [
+    "We have disagreed, I believe, on virtually every other issue."
+   ]
+  },
+  {
+   "begin": "3432.280",
+   "children": [],
+   "end": "3432.800",
+   "id": "n000248",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3432.800",
+   "children": [],
+   "end": "3440.060",
+   "id": "f000433",
+   "language": "en",
+   "lines": [
+    "I respect him for showing tonight - for appearing here, and I thank the League of Women Voters for the opportunity that they have given me."
+   ]
+  },
+  {
+   "begin": "3440.060",
+   "children": [],
+   "end": "3446.040",
+   "id": "f000434",
+   "language": "en",
+   "lines": [
+    "I am running for President as an Independent because I believe our country is in trouble."
+   ]
+  },
+  {
+   "begin": "3446.040",
+   "children": [],
+   "end": "3451.040",
+   "id": "f000435",
+   "language": "en",
+   "lines": [
+    "I believe that all of us are going to have to begin to work together to solve our problems."
+   ]
+  },
+  {
+   "begin": "3451.040",
+   "children": [],
+   "end": "3456.400",
+   "id": "f000436",
+   "language": "en",
+   "lines": [
+    "If you think that I am a spoiler, consider these facts: Do you really think that our economy is healthy?"
+   ]
+  },
+  {
+   "begin": "3456.400",
+   "children": [],
+   "end": "3457.000",
+   "id": "n000249",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3457.000",
+   "children": [],
+   "end": "3464.560",
+   "id": "f000437",
+   "language": "en",
+   "lines": [
+    "Do you really think that 8 million Americans being out of work and the 50% unemployment among the youth of our country are acceptable?"
+   ]
+  },
+  {
+   "begin": "3464.560",
+   "children": [],
+   "end": "3465.120",
+   "id": "n000250",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3465.120",
+   "children": [],
+   "end": "3472.980",
+   "id": "f000438",
+   "language": "en",
+   "lines": [
+    "Do you really think that our armed forces are really acceptably strong in those areas of conventional capability where they should be?"
+   ]
+  },
+  {
+   "begin": "3472.980",
+   "children": [],
+   "end": "3480.400",
+   "id": "f000439",
+   "language": "en",
+   "lines": [
+    "Do you think that our political institutions are working the way they should when literally only half of our citizens vote?"
+   ]
+  },
+  {
+   "begin": "3480.400",
+   "children": [],
+   "end": "3481.280",
+   "id": "n000251",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3481.280",
+   "children": [],
+   "end": "3482.240",
+   "id": "f000440",
+   "language": "en",
+   "lines": [
+    "I don't think you do think that."
+   ]
+  },
+  {
+   "begin": "3482.240",
+   "children": [],
+   "end": "3482.920",
+   "id": "n000252",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3482.920",
+   "children": [],
+   "end": "3488.460",
+   "id": "f000441",
+   "language": "en",
+   "lines": [
+    "And therefore, I think you ought to consider doing something about it, and voting for an Independent in 1980."
+   ]
+  },
+  {
+   "begin": "3488.460",
+   "children": [],
+   "end": "3493.980",
+   "id": "f000442",
+   "language": "en",
+   "lines": [
+    "You know, a generation of office seekers has tried to tell the American people that they could get something for nothing."
+   ]
+  },
+  {
+   "begin": "3493.980",
+   "children": [],
+   "end": "3494.920",
+   "id": "n000253",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3494.920",
+   "children": [],
+   "end": "3501.260",
+   "id": "f000443",
+   "language": "en",
+   "lines": [
+    "It's been a time, therefore, of illusion and false hopes, and the longer it continues, the more dangerous it becomes."
+   ]
+  },
+  {
+   "begin": "3501.260",
+   "children": [],
+   "end": "3503.100",
+   "id": "f000444",
+   "language": "en",
+   "lines": [
+    "We've got to stop drifting."
+   ]
+  },
+  {
+   "begin": "3503.100",
+   "children": [],
+   "end": "3510.600",
+   "id": "f000445",
+   "language": "en",
+   "lines": [
+    "What I wish tonight so desperately is that we had had more time to talk about some of the other issues that are so fundamentally important."
+   ]
+  },
+  {
+   "begin": "3510.600",
+   "children": [],
+   "end": "3517.440",
+   "id": "f000446",
+   "language": "en",
+   "lines": [
+    "A great historian, Henry Steele Commager, said that in their lust for victory, neither traditional party is looking beyond November."
+   ]
+  },
+  {
+   "begin": "3517.440",
+   "children": [],
+   "end": "3529.080",
+   "id": "f000447",
+   "language": "en",
+   "lines": [
+    "And he went on to cite three issues that their platforms totally ignore: atomic warfare, Presidential Directive 59 notwithstanding."
+   ]
+  },
+  {
+   "begin": "3529.080",
+   "children": [],
+   "end": "3532.560",
+   "id": "f000448",
+   "language": "en",
+   "lines": [
+    "If we don't resolve that issue, all others become irrelevant."
+   ]
+  },
+  {
+   "begin": "3532.560",
+   "children": [],
+   "end": "3539.540",
+   "id": "f000449",
+   "language": "en",
+   "lines": [
+    "The issue of our natural resources; the right of posterity to inherit the earth, and what kind of earth will it be?"
+   ]
+  },
+  {
+   "begin": "3539.540",
+   "children": [],
+   "end": "3560.160",
+   "id": "f000450",
+   "language": "en",
+   "lines": [
+    "The issue of nationalism - the recognition, he says, that every major problem confronting us is global, and cannot be solved by nationalism here or elsewhere - that is chauvinistic, that is parochial, that is as anachronistic as states' rights was in the days of Jefferson Davis."
+   ]
+  },
+  {
+   "begin": "3560.160",
+   "children": [],
+   "end": "3560.720",
+   "id": "n000254",
+   "language": null,
+   "lines": [
+    "(SILENCE)"
+   ]
+  },
+  {
+   "begin": "3560.720",
+   "children": [],
+   "end": "3589.840",
+   "id": "f000451",
+   "language": "en",
+   "lines": [
+    "Those are some of the great issues - atomic warfare, the use of our natural resources, and the issue of nationalism - that I intend to be talking about in the remaining six weeks of this campaign, and I dare hope that the American people will be listening and that they will see that an Independent government of John Anderson and Patrick Lucey can give us the kind of coalition government that we need in 1980 to begin to solve our problems."
+   ]
+  },
+  {
+   "begin": "3589.840",
+   "children": [],
+   "end": "3590.960",
+   "id": "f000452",
+   "language": "en",
+   "lines": [
+    "Thank you."
+   ]
+  },
+  {
+   "begin": "3590.960",
+   "children": [],
+   "end": "3640.982",
+   "id": "TAIL",
+   "language": null,
+   "lines": []
+  }
+ ]
+}

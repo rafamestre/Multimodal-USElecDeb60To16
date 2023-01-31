@@ -1,0 +1,14 @@
+{
+    "batch_size": 64,
+    "conv1_filters": 4,
+    "conv1_kernel": 3,
+    "conv2_filters": 4,
+    "conv2_kernel": 5,
+    "dropout_audio": 0.6,
+    "hidden_activation": "sigmoid",
+    "lr": 1.891745257760601e-05,
+    "nb_neurons_bisltm_layer": 16,
+    "nb_neurons_dense": 32,
+    "pool1_size": 2,
+    "pool2_size": 2
+}
