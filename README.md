@@ -48,3 +48,22 @@ This is our previous work, in which we used the transcripts and audio from the 2
 
 This is an excellent work in which the authors presented a comprehensive comparison between multimodal datasets and architectures for argumentation mining, comparing the first work by Lippi and Torroni (2016) and our M-arg dataset and architecture (2021), as well as their own dataset, MM-USElecDeb60to16. Their dataset is also based on the USElecDeb60To16 data provides audio timestamps using the same method we use in the current paper and the M-Arg dataset. Both the present work and this one were prepared concurrently, and therefore both datasets can be considered equivalent. Out Multimodal USElecDeb60to16 is slightly larger than theirs, since we managed to fix some audio syncronisation issues, keeping a larger portion of the original dataset. We have not compared both datasets due to their significant size, but we're certain that both are of high quality. Their dataset can be found at: https://github.com/federicoruggeri/multimodal-am/
 
+
+## Subfolder structure
+
+The folders in this repository contain all relevant information to reproduce the results of our paper and use our dataset.
+
+1. The "*alignment*" folder contains all the alignment files with all the timestamps per sentence, as well as the parameters used for the alignment tool. There is a file "*alignment_problems.xlsx*" which reports all our decisions during the alignment process, such as modification of the original dataset ElecDeb60To16 by Haddadan *et al*. (2019).
+
+2. The folder "*results*" contains all the results from training our models with original and balanced datasets, as well as fractional subsets of 50%, 20% and 10%. We also include the training with artificial voices and from the ablation study. Each folder contains the parameters used by the model, confusion matrices of each run (5 runs per model), loss value vs epoch plots, training history with validation metrics, and precision/recall/F-score metrics for each run, as well as the average values. 
+
+3. The folder "*Multimodal ElecDeb60To16*" contains the original dataset released by Haddadan *et al*. (2019) as well as our audio-enhanced version with the timestamps and certain modifications to fix typos or mixed sentences that we discussed in the paper.
+
+4. The folders "*enUS_MarkM*" and "*enUS_ZiraM*" contain the artificially generated utterances of each sentence (said by candidates) in the dataset. 
+
+5. The folder "*Original*" is empty, as it would contain the original utterances from the candidates after being split. For copyright reasons, we can't provide them, but we provide scripts to download the video and do the splitting. We do provide, however, a Python pickle file with the extracted audio features of the utterances, called "*df_audio_features.pkl*". 
+
+6. The folder "*videos*" would contain the videos used for the alignment and feature extraction process. Due to copyright reasons, we cannot share them, but we provide scripts to obtain them. Feel free to email the authors about this.
+
+7. The folder "*codes*" contains all the Python scripts that we used in this work. They range from the master code for distributed hyperparameter tuning to the scripts that generate the artificial voices or split the audio into utterances. Requirement files are included.
+
