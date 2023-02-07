@@ -12,14 +12,14 @@ Please, if you use our dataset or find our paper useful, you can cite it in the 
 
 ```
 @inproceedings{mestre2023augmenting,
-title={Augmenting pre-trained language models with audio feature embedding for argumentation mining in political debates},
-author={Mestre, R. and Middleton, S. E. and Ryan, M. and Gheasi, M. and Norman, T. J. and Zhu, J.},
-booktitle={Findings of the 17th conference on European chapter of the Association for Computational Linguistics (EACL)},
-year={2023},
-month={May},
-publisher = "Association for Computational Linguistics",
-url = "",
-pages = "",
+  title={Augmenting pre-trained language models with audio feature embedding for argumentation mining in political debates},
+  author={Mestre, R. and Middleton, S. E. and Ryan, M. and Gheasi, M. and Norman, T. J. and Zhu, J.},
+  booktitle={Findings of the 17th conference on European chapter of the Association for Computational Linguistics (EACL)},
+  year={2023},
+  month={May},
+  publisher = "Association for Computational Linguistics",
+  url = "",
+  pages = "",
 }
 ```
 
@@ -55,7 +55,7 @@ The folders in this repository contain all relevant information to reproduce the
 
 1. The "*alignment*" folder contains all the alignment files with all the timestamps per sentence, as well as the parameters used for the alignment tool. There is a file "*alignment_problems.xlsx*" which reports all our decisions during the alignment process, such as modification of the original dataset ElecDeb60To16 by Haddadan *et al*. (2019).
 
-2. The folder "*results*" contains all the results from training our models with original and balanced datasets, as well as fractional subsets of 50%, 20% and 10%. We also include the training with artificial voices and from the ablation study. Each folder contains the parameters used by the model, confusion matrices of each run (5 runs per model), loss value vs epoch plots, training history with validation metrics, and precision/recall/F-score metrics for each run, as well as the average values. 
+2. The folder "*results*" contains all the results from training our models with original and balanced datasets, as well as fractional subsets of 50%, 20% and 10%. We also include the training with artificial voices and from the ablation study. Each folder contains the parameters used by the model, confusion matrices of each run (5 runs per model), loss value vs epoch plots, training history with validation metrics, and precision/recall/F-score metrics for each run, as well as the average values. **Note**: 'multimodal' refers to the BERT-based multimodal model, whereas 'multimodal2' refers to the BiLSTM-based multimodal model. 
 
 3. The folder "*Multimodal ElecDeb60To16*" contains the original dataset released by Haddadan *et al*. (2019) as well as our audio-enhanced version with the timestamps and certain modifications to fix typos or mixed sentences that we discussed in the paper.
 
@@ -63,7 +63,37 @@ The folders in this repository contain all relevant information to reproduce the
 
 5. The folder "*Original*" is empty, as it would contain the original utterances from the candidates after being split. For copyright reasons, we can't provide them, but we provide scripts to download the video and do the splitting. We do provide, however, a Python pickle file with the extracted audio features of the utterances, called "*df_audio_features.pkl*". 
 
-6. The folder "*videos*" would contain the videos used for the alignment and feature extraction process. Due to copyright reasons, we cannot share them, but we provide scripts to obtain them. Feel free to email the authors about this.
+6. The folder "*videos*" would contain the videos used for the alignment and feature extraction process. Due to copyright reasons, we cannot share them, but we provide scripts to obtain them using the file *YouTubeLinks.csv*. Feel free to email the authors about this. There is a subfolder called "*plain*" with the transcripts of the debates in "plain" format (that is, one line per sentence without speaker), which is used by the *aeneas* alignment tool.
 
 7. The folder "*codes*" contains all the Python scripts that we used in this work. They range from the master code for distributed hyperparameter tuning to the scripts that generate the artificial voices or split the audio into utterances. Requirement files are included.
 
+
+
+## Recovering audio features
+
+Audio features are provided as a Python pickle object that contains a dataframe with the following columns: 
+
+* 'ID': contains the ID of the sentence, in the following format "d[dd]y[yyyy]n[nnnn]", where [dd] represents the debate ID, [yyyy] the year of the debate, [nnnn] the sentence ID. For instance: d09y1980n0686.
+* 'filepath': contains the filepath of the audio file. For instance: enUS_ZiraM/rate200/10_1984/d10y1984n0032.wav. 
+* 'audio_features': contains all the audio features, with shape (45, 97), as they were appended for the audio models.
+* The remaining columns, 'mfccs', 'spectral_centroids', 'spectral_bandwidth', 'spectral_rolloff', 'spectral_contrast' and 'chroma_ft' are self-explainatory: they are the individual audio features of each sentence.
+
+Due to size limitations of GitHub, the audio features pickle file has been split into chunks of 1 GB each. For instance, inside the folder `enUS_ZiraM\rate200', there are four files called `df_audio_features-split.aa`, `df_audio_features-split.ab`, `df_audio_features-split.ac`, and `df_audio_features-split.ad`. These files have been created with the `split` command, as in:
+
+```
+split enUS_ZiraM/rate200/df_audio_features.pkl enUS_ZiraM/rate200/df_audio_features-split. -b 1G
+```
+
+To recover the original pickle file, called `df_audio_features.pkl`, you must call the following command:
+
+```
+cat enUS_ZiraM/rate200/df_audio_features-split.* > enUS_ZiraM/rate200/df_audio_features.pkl
+```
+
+Then, it can be read into Python with Pandas:
+
+```
+df = pd.read_pickle(filepath)
+```
+
+The audio features are provided for the artificial Zira and Mark voices (for these ones, also the individual utterances are provided in their respective folders, so audio features can be extracted manually if you wish to), and for the original debates (for copyright reasons, we cannot provide the original video or audio of the debates), only their features.
