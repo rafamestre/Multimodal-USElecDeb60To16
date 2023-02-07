@@ -1,0 +1,16 @@
+pandas==1.4.2
+numpy==1.22.3
+matplotlib==3.5.2
+seaborn==0.11.2
+tensorflow==2.8.0
+tensorflow-hub==0.12.0
+tensorflow-text==2.8.1
+nltk==3.7
+django==4.0.4
+scikit-learn==1.1.0
+pyttsx3==2.90
+gTTS==2.2.4
+playsound==1.2.2
+moviepy==1.0.3
+librosa==0.9.1 #ffmpeg is necessary for librosa
+protobuf==3.20.1 #Needed by tensorflow to not crash
