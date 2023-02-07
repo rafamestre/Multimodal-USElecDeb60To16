@@ -68,6 +68,10 @@ The folders in this repository contain all relevant information to reproduce the
 7. The folder "*codes*" contains all the Python scripts that we used in this work. They range from the master code for distributed hyperparameter tuning to the scripts that generate the artificial voices or split the audio into utterances. Requirement files are included.
 
 
+## Running the models and performing hyperparameter tuning
+
+TODO
+
 
 ## Recovering audio features
 
@@ -78,7 +82,7 @@ Audio features are provided as a Python pickle object that contains a dataframe 
 * 'audio_features': contains all the audio features, with shape (45, 97), as they were appended for the audio models.
 * The remaining columns, 'mfccs', 'spectral_centroids', 'spectral_bandwidth', 'spectral_rolloff', 'spectral_contrast' and 'chroma_ft' are self-explainatory: they are the individual audio features of each sentence.
 
-Due to size limitations of GitHub, the audio features pickle file has been split into chunks of 1 GB each. For instance, inside the folder `enUS_ZiraM\rate200', there are four files called `df_audio_features-split.aa`, `df_audio_features-split.ab`, `df_audio_features-split.ac`, and `df_audio_features-split.ad`. These files have been created with the `split` command, as in:
+Due to size limitations of GitHub, the audio features pickle file has been split into chunks of 1 GB each. For instance, inside the folder `enUS_ZiraM\rate200`, there are four files called `df_audio_features-split.aa`, `df_audio_features-split.ab`, `df_audio_features-split.ac`, and `df_audio_features-split.ad`. These files have been created with the `split` command, as in:
 
 ```
 split enUS_ZiraM/rate200/df_audio_features.pkl enUS_ZiraM/rate200/df_audio_features-split. -b 1G
