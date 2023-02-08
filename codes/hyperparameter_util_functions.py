@@ -389,6 +389,62 @@ def clean_text_tags(df, column = 'Speech'):
 
 
 
+def insert_timestamps(df, filepath_videos = Path(r'..\videos'), 
+                      video_list_filename = 'YoutubeLinks.csv',
+                      filepath_alignment = Path(r'..\alignment')):
+    """
+    Inserts the timestamps into the dataset.
+
+    Parameters
+    ----------
+    df : pd.DataFrame
+        A dataframe with the debates.
+    filepath_videos : Path, optional
+        The filepath where the videos are stored, by default Path(r'..\videos').
+    video_list_filename : str, optional
+        The filename of the csv file containing the video links, by default 'YoutubeLinks.csv'.
+    filepath_alignment : Path, optional
+        The filepath where the alignments are stored, by default Path(r'..\alignment').
+    
+    Returns
+    -------
+    df : pd.DataFrame
+        A dataframe containing the speech and the timestamps.
+    """
+
+
+    df_links = pd.read_csv(Path(filepath_videos,video_list_filename))
+
+    df_list = []
+    
+    for d in df['Document'].unique():
+        
+        try:
+            df_this = df[df['Document']==d]
+            f_align = d + '_' + df_links[df_links['Debate']==d]['Name'].values[0] + '_syncmap.csv'
+            df_timestamps = pd.read_csv(Path(filepath_alignment, f_align), header=None, 
+                                        names=['id','begin','end','text'])
+        except:
+            continue
+    
+        df_timestamps_no_silence = df_timestamps[df_timestamps['id'].str.contains('f')]
+        if len(df_timestamps_no_silence) != len(df_this):
+            raise Exception('The timestamps and the dataframe have different number of sentences for {}'.format(d))
+        else:
+            print('Transcript for debate {} has the correct number of sentences.'.format(d))
+    
+        df_this = df_this.assign(Timestamp_ID= df_timestamps_no_silence['id'].values )
+        df_this = df_this.assign(Begin_s= df_timestamps_no_silence['begin'].values )
+        df_this = df_this.assign(End_s= df_timestamps_no_silence['end'].values )
+    
+        df_list.append(df_this)
+
+        df_all = pd.concat(df_list)
+
+    return df_all
+
+
+
 
 
 def audio_padding(audio_features,max_shape):

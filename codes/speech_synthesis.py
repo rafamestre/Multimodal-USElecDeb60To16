@@ -46,49 +46,7 @@ def text_to_speech(row, synthesiser, filepath, column_text = 'Speech', column_ID
     text = row[column_text]
     ID = row[column_ID]
     
-    # synthetiser.say(text)
-    # print(Path(filepath, ID+'.mp3'))
     synthesiser.save_to_file(text,str(Path(filepath, ID+'.mp3')))
-    # synthesizer.runAndWait()
-
-
-def insert_timestamps(df):
-
-    ######INSERT THE TIMESTAMPS INTO THE DATASET
-    filepath_videos = Path(r'..\videos')
-
-    df_links = pd.read_csv(Path(filepath_videos,'YoutubeLinks.csv'))
-    # df = pd.read_csv(Path(filepath_processed,filename))
-
-    filepath_alignment = Path(r'..\alignment')
-    df_list = []
-    
-    for d in df['Document'].unique():
-        
-        try:
-            df_this = df[df['Document']==d]
-            f_align = d + '_' + df_links[df_links['Debate']==d]['Name'].values[0] + '_syncmap.csv'
-            df_timestamps = pd.read_csv(Path(filepath_alignment, f_align), header=None, 
-                                        names=['id','begin','end','text'])
-        except:
-            continue
-    
-        df_timestamps_no_silence = df_timestamps[df_timestamps['id'].str.contains('f')]
-        if len(df_timestamps_no_silence) != len(df_this):
-            raise Exception('The timestamps and the dataframe have different number of sentences for {}'.format(d))
-        else:
-            print('Transcript for debate {} has the correct number of sentences.'.format(d))
-    
-        df_this = df_this.assign(Timestamp_ID= df_timestamps_no_silence['id'].values )
-        df_this = df_this.assign(Begin_s= df_timestamps_no_silence['begin'].values )
-        df_this = df_this.assign(End_s= df_timestamps_no_silence['end'].values )
-    
-        df_list.append(df_this)
-
-        df_all = pd.concat(df_list)
-
-    return df_all
-
 
 
 
@@ -96,17 +54,8 @@ def insert_timestamps(df):
 
 # Read speech data
 filepath_data = Path(r'../Multimodal ElecDeb60To16') #Or change to your own directory
-filename = 'allDebates_withAnnotations.csv'
-df = pd.read_csv(Path(filepath_data,filename)) 
-
-
-    
-
-# Insert the timestamps
-df_all = insert_timestamps(df)
-
-# Clean the text for tags
-df_all = clean_text_tags(df_all)
+filename = 'allDebates_withAnnotations_all_timestamps.csv'
+df_all = pd.read_csv(Path(filepath_data,filename)) 
 
 
 # Retain only those that have arguments
