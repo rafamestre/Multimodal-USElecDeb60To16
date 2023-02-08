@@ -82,22 +82,12 @@ Audio features are provided as a Python pickle object that contains a dataframe 
 * 'audio_features': contains all the audio features, with shape (45, 97), as they were appended for the audio models.
 * The remaining columns, 'mfccs', 'spectral_centroids', 'spectral_bandwidth', 'spectral_rolloff', 'spectral_contrast' and 'chroma_ft' are self-explainatory: they are the individual audio features of each sentence.
 
-Due to size limitations of GitHub, the audio features pickle file has been split into chunks of 1 GB each. For instance, inside the folder `enUS_ZiraM\rate200`, there are four files called `df_audio_features-split.aa`, `df_audio_features-split.ab`, `df_audio_features-split.ac`, and `df_audio_features-split.ad`. These files have been created with the `split` command, as in:
+Due to size limitations of GitHub, we cannot upload the files here. Please, refer to the Zenodo archive of this repository, where we have added the files in a different version. 
 
-```
-split enUS_ZiraM/rate200/df_audio_features.pkl enUS_ZiraM/rate200/df_audio_features-split. -b 1G
-```
-
-To recover the original pickle file, called `df_audio_features.pkl`, you must call the following command:
-
-```
-cat enUS_ZiraM/rate200/df_audio_features-split.* > enUS_ZiraM/rate200/df_audio_features.pkl
-```
-
-Then, it can be read into Python with Pandas:
+They can be read into Python with Pandas:
 
 ```
 df = pd.read_pickle(filepath)
 ```
 
-The audio features are provided for the artificial Zira and Mark voices (for these ones, also the individual utterances are provided in their respective folders, so audio features can be extracted manually if you wish to), and for the original debates (for copyright reasons, we cannot provide the original video or audio of the debates), only their features.
+The audio features are provided for the artificial Zira and Mark voices (for these ones, also the individual utterances are provided in their respective folders [only on Zenodo archive], so audio features can be extracted manually if you wish to), and for the original debates, only their features (for copyright reasons, we cannot provide the original video or audio of the debates at all).
