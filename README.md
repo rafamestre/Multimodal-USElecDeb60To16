@@ -72,7 +72,7 @@ The folders in this repository contain all relevant information to reproduce the
 
 To perform hyperparameter tuning, we use the module Ray[tune], which is a Python library for fast hyperparameter tuning at scale. You can run a command like the following:
 
-```
+```python
 python hyperparameter_tuning.py --samples 50 --max-epochs 40 --num-cpus 2 --num-gpus 1 --model audio --balanced --name audiomodel_balanced --best-metric acc
 ```
 
