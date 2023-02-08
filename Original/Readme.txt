@@ -1,3 +1,0 @@
-The script "split_original_audio.py" takes the videos from the Videos folder and, using the timestamps contained in the file "allDebates_withAnnotations_all_timestamps.csv", splits the audio into a .wav file with each individual utterance. Due to copyright reasons, we cannot provide the audio files directly, but we provide a script to obtain the videos automatically.
-
-Upon calling the script extract_audio_features.py, with the default settings, it takes the audio files from this folder, extracts the features with the Librosa library and then saves the data in a dataframe in pickle format called "df_audio_features.pkl".
