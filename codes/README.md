@@ -2,7 +2,7 @@
 
 The `speech_synthesis.py` script is a simple code that runs through the sentences in the file [allDebates_withAnnotations_all_timestamps.csv](https://github.com/rafamestre/Multimodal-USElecDeb60To16/blob/main/Multimodal%20ElecDeb60To16/allDebates_withAnnotations_all_timestamps.csv) and produces artificial utterances using the Zira and Mark voices from Microsoft at a rate of 200 words per minute. The script creates a series of folders for each debate, named '1_1960', '2_1960', ..., '24_1996', '25_2000', ..., '43_2016'. Inside of each folder, it creates *.wav* files for each individual utterance, in the following format: "d[dd]y[yyyy]n[nnnn]", where [dd] represents the debate ID, [yyyy] the year of the debate, [nnnn] the sentence ID. For instance: d09y1980n0686.
 
-The paramters in the script can be modified to select a different rate of speech, as well as other voices found in the system, if they are installed. We provide the artificial utterances for both the Zira and Mark voices at 200 words per minute in the Zenodo repository.
+The parameters in the script can be modified to select a different rate of speech, as well as other voices found in the system, if they are installed. We provide the artificial utterances for both the Zira and Mark voices at 200 words per minute in the Zenodo repository.
 
 ## Extracting audio features
 
@@ -16,7 +16,7 @@ will run the script using the audio files in the folder `enUS_ZiraM/rate200` fro
 
 The folder `enUS_ZiraM/rate200` must contain the same folder and file structure that results from calling the script `speech_synthesis.py`, as described above. That is, it should contain a series of folders for each debate, named '1_1960', '2_1960', ..., '24_1996', '25_2000', ..., '43_2016'. Inside of each folder, there should be *.wav* files for each individual utterance, in the following format: "d[dd]y[yyyy]n[nnnn]", where [dd] represents the debate ID, [yyyy] the year of the debate, [nnnn] the sentence ID. For instance: d09y1980n0686.
 
-The script will loop through each one of the utterances, extract the audio features (MFCCs, spectral centroids, spectral bandwidth, spectral rolloff, spectral contrast, and chroma) and save them in a pickle object called `df_audio_features.pkl` in the folder specified by the --audio-dir argument. Check out the paper for more information about the audio features.
+The script will loop through each one of the utterances, extract the audio features (MFCCs, spectral centroids, spectral bandwidth, spectral rolloff, spectral contrast, and chroma) and save them in a pickle object called `df_audio_features.pkl` in the folder specified by the `--audio-dir` argument. Check out the paper for more information about the audio features.
 
 We provide the `df_audio_features.py.pkl` files in the Zenodo repository, not here, so you don't need to run this code to get the audio features of the artificial voices. Unfortunately, we cannot provide the utterances from the original videos to obtain the audio features due to copyright reasons, but we provide the `df_audio_features.py.pkl` of post-processed audio features in the Zenodo repository.
 
