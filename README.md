@@ -48,6 +48,11 @@ This is our previous work, in which we used the transcripts and audio from the 2
 
 This is an excellent work in which the authors presented a comprehensive comparison between multimodal datasets and architectures for argumentation mining, comparing the first work by Lippi and Torroni (2016) and our M-arg dataset and architecture (2021), as well as their own dataset, MM-USElecDeb60to16. Their dataset is also based on the USElecDeb60To16 data provides audio timestamps using the same method we use in the current paper and the M-Arg dataset. Both the present work and this one were prepared concurrently, and therefore both datasets can be considered equivalent. Out Multimodal USElecDeb60to16 is slightly larger than theirs, since we managed to fix some audio syncronisation issues, keeping a larger portion of the original dataset. We have not compared both datasets due to their significant size, but we're certain that both are of high quality. Their dataset can be found at: https://github.com/federicoruggeri/multimodal-am/
 
+## Main results
+
+In this paper, we  explored the possibilities of using audio to detect arguments with multimodal machine learning models in a dataset of US presidential debates that was annotated for arguments. We found that, generally, BERT-based text-only models outperformed all models in the original dataset, but multimodal models can improve performance when the datasets are small and BERT encodings start performing poorly, in both balanced and unbalanced versions of the data. Multimodal models are therefore an alternative that could be used to improve classifications of arguments when data is scarce. To further investigate the reasons for these improvements, we ran  audio-only models using artificially generated voices of male and female genders. Although we did not find a significant difference in the performance with the artificial voices (only a slight preference toward female), we find that in the most difficult scenarios (balanced and small datasets), the models with artificial voices outperform those with the original audio from the debates. Moreover, we perform an ablation study and we find that removing certain features like MFCCs can improve the performance of the models. We recognize that these features are commonly used to distinguish between speakers, so irrelevant characteristics of speakers might be influencing the capacity of the models to accurately classify arguments. However, all these features are highly correlated with one another, so further work should investigate which features are more independent from the speakers themselves or if they can be normalized before being fed into the network. These results should be compared with artificially generated voices, which could have different accents or speech rates to understand how those features can influence the classification of arguments.
+
+Read more in the paper, included in this repository.
 
 ## Subfolder structure
 
@@ -93,6 +98,8 @@ python hyperparameter_tuning.py --model audio
 ```
 
 Here, you will run a balanced audio model using the configuration file of the best model found before. The key argument is --optimize, which should be set to False to indicate that hyperparamter optimisation will NOT be done here. The model will be trained for 60 epochs 5 times, and statistics will be calculated out of the runs.
+
+Read more in the [codes](https://github.com/rafamestre/Multimodal-USElecDeb60To16/tree/main/codes) folder.
 
 ## Recovering audio features
 
