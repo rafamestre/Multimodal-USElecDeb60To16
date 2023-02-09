@@ -790,7 +790,7 @@ def parse_args(args):
                         default=Path('results'))
     parser.add_argument('--data-dir', type=str, 
                         help='Path to data directory.',
-                        default=Path('ElecDeb60To16'))
+                        default=Path('Multimodal ElecDeb60To16'))
     parser.add_argument('--audio-dir', type=str, 
                         help='Path to the directory where the audio segments are.',
                         default=Path(r'./Original'))

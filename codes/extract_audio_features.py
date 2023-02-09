@@ -90,11 +90,11 @@ def main():
     
     parser.add_argument('--data-dir', type=str, 
                         help='Directory where the dataset is.', 
-                        default=Path('ElecDeb60To16'))
+                        default=Path('../Multimodal ElecDeb60To16'))
 
     parser.add_argument('--audio-dir', type=str, 
                         help='Directory where the audio is.', 
-                        default=Path('Original'))
+                        default=Path('../Original'))
 
     parser.add_argument('--filename', type=str, 
                         help='Name of the dataset.', 
