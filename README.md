@@ -103,6 +103,8 @@ Read more in the [codes](https://github.com/rafamestre/Multimodal-USElecDeb60To1
 
 ## Recovering audio features
 
+**NOTE:** These audio features are not uploaded in this GitHub repository but in our Zenodo repository. 
+
 Audio features are provided as a Python pickle object that contains a dataframe with the following columns: 
 
 * 'ID': contains the ID of the sentence, in the following format "d[dd]y[yyyy]n[nnnn]", where [dd] represents the debate ID, [yyyy] the year of the debate, [nnnn] the sentence ID. For instance: d09y1980n0686.
