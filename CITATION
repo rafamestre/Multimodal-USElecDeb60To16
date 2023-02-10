@@ -1,0 +1,26 @@
+@inproceedings{mestre2023augmenting,
+  title={Augmenting pre-trained language models with audio feature embedding for argumentation mining in political debates},
+  author={Mestre, R. and Middleton, S. E. and Ryan, M. and Gheasi, M. and Norman, T. J. and Zhu, J.},
+  booktitle={Findings of the 17th conference on European chapter of the Association for Computational Linguistics (EACL)},
+  year={2023},
+  month={May},
+  publisher = "Association for Computational Linguistics",
+  url = "",
+  pages = "",
+}
+
+@dataset{mestre2023_multimodal,
+  author       = {Rafael Mestre and
+                  Stuart E. Middleton and
+                  Matt Ryan and
+                  Masood Gheasi and
+                  Timothy J. Norman and
+                  Jiatong Zhu},
+  title        = {rafamestre/Multimodal-USElecDeb60To16: v1.0.0},
+  month        = feb,
+  year         = 2023,
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  doi          = {10.5281/zenodo.7628465},
+  url          = {https://doi.org/10.5281/zenodo.7628465}
+}
