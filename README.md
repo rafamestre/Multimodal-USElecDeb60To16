@@ -68,7 +68,7 @@ The folders in this repository contain all relevant information to reproduce the
 
 5. The folder "*Original*" is empty, as it would contain the original utterances from the candidates after being split. For copyright reasons, we can't provide them, but we provide scripts to download the video and do the splitting. We do provide, however, a Python pickle file with the extracted audio features of the utterances, called "*df_audio_features.pkl*". 
 
-6. The folder "*videos*" would contain the videos used for the alignment and feature extraction process. Due to copyright reasons, we cannot share them, but we provide scripts to obtain them using the file *YouTubeLinks.csv*. Feel free to email the authors about this. There is a subfolder called "*plain*" with the transcripts of the debates in "plain" format (that is, one line per sentence without speaker), which is used by the *aeneas* alignment tool.
+6. The folder "*videos*" would contain the videos used for the alignment and feature extraction process. Due to copyright reasons, we cannot share them, but we provide the file *YouTubeLinks.csv* with the original sources. Feel free to email the authors about obtaining the videos. There is a subfolder called "*plain*" with the transcripts of the debates in "plain" format (that is, one line per sentence without speaker), which is used by the *aeneas* alignment tool.
 
 7. The folder "*codes*" contains all the Python scripts that we used in this work. They range from the master code for distributed hyperparameter tuning to the scripts that generate the artificial voices or split the audio into utterances. Requirement files are included.
 
