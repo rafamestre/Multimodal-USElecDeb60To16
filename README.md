@@ -25,8 +25,25 @@ Please, if you use our dataset or find our paper useful, you can cite it in the 
 
 And reference the dataset itself in this repository:
 
-DOI to be added
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7628465.svg)](https://doi.org/10.5281/zenodo.7628465)
 
+```
+@dataset{mestre2023_multimodal,
+  author       = {Rafael Mestre and
+                  Stuart E. Middleton and
+                  Matt Ryan and
+                  Masood Gheasi and
+                  Timothy J. Norman and
+                  Jiatong Zhu},
+  title        = {rafamestre/Multimodal-USElecDeb60To16: v1.0.0},
+  month        = feb,
+  year         = 2023,
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  doi          = {10.5281/zenodo.7628465},
+  url          = {https://doi.org/10.5281/zenodo.7628465}
+}
+```
 
 ## Related publications
 
