@@ -25,7 +25,7 @@ Please, if you use our dataset or find our paper useful, you can cite it in the 
 
 And reference the dataset itself in this repository:
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7628465.svg)](https://doi.org/10.5281/zenodo.7628465)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7628464.svg)](https://doi.org/10.5281/zenodo.7628464)
 
 ```
 @dataset{mestre2023_multimodal,
